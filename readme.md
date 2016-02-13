@@ -9,4 +9,14 @@ This data set consists of 3 days of IIS web logs from a sample e-commerce websit
 
 ## Exam-Scores
 
-A table of sample examination scores. Includes features such as class section, which exam version the student took (a-d), and how long it took the student to complete the exam.
+A table of sample examination scores. Includes the following features:
+
+- Class section (same exam issued to 2 different class periods)
+- Exam version, A thorough D (4 different version of the same exam)
+- Completion Time (time rounded up to nearest 5 minutes for student to complete the exam )
+- Made Own Study Guide (whether or not the student made her own study guide to prepare for the exam)
+- Did Exam Prep Assignment (whether or not the student completed the exam prep assignment as part of their study)
+- Studied in groups (whether or not the student studied in a group)
+- Student Score (raw score on the exam out of 30)
+- Percentage (same score as a percentage)
+- Letter Grade (score translated to a letter grade)
