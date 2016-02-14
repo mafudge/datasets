@@ -20,3 +20,7 @@ A table of sample examination scores. Includes the following features:
 - Student Score (raw score on the exam out of 30)
 - Percentage (same score as a percentage)
 - Letter Grade (score translated to a letter grade)
+
+## Funny-Names
+
+A list of fictitious, humorous people's names commonly used in my examples where I need the name of people to complete a dataset example.
