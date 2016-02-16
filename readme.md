@@ -6,6 +6,12 @@ This repository contains sample data sets used in the courses I teach. Each fold
 
 This data set consists of 3 days of IIS web logs from a sample e-commerce website (nopCommerce). The data set contains activity of anonymous users browsing products on the website. With the exception of spiders and robots, the he original IP addresses were replaced with other valid IP's. Included in the data set is an IP to location CSV (comma separated values) file.
 
+## Customers
+This data set contains base data about customers who have placed orders on an e-commerce website. It also includes a made up survey some of those customers might have filled out.  
+
+- Customer features include Name, Email, Gender, Last IP Address used, City, State, Total Number of Orders, Total Dollar amount of goods purchased, and number of months they have been a customer.  
+- Survey features include email, marital status, household income, whether or not they own a home, Highest degree of education, and favorite department.
+
 
 ## Exam-Scores
 
