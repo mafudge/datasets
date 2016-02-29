@@ -1,31 +1,31 @@
-First,Last,Email,Gender,Last IP Address,City,State,Total Orders,Total Purchased,Months Customer,,,,,,,,
-Oren,Jouglad,ojouglad@einrot.com,M,128.122.140.238,New York,NY,12,4500,36,,,,,,,,
-Lisa,Karfurless,lkarfurless@dayrep.com,F,172.189.252.8,Fairfax,VA,6,250,27,,,,,,,,
-Lee,Hvmeehom,lhvmeehom@einrot.com,F,215.82.23.2,Columbus,OH,9,207,18,,,,,,,,
-Sal,Ladd,sladd@superrito.com,M,23.112.202.16,Rochester,NY,14,594,10,,,,,,,,
-Victor,Rhee,vrhee@einrot.com,M,23.112.232.160,Green Bay,WI,0,0,2,,,,,,,,
-Carol,Ling,cling@superrito.com,F,23.180.242.66,Syracuse,NY,2,440,6,,,,,,,,
-Jean,Poole,jpoole@dayrep.com,F,23.182.25.40,Kingston,NY,7,185,12,,,,,,,,
-Justin,Case,jcase@dayrep.com,M,23.192.215.44,Boston,MA,3,1050,1,,,,,,,,
-Barry,DeHatchett,bdehatchett@dayrep.com,M,23.192.215.78,Boston,MA,1,15,6,,,,,,,,
-Mike,Rofone,mrofone@dayrep.com,M,23.224.160.4,Cheyenne,WY,0,0,0,,,,,,,,
-Ty,Anott,tanott@rhyta.com,M,23.230.12.5,San Jose,CA,1,50,3,,,,,,,,
-Abby,Kuss,akuss@rhyta.com,F,23.80.125.101,Phoenix,AZ,1,25,2,,,,,,,,
-Phil,Meaup,pmeaup@dayrep.com,M,23.83.132.200,Phoenix,AZ,4,930,24,,,,,,,,
-Tim,Pani,tpani@superrito.com,M,23.84.132.226,Buffalo,NY,0,0,1,,,,,,,,
-Rowan,Deboat,rdeboat@dayrep.com,M,23.84.32.22,Topeka,KS,1,3500,42,,,,,,,,
-Mary,Melator,mmelator@rhyta.com,F,23.88.15.5,Los Angeles,CA,8,4275,40,,,,,,,,
-Arial,Photo,aphoto@dayrep.com,F,24.0.14.56,Newark,NJ,1,680,1,,,,,,,,
-Cam,Rha,crha@einrot.com,M,24.1.25.140,Chicago,IL,0,0,1,,,,,,,,
-Bill,Melator,bmelator@einrot.com,M,24.11.125.10,Orem,UT,9,6090,35,,,,,,,,
-Tally,Itupp,titupp@superrito.com,F,24.38.114.105,Sea Cliff,NY,11,380,42,,,,,,,,
-Dan,Delyons,ddelyons@dayrep.com,M,24.38.224.161,Greenwich,CT,2,2570,10,,,,,,,,
-Candi,Cayne,ccayne@rhyta.com,F,24.39.14.15,Portland,ME,1,620,2,,,,,,,,
-Barb ,Barion,bbarion@superrito.com,F,38.68.15.223,Dallas,TX,4,1590,1,,,,,,,,
-Bette,Alott,balott@rhyta.com,F,56.216.127.219,Raleigh,NC,6,560,18,,,,,,,,
-Euron,Tasomthin,etasomthin@superrito.com,M,68.199.40.156,Hempstead,NY,13,4630,28,,,,,,,,
-Erin,Detyers,edetyers@dayrep.com,F,70.209.14.54,Tampa,FL,5,1105,38,,,,,,,,
-Al,Fresco,afresco@dayrep.com,M,74.111.18.161,Syracuse,NY,1,45,1,,,,,,,,
-Ray,Ovlight,rovlight@dayrep.com,M,74.111.18.59,Syracuse,NY,6,125,42,,,,,,,,
-Sara,Bellum,sbellum@superrito.com,F,74.111.6.173,Alexandria,VA,2,189,2,,,,,,,,
-Seymour,Ofewe,sofewe@dayrep.com,M,98.29.25.44,Cleveland,OH,9,1190,3,,,,,,,,
+First,Last,Email,Gender,Last IP Address,City,State,Total Orders,Total Purchased,Months Customer
+Al,Fresco,afresco@dayrep.com,M,74.111.18.161,Syracuse,NY,1,45,1
+Abby,Kuss,akuss@rhyta.com,F,23.80.125.101,Phoenix,AZ,1,25,2
+Arial,Photo,aphoto@dayrep.com,F,24.0.14.56,Newark,NJ,1,680,1
+Bette,Alott,balott@rhyta.com,F,56.216.127.219,Raleigh,NC,6,560,18
+Barb ,Barion,bbarion@superrito.com,F,38.68.15.223,Dallas,TX,4,1590,1
+Barry,DeHatchett,bdehatchett@dayrep.com,M,23.192.215.78,Boston,MA,1,15,6
+Bill,Melator,bmelator@einrot.com,M,24.11.125.10,Orem,UT,9,6090,35
+Candi,Cayne,ccayne@rhyta.com,F,24.39.14.15,Portland,ME,1,620,2
+Carol,Ling,cling@superrito.com,F,23.180.242.66,Syracuse,NY,2,440,6
+Cam,Rha,crha@einrot.com,M,24.1.25.140,Chicago,IL,0,0,1
+Dan,Delyons,ddelyons@dayrep.com,M,24.38.224.161,Greenwich,CT,2,2570,10
+Erin,Detyers,edetyers@dayrep.com,F,70.209.14.54,Tampa,FL,5,1105,38
+Euron,Tasomthin,etasomthin@superrito.com,M,68.199.40.156,Hempstead,NY,13,4630,28
+Justin,Case,jcase@dayrep.com,M,23.192.215.44,Boston,MA,3,1050,1
+Jean,Poole,jpoole@dayrep.com,F,23.182.25.40,Kingston,NY,7,185,12
+Lee,Hvmeehom,lhvmeehom@einrot.com,F,215.82.23.2,Columbus,OH,9,207,18
+Lisa,Karfurless,lkarfurless@dayrep.com,F,172.189.252.8,Fairfax,VA,6,250,27
+Mary,Melator,mmelator@rhyta.com,F,23.88.15.5,Los Angeles,CA,8,4275,40
+Mike,Rofone,mrofone@dayrep.com,M,23.224.160.4,Cheyenne,WY,0,0,0
+Oren,Jouglad,ojouglad@einrot.com,M,128.122.140.238,New York,NY,12,4500,36
+Phil,Meaup,pmeaup@dayrep.com,M,23.83.132.200,Phoenix,AZ,4,930,24
+Rowan,Deboat,rdeboat@dayrep.com,M,23.84.32.22,Topeka,KS,1,3500,42
+Ray,Ovlight,rovlight@dayrep.com,M,74.111.18.59,Syracuse,NY,6,125,42
+Sara,Bellum,sbellum@superrito.com,F,74.111.6.173,Alexandria,VA,2,189,2
+Sal,Ladd,sladd@superrito.com,M,23.112.202.16,Rochester,NY,14,594,10
+Seymour,Ofewe,sofewe@dayrep.com,M,98.29.25.44,Cleveland,OH,9,1190,3
+Ty,Anott,tanott@rhyta.com,M,23.230.12.5,San Jose,CA,1,50,3
+Tally,Itupp,titupp@superrito.com,F,24.38.114.105,Sea Cliff,NY,11,380,42
+Tim,Pani,tpani@superrito.com,M,23.84.132.226,Buffalo,NY,0,0,1
+Victor,Rhee,vrhee@einrot.com,M,23.112.232.160,Green Bay,WI,0,0,2
