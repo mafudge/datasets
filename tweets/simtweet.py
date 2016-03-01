@@ -1,10 +1,10 @@
+#!/usr/bin/python3
 import uuid
 import json
 import random
 import time
 import sys
 import getopt
-
 
 
 users = [
@@ -120,8 +120,8 @@ negative = [
 
 
 def printUsage():    
-    print('python test.py -c <count> -s <start-date> -e <end-date> -f <format>')
-    print('python test.py --count=<count> --startdate=<start-date> --enddate=<end-date> --format=<format>')
+    print('python simtweet.py -c <count> -s <start-date> -e <end-date> -f <format>')
+    print('python simtweet.py --count=<count> --startdate=<start-date> --enddate=<end-date> --format=<format>')
     print('')
     print('<count> is the number of tweets to generate')
     print('<start-date> is the date and time of the earliest tweet')
@@ -129,7 +129,7 @@ def printUsage():
     print('<format> is either json or psv (pipe-separated values)')
     print('')
     print('This prints 10 random tweets in the year 2015 output as json.')
-    print('python test.py -c 10 -s "1/1/2015 12:00 AM" -e "12/31/2015 11:59 PM" -f json')
+    print('python simtweet.py -c 10 -s "1/1/2015 12:00 AM" -e "12/31/2015 11:59 PM" -f json')
 
 def getCommandArgs(argv):
     try:
@@ -199,7 +199,7 @@ def neutralTweet(neutral):
     return random.choice(neutral)
 
 def tweet(timeStamp,user,text):
-    id = int(uuid.uuid1()) & (1<<64)-1
+    id = int(uuid.uuid4()) & (1<<62)-1
     unixtime = timeStamp
     timestamp= toTimeString(timeStamp)
     tweet = { "id" : id,
@@ -223,6 +223,6 @@ def randomUnixTimestamp(startTimeString, endTimeString, format_string = '%m/%d/%
 count, startDate, endDate, outFormat = getCommandArgs(sys.argv[1:])
 tweets = generateTweets(users, count, startDate, endDate, outFormat)
 if outFormat =='json':
-    print(toJson(tweets))
+    print(toJson(tweets),end='')
 else:
-    print(toPsv(tweets))
+    print(toPsv(tweets),end='')
