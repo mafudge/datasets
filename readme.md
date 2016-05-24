@@ -4,9 +4,9 @@ This repository contains sample data sets used in the courses I teach. Each fold
 
 ## Clickstream
 
-This data set consists of 3 days of IIS web logs from a sample e-commerce website (nopCommerce). 
-The data set contains activity of anonymous users browsing products on the website. 
-With the exception of spiders and robots, the he original IP addresses were replaced with other valid IP's. 
+This data set consists of 3 days of IIS web logs from a sample e-commerce website (nopCommerce).
+The data set contains activity of anonymous users browsing products on the website.
+With the exception of spiders and robots, the he original IP addresses were replaced with other valid IP's.
 Included in the data set is an IP to location CSV (comma separated values) file.
 
 NOTE: The IP addresses in the clickstream data cross reference to the customer data.
@@ -44,3 +44,9 @@ A table of sample examination scores. Includes the following features:
 ## Funny-Names
 
 A list of fictitious, humorous people's names commonly used in my examples where I need the name of people to complete a dataset example.
+
+## weather
+Scraped from weather underground, daily weather data for syracuse, NY. 1998 to present.
+
+# nyc311
+NYC 311 service requests on april fools day, 2016.
