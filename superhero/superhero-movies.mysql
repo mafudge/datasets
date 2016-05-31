@@ -1,0 +1,22 @@
+CREATE DATABASE  IF NOT EXISTS `superhero` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `superhero`;
+
+DROP TABLE IF EXISTS movies;
+
+CREATE TABLE movies (
+  year int,
+  title varchar(255),
+  comic varchar(10),
+  imdb_rating decimal(18,4),
+  rotten_tomatoes_rating decimal(18,4),
+  composite_rating decimal(18,4),
+  opening_weekend_box_office decimal(18,4),
+  avg_ticket_price_for_year decimal(18,4),
+  est_opening_weekend_attendance decimal(18,4),
+  us_pop_year_of_opening decimal(18,4)
+ );
+ 
+ LOAD DATA INFILE '/tmp/movies.csv' INTO TABLE movies FIELDS TERMINATED BY ',';
+ 
+ ALTER TABLE movies ADD COLUMN id int UNSIGNED PRIMARY KEY AUTO_INCREMENT;
+ 
