@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `fudgemart_v3` /*!40100 DEFAULT CHARACTER SET utf
 USE `fudgemart_v3`;
 -- MySQL dump 10.13  Distrib 5.7.9, for Win64 (x86_64)
 --
--- Host: localhost    Database: fudgemart_v3
+-- Host: 127.0.0.1    Database: fudgemart_v3
 -- ------------------------------------------------------
 -- Server version	5.7.12-log
 
@@ -25,11 +25,11 @@ DROP TABLE IF EXISTS `fudgemart_creditcards`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_creditcards` (
-  `creditcard_id` int(11) NOT NULL AUTO_INCREMENT,
+  `creditcard_id` int(11) NOT NULL,
   `creditcard_number` varchar(50) NOT NULL,
   `creditcard_exp_date` datetime(6) NOT NULL,
   PRIMARY KEY (`creditcard_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=57 DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -56,7 +56,7 @@ CREATE TABLE `fudgemart_customer_creditcards` (
   KEY `FK_customer_creditcards_creditcard_id` (`creditcard_id`),
   CONSTRAINT `FK_customer_creditcards_creditcard_id` FOREIGN KEY (`creditcard_id`) REFERENCES `fudgemart_creditcards` (`creditcard_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_customer_creditcards_customer_id` FOREIGN KEY (`customer_id`) REFERENCES `fudgemart_customers` (`customer_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -77,7 +77,7 @@ DROP TABLE IF EXISTS `fudgemart_customers`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_customers` (
-  `customer_id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer_id` int(11) NOT NULL,
   `customer_email` varchar(100) DEFAULT NULL,
   `customer_firstname` varchar(50) NOT NULL,
   `customer_lastname` varchar(50) NOT NULL,
@@ -88,7 +88,7 @@ CREATE TABLE `fudgemart_customers` (
   `customer_phone` varchar(30) NOT NULL,
   `customer_fax` varchar(30) DEFAULT NULL,
   PRIMARY KEY (`customer_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -111,7 +111,7 @@ DROP TABLE IF EXISTS `fudgemart_departments_lookup`;
 CREATE TABLE `fudgemart_departments_lookup` (
   `department_id` varchar(20) NOT NULL,
   PRIMARY KEY (`department_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -132,7 +132,7 @@ DROP TABLE IF EXISTS `fudgemart_employee_timesheets`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_employee_timesheets` (
-  `timesheet_id` int(11) NOT NULL AUTO_INCREMENT,
+  `timesheet_id` int(11) NOT NULL,
   `timesheet_payrolldate` datetime(6) NOT NULL,
   `timesheet_hourlyrate` decimal(19,4) NOT NULL DEFAULT '0.0000',
   `timesheet_employee_id` int(11) NOT NULL,
@@ -140,7 +140,7 @@ CREATE TABLE `fudgemart_employee_timesheets` (
   PRIMARY KEY (`timesheet_id`),
   KEY `FK_fudgemart_employee_timesheets_fudgemart_employees` (`timesheet_employee_id`),
   CONSTRAINT `FK_fudgemart_employee_timesheets_fudgemart_employees` FOREIGN KEY (`timesheet_employee_id`) REFERENCES `fudgemart_employees` (`employee_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB AUTO_INCREMENT=6276 DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -179,7 +179,7 @@ CREATE TABLE `fudgemart_employees` (
   KEY `FK_employee_jobtitle` (`employee_jobtitle`),
   CONSTRAINT `FK_employee_department` FOREIGN KEY (`employee_department`) REFERENCES `fudgemart_departments_lookup` (`department_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_employee_jobtitle` FOREIGN KEY (`employee_jobtitle`) REFERENCES `fudgemart_jobtitles_lookup` (`jobtitle_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -202,7 +202,7 @@ DROP TABLE IF EXISTS `fudgemart_jobtitles_lookup`;
 CREATE TABLE `fudgemart_jobtitles_lookup` (
   `jobtitle_id` varchar(20) NOT NULL,
   PRIMARY KEY (`jobtitle_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -230,7 +230,7 @@ CREATE TABLE `fudgemart_order_details` (
   KEY `FK_order_details_items` (`product_id`),
   CONSTRAINT `FK_order_details_items` FOREIGN KEY (`product_id`) REFERENCES `fudgemart_products` (`product_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_order_details_orders` FOREIGN KEY (`order_id`) REFERENCES `fudgemart_orders` (`order_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -264,7 +264,7 @@ CREATE TABLE `fudgemart_orders` (
   CONSTRAINT `FK_order_shipvia` FOREIGN KEY (`ship_via`) REFERENCES `fudgemart_shipvia_lookup` (`ship_via`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_orders_creditcard_id` FOREIGN KEY (`creditcard_id`) REFERENCES `fudgemart_creditcards` (`creditcard_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_orders_customers` FOREIGN KEY (`customer_id`) REFERENCES `fudgemart_customers` (`customer_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -285,7 +285,7 @@ DROP TABLE IF EXISTS `fudgemart_products`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_products` (
-  `product_id` int(11) NOT NULL AUTO_INCREMENT,
+  `product_id` int(11) NOT NULL,
   `product_department` varchar(20) NOT NULL,
   `product_name` varchar(50) NOT NULL,
   `product_retail_price` decimal(19,4) NOT NULL,
@@ -300,7 +300,7 @@ CREATE TABLE `fudgemart_products` (
   KEY `FK_fudgemart_products_product_department` (`product_department`),
   CONSTRAINT `FK_fudgemart_products_fudgemart_vendors` FOREIGN KEY (`product_vendor_id`) REFERENCES `fudgemart_vendors` (`vendor_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `FK_fudgemart_products_product_department` FOREIGN KEY (`product_department`) REFERENCES `fudgemart_departments_lookup` (`department_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB AUTO_INCREMENT=54 DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -323,7 +323,7 @@ DROP TABLE IF EXISTS `fudgemart_shipvia_lookup`;
 CREATE TABLE `fudgemart_shipvia_lookup` (
   `ship_via` varchar(20) NOT NULL,
   PRIMARY KEY (`ship_via`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -344,13 +344,13 @@ DROP TABLE IF EXISTS `fudgemart_vendors`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_vendors` (
-  `vendor_id` int(11) NOT NULL AUTO_INCREMENT,
+  `vendor_id` int(11) NOT NULL,
   `vendor_name` varchar(50) NOT NULL,
   `vendor_phone` varchar(20) NOT NULL,
   `vendor_website` varchar(1000) DEFAULT NULL,
   PRIMARY KEY (`vendor_id`),
   UNIQUE KEY `U_fm_vendor_name_unique` (`vendor_name`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8;
+);
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -372,4 +372,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2016-05-31 11:52:03
+-- Dump completed on 2016-06-06 10:34:54
