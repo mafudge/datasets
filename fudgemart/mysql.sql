@@ -25,9 +25,9 @@ DROP TABLE IF EXISTS `fudgemart_creditcards`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_creditcards` (
-  `creditcard_id` int(11) NOT NULL,
+  `creditcard_id` int NOT NULL,
   `creditcard_number` varchar(50) NOT NULL,
-  `creditcard_exp_date` datetime(6) NOT NULL,
+  `creditcard_exp_date` datetime NOT NULL,
   PRIMARY KEY (`creditcard_id`)
 );
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -50,8 +50,8 @@ DROP TABLE IF EXISTS `fudgemart_customer_creditcards`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_customer_creditcards` (
-  `customer_id` int(11) NOT NULL,
-  `creditcard_id` int(11) NOT NULL,
+  `customer_id` int NOT NULL,
+  `creditcard_id` int NOT NULL,
   PRIMARY KEY (`customer_id`,`creditcard_id`),
   KEY `FK_customer_creditcards_creditcard_id` (`creditcard_id`),
   CONSTRAINT `FK_customer_creditcards_creditcard_id` FOREIGN KEY (`creditcard_id`) REFERENCES `fudgemart_creditcards` (`creditcard_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
@@ -77,7 +77,7 @@ DROP TABLE IF EXISTS `fudgemart_customers`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_customers` (
-  `customer_id` int(11) NOT NULL,
+  `customer_id` int NOT NULL,
   `customer_email` varchar(100) DEFAULT NULL,
   `customer_firstname` varchar(50) NOT NULL,
   `customer_lastname` varchar(50) NOT NULL,
@@ -132,10 +132,10 @@ DROP TABLE IF EXISTS `fudgemart_employee_timesheets`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_employee_timesheets` (
-  `timesheet_id` int(11) NOT NULL,
-  `timesheet_payrolldate` datetime(6) NOT NULL,
+  `timesheet_id` int NOT NULL,
+  `timesheet_payrolldate` datetime NOT NULL,
   `timesheet_hourlyrate` decimal(19,4) NOT NULL DEFAULT '0.0000',
-  `timesheet_employee_id` int(11) NOT NULL,
+  `timesheet_employee_id` int NOT NULL,
   `timesheet_hours` decimal(3,1) NOT NULL,
   PRIMARY KEY (`timesheet_id`),
   KEY `FK_fudgemart_employee_timesheets_fudgemart_employees` (`timesheet_employee_id`),
@@ -161,18 +161,18 @@ DROP TABLE IF EXISTS `fudgemart_employees`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_employees` (
-  `employee_id` int(11) NOT NULL,
+  `employee_id` int NOT NULL,
   `employee_ssn` char(9) NOT NULL,
   `employee_lastname` varchar(50) NOT NULL,
   `employee_firstname` varchar(50) NOT NULL,
   `employee_jobtitle` varchar(20) NOT NULL,
   `employee_department` varchar(20) NOT NULL,
-  `employee_birthdate` datetime(6) NOT NULL,
+  `employee_birthdate` datetime NOT NULL,
   `employee_hiredate` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `employee_termdate` datetime(6) DEFAULT NULL,
+  `employee_termdate` datetime DEFAULT NULL,
   `employee_hourlywage` decimal(19,4) NOT NULL,
   `employee_fulltime` tinyint(1) NOT NULL DEFAULT '0',
-  `employee_supervisor_id` int(11) DEFAULT NULL,
+  `employee_supervisor_id` int DEFAULT NULL,
   PRIMARY KEY (`employee_id`),
   UNIQUE KEY `U_fm_employee_ssn` (`employee_ssn`),
   KEY `FK_employee_department` (`employee_department`),
@@ -223,9 +223,9 @@ DROP TABLE IF EXISTS `fudgemart_order_details`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_order_details` (
-  `order_id` int(11) NOT NULL,
-  `product_id` int(11) NOT NULL,
-  `order_qty` int(11) NOT NULL,
+  `order_id` int NOT NULL,
+  `product_id` int NOT NULL,
+  `order_qty` int NOT NULL,
   PRIMARY KEY (`order_id`,`product_id`),
   KEY `FK_order_details_items` (`product_id`),
   CONSTRAINT `FK_order_details_items` FOREIGN KEY (`product_id`) REFERENCES `fudgemart_products` (`product_id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
@@ -251,12 +251,12 @@ DROP TABLE IF EXISTS `fudgemart_orders`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_orders` (
-  `order_id` int(11) NOT NULL,
-  `customer_id` int(11) NOT NULL,
-  `order_date` datetime(6) NOT NULL,
-  `shipped_date` datetime(6) DEFAULT NULL,
+  `order_id` int NOT NULL,
+  `customer_id` int NOT NULL,
+  `order_date` datetime NOT NULL,
+  `shipped_date` datetime DEFAULT NULL,
   `ship_via` varchar(20) NOT NULL,
-  `creditcard_id` int(11) NOT NULL,
+  `creditcard_id` int NOT NULL,
   PRIMARY KEY (`order_id`),
   KEY `FK_orders_customers` (`customer_id`),
   KEY `FK_order_shipvia` (`ship_via`),
@@ -285,14 +285,14 @@ DROP TABLE IF EXISTS `fudgemart_products`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_products` (
-  `product_id` int(11) NOT NULL,
+  `product_id` int NOT NULL,
   `product_department` varchar(20) NOT NULL,
   `product_name` varchar(50) NOT NULL,
   `product_retail_price` decimal(19,4) NOT NULL,
   `product_wholesale_price` decimal(19,4) NOT NULL,
   `product_is_active` tinyint(1) NOT NULL DEFAULT '1',
   `product_add_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `product_vendor_id` int(11) NOT NULL,
+  `product_vendor_id` int NOT NULL,
   `product_description` varchar(1000) DEFAULT NULL,
   PRIMARY KEY (`product_id`),
   UNIQUE KEY `U_fm_product_name_unique` (`product_name`),
@@ -344,7 +344,7 @@ DROP TABLE IF EXISTS `fudgemart_vendors`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `fudgemart_vendors` (
-  `vendor_id` int(11) NOT NULL,
+  `vendor_id` int NOT NULL,
   `vendor_name` varchar(50) NOT NULL,
   `vendor_phone` varchar(20) NOT NULL,
   `vendor_website` varchar(1000) DEFAULT NULL,
