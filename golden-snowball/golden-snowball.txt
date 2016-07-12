@@ -1,0 +1,5 @@
+﻿Syracuse	80.3	
+Rochester	63.7	
+Buffalo	55.1	
+Binghamton	32.0	
+Albany	16.9
