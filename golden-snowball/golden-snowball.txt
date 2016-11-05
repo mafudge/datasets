@@ -1,4 +1,4 @@
-﻿City  Snowfall
+﻿City Snowfall
 Syracuse	80.3
 Rochester	63.7
 Buffalo	55.1
