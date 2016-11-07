@@ -1,8 +1,3 @@
-Uniform Crime Reporting Statistics - UCR Data Online
-http://www.ucrdatatool.gov/
-
-
-"Crime reported by Syracuse Police Dept, New York"
 Year,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
 1985,12,     164659,       1013,          12,          80,         551,         370,      11037,       3741,       6870,         426,         615.2,           7.3,          48.6,         334.6,         224.7,       6702.9,       2272.0,       4172.3,         258.7
 1986,12,     164560,       1108,           9,          61,         552,         486,      11097,       3646,       6954,         497,         673.3,           5.5,          37.1,         335.4,         295.3,       6743.4,       2215.6,       4225.8,         302.0
@@ -32,16 +27,3 @@ Year,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,
 2010,12,     145170,       1291,          15,          68,         377,         831,       5708,       2174,       3167,         367,         889.3,          10.3,          46.8,         259.7,         572.4,       3931.9,       1497.6,       2181.6,         252.8
 2011,12,     145822,       1302,          11,          63,         388,         840,       5275,       1705,       3261,         309,         892.9,           7.5,          43.2,         266.1,         576.0,       3617.4,       1169.2,       2236.3,         211.9
 2012,12,     145934,       1372,          14,          75,         454,         829,       5976,       1896,       3698,         382,         940.2,           9.6,          51.4,         311.1,         568.1,       4095.0,       1299.2,       2534.0,         261.8
-
-"Notes: When data are unavailable, the cells are blank or the year is not presented."
-
-
-
-"           Rates are the number of reported offenses per 100,000 population"
-
-          Crime rates are not available for agencies that report data for less than 12 months of a year.
-
-"New York agencies 2012 - Because of changes in the state/local agency's reporting practices, figures are not comparable to previous years' data."
-
-"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data"
-Date of download: Nov 07 2016
