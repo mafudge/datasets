@@ -1,4 +1,4 @@
-Class Section,Exam Version,Completion Time,Made Own Study Guide,Did Exam Prep Assignment,Studied In Groups,Student Score,Percentage,Letter Grade
+Class_Section,Exam_Version,Completion_Time,Made_Own_Study_Guide,Did_Exam_Prep Assignment,Studied_In_Groups,Student_Score,Percentage,Letter_Grade
 M01,A,20,N,N,Y,24,80.00%,B
 M01,A,20,?,?,?,27,90.00%,A-
 M01,A,30,Y,Y,Y,30,100.00%,A
