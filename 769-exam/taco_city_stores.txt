@@ -1,0 +1,11 @@
+store_id city state
+1 Syracuse NY
+2 Syracuse NY
+3 Syracuse NY
+4 Rochester NY
+5 Rochester NY
+6 Buffalo NY
+7 Buffalo NY
+8 Syracuse NY
+9 Rochester NY
+10 Buffalo NY
