@@ -1,1014 +1,1014 @@
 order_id,store_id,quantity,item_name,choice_description,item_price
-1446,8,2,Canned Soft Drink,Diet Coke,$2.50 
-1446,8,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Rice, Cheese",$8.75 
-1446,8,1,Chips and Guacamole,,$4.45 
-1447,8,2,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Fajita Veggies, Pinto Beans, Rice",$16.98 
-1448,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1448,8,1,6 Pack Soft Drink,Nestea,$6.49 
-1449,8,2,Chicken Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",$16.98 
-1449,8,2,Steak Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",$17.98 
-1449,8,2,Veggie Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",$16.98 
-1449,8,2,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",$16.98 
-1449,8,1,Carnitas Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Lettuce",$8.99 
-1449,8,1,Carnitas Soft Tacos,"Fresh Tomato Salsa (Mild), Rice, Cheese, Lettuce",$8.99 
-1449,8,1,Chicken Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Lettuce",$8.49 
-1450,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Lettuce",$9.25 
-1450,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Lettuce",$8.75 
-1450,8,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1451,8,1,Steak Soft Tacos,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Rice, Fajita Veggies, Cheese, Guacamole, Lettuce",$11.48 
-1451,8,1,Chips and Tomatillo-Green Chili Salsa,,$2.39 
-1452,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Pinto Beans, Lettuce",$8.99 
-1452,8,1,Chips and Roasted Chili-Corn Salsa,,$2.39 
-1453,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",$11.25 
-1453,8,1,Chips and Guacamole,,$4.45 
-1453,8,1,Chicken Crispy Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1453,8,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1454,8,1,6 Pack Soft Drink,Coke,$6.49 
-1454,8,3,Chicken Burrito,Fresh Tomato Salsa,$26.25 
-1454,8,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice",$8.75 
-1454,8,3,Chicken Burrito,"Fresh Tomato Salsa, Rice",$26.25 
-1454,8,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice",$8.75 
-1454,8,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Rice",$8.75 
-1455,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1455,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Guacamole, Lettuce",$11.25 
-1455,8,1,Chips,,$2.15 
-1456,8,1,Canned Soft Drink,Sprite,$1.25 
-1456,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1457,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1457,8,1,Chips,,$2.15 
-1457,8,1,Bottled Water,,$1.50 
-1458,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole, Fajita Vegetables",$11.25 
-1458,8,1,Chips,,$2.15 
-1459,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Pinto Beans, Rice, Fajita Veggies, Cheese, Lettuce",$8.99 
-1459,8,1,Chips and Tomatillo-Red Chili Salsa,,$2.39 
-1460,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Cheese, Guacamole, Lettuce",$11.25 
-1460,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Guacamole",$11.25 
-1460,8,1,Chips,,$2.15 
-1461,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Guacamole",$11.25 
-1461,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1461,8,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Lettuce",$8.75 
-1462,8,2,Chips and Tomatillo-Green Chili Salsa,,$4.78 
-1462,8,2,Chicken Soft Tacos,"Tomatillo-Green Chili Salsa (Medium), Fresh Tomato Salsa (Mild), Cheese, Sour Cream, Guacamole",$21.96 
-1463,8,1,Veggie Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1463,8,1,Chips and Tomatillo-Red Chili Salsa,,$2.39 
-1464,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",$9.25 
-1464,8,1,Chips and Fresh Tomato Salsa,,$2.95 
-1465,8,2,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Fajita Veggies",$16.98 
-1466,8,1,Chicken Bowl,"Fresh Tomato (Mild), Lettuce, Fajita Veggies, Pinto Beans, Rice, Sour Cream, Cheese",$8.19 
-1466,8,1,Chips and Guacamole,,$3.89 
-1467,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",$8.99 
-1467,8,1,Bottled Water,,$1.09 
-1468,8,1,Steak Burrito,"Tomatillo-Green Chili Salsa (Medium), Rice, Fajita Veggies, Cheese, Lettuce",$8.99 
-1468,8,1,Izze,Blackberry,$3.39 
-1469,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1469,8,1,Chips and Guacamole,,$4.45 
-1470,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole",$10.98 
-1470,8,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole",$10.98 
-1471,8,2,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$17.50 
-1472,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",$11.25 
-1472,8,1,Canned Soft Drink,Coke,$1.25 
-1472,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Lettuce",$8.75 
-1473,8,1,Steak Burrito,"Fresh Tomato Salsa, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1473,8,1,Chips and Guacamole,,$4.45 
-1474,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole",$11.25 
-1474,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Rice, Guacamole",$11.25 
-1475,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild), Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.99 
-1475,8,1,Canned Soda,Coca Cola,$1.09 
-1476,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Black Beans, Fajita Veggies, Guacamole",$10.98 
-1476,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild), Rice, Pinto Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1476,8,1,Side of Chips,,$1.69 
-1477,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Guacamole",$11.25 
-1477,8,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1478,8,2,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Sour Cream, Cheese, Black Beans, Rice",$16.98 
-1479,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1479,8,1,Chips and Guacamole,,$4.45 
-1480,8,1,Chicken Burrito,"Roasted Chili Corn Salsa, Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream",$11.25 
-1480,8,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1480,8,1,Steak Crispy Tacos,"Tomatillo Green Chili Salsa, Cheese, Sour Cream, Guacamole",$11.75 
-1481,8,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1481,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1482,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",$8.75 
-1482,8,1,Chips and Guacamole,,$4.45 
-1482,8,2,Canned Soft Drink,Diet Coke,$2.50 
-1483,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1483,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Cheese",$8.75 
-1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1483,8,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1483,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans",$9.25 
-1483,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1483,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream",$8.75 
-1483,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1483,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Guacamole",$11.75 
-1483,8,1,Carnitas Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Lettuce",$9.25 
-1483,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1484,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream",$8.49 
-1484,8,1,Canned Soda,Dr. Pepper,$1.09 
-1484,8,1,Canned Soda,Dr. Pepper,$1.09 
-1485,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",$8.49 
-1485,8,1,Canned Soda,Diet Dr. Pepper,$1.09 
-1485,8,1,Side of Chips,,$1.69 
-1486,8,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Lettuce, Rice, Cheese, Sour Cream, Black Beans",$11.25 
-1486,8,1,Canned Soft Drink,Lemonade,$1.25 
-1487,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables",$8.75 
-1487,8,1,Chips,,$2.15 
-1487,8,1,Bottled Water,,$1.50 
-1488,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1488,8,1,Side of Chips,,$1.69 
-1489,8,1,Canned Soft Drink,Diet Coke,$1.25 
-1489,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$8.75 
-1489,8,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1490,8,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Black Beans",$8.49 
-1490,8,1,Chips and Guacamole,,$3.99 
-1491,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice",$8.49 
-1491,8,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Black Beans, Cheese, Lettuce",$8.49 
-1492,8,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1492,8,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1492,8,1,Chips,,$2.15 
-1493,8,1,Bottled Water,,$1.50 
-1493,8,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1494,8,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Rice, Cheese, Sour Cream",$8.99 
-1494,8,1,Canned Soda,Sprite,$1.09 
-1495,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Guacamole",$10.98 
-1496,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Guacamole, Lettuce",$10.98 
-1497,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1497,8,1,Canned Soft Drink,Sprite,$1.25 
-1498,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1498,8,1,Chips and Guacamole,,$4.45 
-1499,8,1,Chips and Guacamole,,$4.45 
-1499,8,1,Canned Soft Drink,Sprite,$1.25 
-1499,8,1,Carnitas Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.89 
-1500,8,1,Carnitas Salad,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream",$8.99 
-1500,8,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream",$8.99 
-1501,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1501,8,1,Chips and Guacamole,,$4.45 
-1502,8,2,Steak Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$23.50 
-1503,8,1,Veggie Burrito,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1503,8,1,Chips and Guacamole,,$3.99 
-1504,8,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1504,8,1,Chips and Guacamole,,$4.45 
-1505,8,1,Chips and Guacamole,,$4.45 
-1505,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$9.25 
-1506,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1506,8,1,Chips and Guacamole,,$4.45 
-1507,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1507,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1508,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1508,8,1,6 Pack Soft Drink,Coke,$6.49 
-1509,8,2,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",$17.50 
-1509,8,1,Chips and Guacamole,,$4.45 
-1510,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",$8.75 
-1510,8,1,Chips and Fresh Tomato Salsa,,$2.95 
-1510,8,1,Bottled Water,,$1.50 
-1511,8,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",$8.75 
-1511,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice",$8.75 
-1511,8,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1511,8,1,Chips and Guacamole,,$4.45 
-1511,8,1,Veggie Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1512,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Guacamole",$11.25 
-1512,8,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1513,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1513,8,1,Chips and Roasted Chili Corn Salsa,,$2.95 
-1514,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1514,8,1,Chips and Guacamole,,$4.45 
-1514,8,2,Bottled Water,,$3.00 
-1514,8,1,Canned Soft Drink,Diet Coke,$1.25 
-1515,8,1,Chips and Fresh Tomato Salsa,,$2.95 
-1515,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",$9.25 
-1516,8,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",$8.99 
-1516,8,1,Chips and Tomatillo-Green Chili Salsa,,$2.39 
-1517,8,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1517,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",$8.75 
-1517,8,2,Chips and Guacamole,,$8.90 
-1518,8,1,Carnitas Bowl,"Fresh Tomato Salsa (Mild), Fajita Veggies, Cheese, Sour Cream, Guacamole",$11.48 
-1518,8,1,Canned Soda,Diet Coke,$1.09 
-1519,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce",$10.98 
-1520,8,1,Barbacoa Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",$9.25 
-1520,8,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce",$9.25 
-1521,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Guacamole, Lettuce",$11.25 
-1521,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",$8.75 
-1522,8,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",$11.75 
-1522,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",$11.25 
-1523,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1523,8,1,Canned Soft Drink,Nestea,$1.25 
-1524,8,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream",$9.25 
-1524,8,1,Chips and Guacamole,,$4.45 
-1525,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1525,8,1,6 Pack Soft Drink,Sprite,$6.49 
-1526,8,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1526,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1527,8,1,Barbacoa Burrito,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream",$8.99 
-1527,8,1,Chips and Tomatillo-Green Chili Salsa,,$2.39 
-1528,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",$8.49 
-1528,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1529,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1529,8,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1530,8,1,Canned Soft Drink,Coke,$1.25 
-1530,8,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1530,8,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1531,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Cheese, Guacamole, Lettuce",$11.75 
-1531,8,1,Chips,,$2.15 
-1532,8,1,Veggie Bowl,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1532,8,1,Veggie Burrito,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1533,8,1,Barbacoa Bowl,"Fresh Tomato (Mild), Lettuce, Rice, Cheese",$8.69 
-1533,8,2,Chicken Burrito,"Lettuce, Rice",$16.38 
-1533,8,1,Chicken Burrito,Rice,$8.19 
-1533,8,1,Chips and Guacamole,,$3.89 
-1533,8,1,Chips and Fresh Tomato Salsa,,$2.29 
-1534,8,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",$11.75 
-1534,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1534,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1535,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1535,8,1,Chips and Guacamole,,$4.45 
-1536,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1536,8,1,Chicken Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1537,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",$9.25 
-1537,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1537,8,1,6 Pack Soft Drink,Coke,$6.49 
-1537,8,1,Chips and Fresh Tomato Salsa,,$2.95 
-1538,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1538,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1538,8,1,Chips,,$2.15 
-1539,8,1,Steak Burrito,"Fresh Tomato Salsa, Pinto Beans, Cheese, Sour Cream",$9.25 
-1539,8,1,Steak Burrito,"Fresh Tomato Salsa, Pinto Beans, Cheese, Sour Cream, Guacamole",$11.75 
-1540,8,2,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Rice, Pinto Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole",$21.96 
-1541,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Rice, Fajita Veggies, Cheese, Lettuce",$8.49 
-1541,8,1,N/Atucket Nectar,Peach Orange,$3.39 
-1541,8,1,Side of Chips,,$1.69 
-1541,8,1,Veggie Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1542,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1542,8,1,Chips and Guacamole,,$4.45 
-1543,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1543,8,1,Chips and Guacamole,,$3.99 
-1544,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",$11.25 
-1544,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1545,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1545,8,1,Chips,,$2.15 
-1546,8,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1546,8,1,Chips and Guacamole,,$4.45 
-1547,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1547,8,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",$9.25 
-1547,8,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese",$8.75 
-1548,8,2,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$18.50 
-1549,8,1,Bottled Water,,$1.50 
-1549,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1549,8,1,Chips,,$2.15 
-1550,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce",$11.48 
-1550,8,2,Canned Soda,Mountain Dew,$2.18 
-1550,8,1,Chips and Guacamole,,$3.99 
-1551,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1551,8,1,Bottled Water,,$1.50 
-1552,8,1,Steak Soft Tacos,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream",$8.99 
-1552,8,1,Chips and Tomatillo-Green Chili Salsa,,$2.39 
-1553,8,1,Steak Burrito,"Roasted Chili Corn Salsa, Pinto Beans, Rice, Guacamole, Sour Cream, Cheese",$11.75 
-1553,8,1,Bottled Water,,$1.50 
-1554,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1554,8,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1554,8,1,Chips and Guacamole,,$4.45 
-1554,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1555,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",$8.49 
-1555,8,1,Chips and Guacamole,,$3.99 
-1556,8,2,Canned Soft Drink,Coke,$2.50 
-1556,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1556,8,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1557,8,1,Chips and Guacamole,,$3.99 
-1557,8,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Pinto Beans, Cheese",$8.99 
-1558,8,1,Chicken Bowl,"Fresh Tomato Salsa, Cheese",$8.75 
-1558,8,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1559,8,8,Side of Chips,,$13.52 
-1559,8,2,Chicken Soft Tacos,"Fresh Tomato Salsa (Mild), Pinto Beans, Rice, Cheese, Lettuce",$16.98 
-1559,8,2,Veggie Soft Tacos,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Lettuce",$16.98 
-1559,8,2,Carnitas Crispy Tacos,"Fresh Tomato Salsa (Mild), Cheese, Lettuce",$17.98 
-1559,8,2,Chicken Crispy Tacos,"Fresh Tomato Salsa (Mild), Rice, Cheese, Sour Cream, Lettuce",$16.98 
-1560,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1560,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1561,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1561,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1562,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1562,8,1,Canned Soda,Mountain Dew,$1.09 
-1562,8,1,Side of Chips,,$1.69 
-1563,8,1,Canned Soft Drink,Lemonade,$1.25 
-1563,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1563,8,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1564,8,1,Barbacoa Burrito,"Fresh Tomato (Mild), Black Beans, Rice, Sour Cream, Cheese",$8.69 
-1564,8,1,Chicken Burrito,"Fresh Tomato (Mild), Black Beans, Rice, Sour Cream, Cheese",$8.19 
-1565,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1565,8,1,Chips and Roasted Chili-Corn Salsa,,$2.39 
-1566,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1566,8,1,Chips and Fresh Tomato Salsa,,$2.39 
-1567,8,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Guacamole, Lettuce",$10.98 
-1568,8,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Cheese, Sour Cream, Lettuce",$8.99 
-1568,8,1,Steak Soft Tacos,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",$8.99 
-1569,8,1,Side of Chips,,$1.69 
-1569,8,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce",$8.49 
-1570,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1570,8,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1571,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Pinto Beans, Cheese, Lettuce, Guacamole",$11.25 
-1571,8,1,Chips and Guacamole,,$4.45 
-1572,8,1,Chips and Guacamole,,$4.45 
-1572,8,2,Chicken Burrito,"Tomatillo Red Chili Salsa, Cheese, Black Beans, Rice",$17.50 
-1573,8,1,Chicken Burrito,"Fresh Tomato Salsa, Sour Cream, Cheese, Rice, Black Beans",$8.75 
-1573,8,1,Chips and Guacamole,,$4.45 
-1574,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1574,8,1,Chips,,$2.15 
-1574,8,1,Bottled Water,,$1.50 
-1574,8,1,Bottled Water,,$1.50 
-1575,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies",$8.99 
-1575,8,1,Canned Soda,Dr. Pepper,$1.09 
-1576,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",$8.75 
-1576,8,1,Chips and Guacamole,,$4.45 
-1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce",$8.75 
-1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",$11.25 
-1577,8,2,Chips,,$4.30 
-1578,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",$8.49 
-1578,8,1,Side of Chips,,$1.69 
-1578,8,1,Bottled Water,,$1.09 
-1578,8,1,Canned Soda,Diet Dr. Pepper,$1.09 
-1579,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1579,8,1,Chips,,$2.15 
-1579,8,1,Bottled Water,,$1.50 
-1580,8,1,Carnitas Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Lettuce",$8.99 
-1580,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Fajita Veggies, Cheese, Sour Cream",$8.49 
-1580,8,1,Chips and Guacamole,,$3.99 
-1581,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",$8.75 
-1581,9,1,Chips,,$2.15 
-1581,9,1,Canned Soft Drink,Nestea,$1.25 
-1582,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1582,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1583,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1583,9,1,Chips and Guacamole,,$4.45 
-1584,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Sour Cream, Lettuce, Rice, Cheese",$9.25 
-1584,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1585,9,1,Chips and Guacamole,,$3.99 
-1585,9,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",$8.99 
-1585,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",$8.49 
-1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$8.75 
-1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1586,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Pinto Beans, Guacamole, Lettuce",$11.25 
-1586,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Lettuce",$8.75 
-1586,9,1,Chips and Guacamole,,$4.45 
-1587,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",$11.25 
-1587,9,1,Canned Soft Drink,Coke,$1.25 
-1588,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Cheese",$9.25 
-1588,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1588,9,1,Chips and Guacamole,,$4.45 
-1588,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1589,9,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Guacamole",$10.98 
-1590,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Fajita Vegetables, Lettuce, Cheese, Sour Cream",$8.75 
-1590,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1591,9,2,Steak Burrito,"Fresh Tomato Salsa, Lettuce, Sour Cream, Cheese, Fajita Vegetables, Pinto Beans, Rice",$18.50 
-1592,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Lettuce",$9.25 
-1592,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Lettuce",$9.25 
-1592,9,4,Canned Soft Drink,Coke,$5.00 
-1592,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Lettuce",$8.75 
-1592,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1593,9,2,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Fajita Veggies",$16.98 
-1594,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Guacamole, Lettuce",$11.25 
-1594,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1595,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1595,9,1,Chips,,$2.15 
-1595,9,1,Bottled Water,,$1.50 
-1596,9,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Pinto Beans, Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1596,9,1,Chips and Fresh Tomato Salsa,,$2.39 
-1597,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Cheese",$9.25 
-1597,9,1,Chips,,$2.15 
-1597,9,1,Canned Soft Drink,Nestea,$1.25 
-1598,9,1,Chicken Burrito,"Tomatillo Green Chili (Medium), Lettuce, Black Beans, Rice, Sour Cream, Cheese",$8.19 
-1598,9,1,Steak Burrito,"Tomatillo Red Chili (Hot), Lettuce, Black Beans, Rice, Sour Cream, Cheese",$8.69 
-1598,9,1,Chicken Salad,"Roasted Chili Corn (Medium), Lettuce, Black Beans, Cheese",$8.19 
-1598,9,1,Chicken Burrito,"Roasted Chili Corn (Medium), Lettuce, Black Beans, Rice, Sour Cream, Cheese",$8.19 
-1599,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Lettuce",$8.75 
-1599,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1599,9,1,Canned Soft Drink,Nestea,$1.25 
-1600,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1600,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",$11.25 
-1601,9,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Black Beans, Cheese, Lettuce",$8.75 
-1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1602,9,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Black Beans, Pinto Beans, Fajita Veggies, Lettuce",$8.99 
-1602,9,1,Bottled Water,,$1.09 
-1603,9,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1603,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1603,9,1,Chips and Guacamole,,$4.45 
-1604,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",$8.49 
-1604,9,1,Chips and Guacamole,,$3.99 
-1604,9,1,Chips and Tomatillo-Green Chili Salsa,,$2.39 
-1604,9,1,Canned Soda,Diet Coke,$1.09 
-1605,9,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Cheese, Sour Cream, Lettuce",$8.99 
-1605,9,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1606,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1606,9,1,Chicken Salad Bowl,Fresh Tomato Salsa,$8.75 
-1607,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Guacamole",$11.25 
-1607,9,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1608,9,1,Chips and Guacamole,,$4.45 
-1608,9,2,Canned Soft Drink,Diet Coke,$2.50 
-1608,9,1,Chicken Soft Tacos,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1609,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1609,9,1,N/Atucket Nectar,Pineapple Orange BaN/Aa,$3.39 
-1610,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1610,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",$9.25 
-1610,9,1,Chips and Guacamole,,$4.45 
-1610,9,1,Canned Soft Drink,Lemonade,$1.25 
-1611,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1611,9,1,Chips,,$2.15 
-1611,9,1,Chips and Guacamole,,$4.45 
-1611,9,2,Canned Soft Drink,Coke,$2.50 
-1612,9,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Lettuce",$8.99 
-1612,9,1,Chips and Guacamole,,$3.99 
-1613,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Cheese",$8.75 
-1613,9,1,Chips,,$2.15 
-1613,9,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",$11.75 
-1614,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1614,9,1,Canned Soft Drink,Coke,$1.25 
-1615,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",$8.75 
-1615,9,1,Steak Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",$9.39 
-1615,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1615,9,1,Steak Soft Tacos,"Tomatillo Red Chili Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1616,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese",$9.25 
-1616,9,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1617,9,1,Carnitas Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese",$9.25 
-1617,9,1,Chips and Guacamole,,$4.45 
-1618,9,1,Canned Soft Drink,Diet Coke,$1.25 
-1618,9,1,Carnitas Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese, Lettuce",$9.25 
-1618,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1619,9,1,Barbacoa Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Guacamole",$11.75 
-1619,9,1,Bottled Water,,$1.50 
-1620,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Lettuce",$8.75 
-1620,9,1,Chips and Guacamole,,$4.45 
-1621,9,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Black Beans, Fajita Veggies",$8.99 
-1621,9,1,Canned Soda,Sprite,$1.09 
-1622,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1622,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1623,9,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Sour Cream, Lettuce, Cheese, Black Beans, Rice",$8.99 
-1623,9,1,Side of Chips,,$1.69 
-1624,9,1,Barbacoa Bowl,"Rice, Cheese",$8.69 
-1624,9,1,Side of Chips,,$1.69 
-1625,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole, Lettuce",$11.25 
-1625,9,1,Chips and Guacamole,,$4.45 
-1626,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1626,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1626,9,1,Chips and Guacamole,,$4.45 
-1627,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1627,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1627,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1627,9,1,Bottled Water,,$1.50 
-1628,9,1,Chicken Burrito,"Lettuce, Rice, Fajita Veggies",$8.19 
-1628,9,1,Steak Burrito,"Lettuce, Fajita Veggies, Rice",$8.69 
-1629,9,1,Bottled Water,,$1.09 
-1629,9,1,Side of Chips,,$1.69 
-1629,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese",$8.49 
-1630,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1630,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1630,9,1,Canned Soft Drink,Coke,$1.25 
-1631,9,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",$8.49 
-1631,9,1,Chips and Guacamole,,$3.99 
-1632,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Sour Cream, Guacamole",$10.98 
-1632,9,1,N/Atucket Nectar,Peach Orange,$3.39 
-1633,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1633,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1633,9,1,Chips,,$2.15 
-1634,9,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$18.50 
-1635,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1635,9,1,Veggie Salad,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",$8.49 
-1636,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Guacamole",$11.25 
-1636,9,1,Bottled Water,,$1.50 
-1637,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",$8.49 
-1637,9,1,Chips and Tomatillo-Red Chili Salsa,,$2.39 
-1638,9,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",$8.99 
-1638,9,1,Chips and Fresh Tomato Salsa,,$2.39 
-1639,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",$11.75 
-1639,9,1,Chips and Guacamole,,$4.45 
-1640,9,2,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$17.50 
-1641,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1641,9,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1642,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1642,9,1,Chips and Guacamole,,$4.45 
-1642,9,3,Canned Soft Drink,Diet Coke,$3.75 
-1643,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1643,9,1,Chips and Guacamole,,$4.45 
-1643,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1643,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1644,9,1,Canned Soft Drink,Lemonade,$1.25 
-1644,9,1,Chips and Guacamole,,$4.45 
-1644,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",$8.75 
-1645,9,1,Canned Soft Drink,Coke,$1.25 
-1645,9,1,Bottled Water,,$1.50 
-1645,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1646,9,1,Veggie Salad Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1646,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole, Lettuce",$11.25 
-1647,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1647,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1648,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese, Lettuce",$9.25 
-1648,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Guacamole",$11.25 
-1648,9,1,Chips and Guacamole,,$4.45 
-1648,9,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Cheese",$8.75 
-1649,9,1,Steak Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1649,9,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1650,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",$8.75 
-1650,9,1,Chips and Guacamole,,$4.45 
-1651,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",$8.75 
-1651,9,1,Canned Soft Drink,Lemonade,$1.25 
-1651,9,1,Chips,,$2.15 
-1652,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",$8.75 
-1652,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",$8.75 
-1652,9,2,Chips,,$4.30 
-1653,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Lettuce",$8.75 
-1653,9,1,Canned Soft Drink,Sprite,$1.25 
-1653,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1654,9,1,Steak Soft Tacos,Fresh Tomato Salsa,$9.25 
-1654,9,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1655,9,1,Chips and Guacamole,,$4.45 
-1655,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1655,9,1,Veggie Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1655,9,1,Barbacoa Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1655,9,1,Carnitas Soft Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1655,9,3,Bottled Water,,$4.50 
-1656,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole",$11.75 
-1656,9,1,Canned Soft Drink,Lemonade,$1.25 
-1657,9,1,Barbacoa Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1657,9,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",$11.75 
-1657,9,1,Canned Soft Drink,Coke,$1.25 
-1657,9,1,Canned Soft Drink,Nestea,$1.25 
-1658,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans",$9.25 
-1658,9,1,Chips and Guacamole,,$4.45 
-1659,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1659,9,1,Carnitas Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole",$11.75 
-1660,9,2,Chicken Burrito,"Fresh Tomato Salsa, Rice",$17.50 
-1660,9,1,Chips,,$2.15 
-1660,9,1,Canned Soft Drink,Coke,$1.25 
-1660,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1660,9,10,Bottled Water,,$15.00 
-1660,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Guacamole",$11.25 
-1660,9,1,Chips and Guacamole,,$4.45 
-1660,9,1,Chips and Guacamole,,$4.45 
-1660,9,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1661,9,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Sour Cream, Cheese, Rice, Fajita Vegetables",$11.25 
-1661,9,1,Chips,,$2.15 
-1662,9,1,Canned Soft Drink,Sprite,$1.25 
-1662,9,1,Bottled Water,,$1.50 
-1662,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",$8.75 
-1662,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Sour Cream, Cheese, Guacamole",$11.25 
-1662,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1663,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1663,9,1,Canned Soft Drink,Sprite,$1.25 
-1664,9,1,Chips,,$2.15 
-1664,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1664,9,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1664,9,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1665,9,1,Canned Soft Drink,Diet Coke,$1.25 
-1665,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese",$8.75 
-1665,9,1,Chips,,$2.15 
-1666,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1666,9,1,6 Pack Soft Drink,Coke,$6.49 
-1667,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",$11.25 
-1667,9,1,Bottled Water,,$1.50 
-1668,9,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1668,9,1,Chips and Guacamole,,$4.45 
-1669,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice",$8.75 
-1669,9,1,Chips and Guacamole,,$4.45 
-1670,9,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1670,9,1,Barbacoa Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1670,9,1,Canned Soft Drink,Coke,$1.25 
-1670,9,1,Canned Soft Drink,Sprite,$1.25 
-1671,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1671,9,3,Bottled Water,,$4.50 
-1672,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",$11.25 
-1672,9,1,Canned Soft Drink,Coke,$1.25 
-1673,9,1,Bottled Water,,$1.50 
-1673,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",$9.25 
-1673,9,1,Chips,,$2.15 
-1673,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Lettuce, Guacamole",$11.25 
-1673,9,1,Chips and Guacamole,,$4.45 
-1674,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1674,9,1,Chips and Guacamole,,$4.45 
-1675,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream",$8.75 
-1675,9,1,Chips and Guacamole,,$4.45 
-1676,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese",$9.25 
-1676,9,1,Chips and Guacamole,,$4.45 
-1676,9,1,Canned Soft Drink,Coke,$1.25 
-1677,9,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Guacamole",$11.25 
-1677,9,1,Chips and Guacamole,,$4.45 
-1678,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1678,9,1,Chips and Guacamole,,$4.45 
-1679,9,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Lettuce",$8.75 
-1679,9,1,Chips,,$2.15 
-1679,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream",$8.75 
-1679,9,1,Chips and Guacamole,,$4.45 
-1679,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Lettuce",$8.75 
-1680,9,1,Steak Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1680,9,1,Bottled Water,,$1.50 
-1681,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Guacamole, Lettuce",$11.25 
-1681,9,1,Chips and Guacamole,,$4.45 
-1682,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1682,9,1,Chips,,$2.15 
-1682,9,1,Bottled Water,,$1.50 
-1683,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Lettuce",$8.75 
-1683,9,1,Chips and Guacamole,,$4.45 
-1684,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Lettuce",$8.75 
-1684,9,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Guacamole, Lettuce",$11.75 
-1685,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1685,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",$8.75 
-1686,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1686,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1687,9,1,Bottled Water,,$1.50 
-1687,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese",$8.75 
-1687,9,1,Chips,,$2.15 
-1688,9,1,Steak Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Guacamole",$11.75 
-1688,9,1,Chips,,$2.15 
-1689,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1689,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1690,9,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$18.50 
-1690,9,1,Canned Soft Drink,Coke,$1.25 
-1690,9,1,Chips and Guacamole,,$4.45 
-1691,9,1,Chicken Bowl,White Rice,$8.50 
-1691,9,1,Chicken Bowl,White Rice,$8.50 
-1691,9,2,Chips and Guacamole,,$8.50 
-1692,9,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Black Beans, Sour Cream, Cheese, Guacamole",$11.25 
-1692,9,1,Carnitas Salad Bowl,"Tomatillo Green Chili Salsa, Black Beans, Cheese, Guacamole",$11.89 
-1692,9,1,Canned Soft Drink,Diet Coke,$1.25 
-1693,9,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.39 
-1693,9,1,Chips and Guacamole,,$4.45 
-1694,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1694,9,1,Chips,,$2.15 
-1694,9,1,Bottled Water,,$1.50 
-1695,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",$11.75 
-1695,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Cheese",$8.75 
-1695,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",$9.25 
-1696,9,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1696,9,1,Chips and Guacamole,,$4.45 
-1696,9,1,Canned Soft Drink,Coke,$1.25 
-1696,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1697,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1697,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1698,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",$8.75 
-1698,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",$8.75 
-1698,9,1,Chips,,$2.15 
-1699,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1699,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Guacamole",$11.25 
-1699,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1700,9,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Guacamole",$11.25 
-1700,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1701,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1701,9,1,Chips,,$2.15 
-1701,9,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1701,9,1,Chips,,$2.15 
-1702,9,1,Steak Bowl,"Rice, Tomatillo-Red Chili Salsa (Hot)",$8.99 
-1702,9,1,Steak Burrito,"Rice, Tomatillo-Red Chili Salsa (Hot)",$8.99 
-1703,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1703,9,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1703,9,1,Barbacoa Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1703,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1704,9,1,Chicken Bowl,"Fresh Tomato Salsa, Pinto Beans, Rice, Lettuce, Cheese",$8.75 
-1704,9,1,Chips and Guacamole,,$4.45 
-1705,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1705,9,1,Canned Soft Drink,Diet Coke,$1.25 
-1705,9,1,Chips and Guacamole,,$4.45 
-1706,9,1,Veggie Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole",$11.25 
-1706,9,1,Canned Soft Drink,Coke,$1.25 
-1707,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1707,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1708,9,1,Veggie Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",$11.25 
-1708,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1709,9,1,Canned Soft Drink,Diet Coke,$1.25 
-1709,9,1,Canned Soft Drink,Sprite,$1.25 
-1709,9,1,Canned Soft Drink,Nestea,$1.25 
-1709,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$9.25 
-1710,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Guacamole",$11.75 
-1710,9,1,Chips,,$2.15 
-1711,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1711,9,1,Chips and Guacamole,,$4.45 
-1712,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Lettuce",$8.75 
-1712,9,1,Chips and Guacamole,,$4.45 
-1713,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole",$11.25 
-1713,9,1,Steak Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",$9.25 
-1714,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$8.75 
-1714,9,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",$9.25 
-1714,9,1,Chips and Guacamole,,$4.45 
-1715,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1715,9,1,Chips and Guacamole,,$4.45 
-1715,9,1,Canned Soft Drink,Coke,$1.25 
-1716,9,1,Chips and Guacamole,,$4.45 
-1716,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1717,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",$9.25 
-1717,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Pinto Beans, Guacamole, Lettuce",$11.25 
-1717,9,1,Chips,,$2.15 
-1718,9,2,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",$23.50 
-1718,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Cheese",$9.25 
-1718,9,1,Chips,,$2.15 
-1719,9,2,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Lettuce, Sour Cream",$18.50 
-1719,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1719,9,2,Chips and Tomatillo Red Chili Salsa,,$5.90 
-1720,9,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole",$11.89 
-1720,9,1,Chips and Guacamole,,$4.45 
-1721,9,1,Veggie Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1721,9,1,Chips and Guacamole,,$4.45 
-1722,9,1,Steak Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$9.25 
-1722,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1723,9,1,Veggie Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",$11.25 
-1723,9,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1724,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Guacamole",$11.25 
-1724,9,1,Chicken Crispy Tacos,"Tomatillo Red Chili Salsa, Black Beans, Cheese, Lettuce, Guacamole",$11.25 
-1725,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Guacamole",$11.25 
-1725,9,1,Chips and Fresh Tomato Salsa,,$2.95 
-1726,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1726,9,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1727,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",$9.25 
-1727,9,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1728,9,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Lettuce",$11.25 
-1728,9,1,Chips,,$2.15 
-1729,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1729,9,2,Chips and Guacamole,,$8.90 
-1730,9,1,Chicken Salad Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese",$8.75 
-1730,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1731,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1731,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1732,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1732,9,1,Chips,,$2.15 
-1732,9,1,Canned Soft Drink,Coke,$1.25 
-1733,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1733,9,1,Canned Soft Drink,Sprite,$1.25 
-1734,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",$8.75 
-1734,9,1,Chips and Guacamole,,$4.45 
-1735,9,1,Canned Soft Drink,Coke,$1.25 
-1735,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Guacamole",$11.25 
-1735,9,1,Chicken Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1736,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1736,9,1,Canned Soft Drink,Coke,$1.25 
-1737,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Guacamole",$11.25 
-1737,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",$11.25 
-1737,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",$11.25 
-1738,9,1,Chicken Salad Bowl,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce",$8.75 
-1738,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Lettuce",$8.75 
-1738,9,2,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",$18.50 
-1739,9,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",$11.75 
-1739,9,1,Canned Soft Drink,Coke,$1.25 
-1740,9,1,Chips and Guacamole,,$4.45 
-1740,9,1,Barbacoa Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1741,9,1,6 Pack Soft Drink,Coke,$6.49 
-1741,9,1,Chips and Guacamole,,$4.45 
-1741,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Sour Cream, Cheese, Lettuce",$8.75 
-1742,9,1,Chicken Bowl,"Fresh Tomato Salsa, Pinto Beans, Rice, Cheese, Lettuce, Guacamole, Sour Cream, Fajita Vegetables",$11.25 
-1742,9,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1742,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1743,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1743,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream",$9.25 
-1744,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Guacamole, Lettuce",$11.25 
-1744,9,1,Chips,,$2.15 
-1745,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1745,9,1,Chips and Guacamole,,$4.45 
-1745,9,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1745,9,1,Chips and Guacamole,,$4.45 
-1746,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1746,9,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",$9.25 
-1746,9,1,Chips and Guacamole,,$4.45 
-1746,9,1,Canned Soft Drink,Lemonade,$1.25 
-1746,9,1,Canned Soft Drink,Sprite,$1.25 
-1747,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Black Beans, Sour Cream, Lettuce",$8.75 
-1747,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1748,9,1,Barbacoa Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1748,9,1,Chips,,$2.15 
-1748,9,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1749,9,1,Chips and Guacamole,,$4.45 
-1749,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1749,9,1,Canned Soft Drink,Coke,$1.25 
-1750,9,1,Carnitas Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Guacamole, Lettuce",$11.75 
-1750,9,1,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1751,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole",$11.25 
-1751,9,2,Chips,,$4.30 
-1751,9,1,Barbacoa Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$9.39 
-1752,9,1,Steak Salad Bowl,"Fresh Tomato Salsa, Black Beans, Pinto Beans, Cheese",$9.39 
-1752,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream",$8.75 
-1753,9,1,Canned Soft Drink,Coke,$1.25 
-1753,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese",$9.25 
-1753,9,1,Chips and Guacamole,,$4.45 
-1754,9,1,Chicken Bowl,"Fresh Tomato Salsa, Black Beans, Rice, Sour Cream, Cheese, Guacamole, Lettuce",$11.25 
-1754,9,1,Canned Soft Drink,Sprite,$1.25 
-1755,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese",$8.75 
-1755,10,1,Canned Soft Drink,Coke,$1.25 
-1755,10,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1756,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole",$11.25 
-1756,10,1,Chips and Guacamole,,$4.45 
-1757,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1757,10,1,Bottled Water,,$1.50 
-1757,10,1,Chips and Guacamole,,$4.45 
-1758,10,1,Chips and Guacamole,,$4.45 
-1758,10,1,Steak Burrito,"Fresh Tomato Salsa, Cheese, Black Beans, Rice",$9.25 
-1759,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$8.75 
-1759,10,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1759,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1760,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",$11.25 
-1760,10,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1761,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",$8.75 
-1761,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",$8.75 
-1761,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",$8.75 
-1761,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Cheese",$8.75 
-1761,10,2,Chips,,$4.30 
-1762,10,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1762,10,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese, Lettuce",$9.39 
-1763,10,1,Chips and Guacamole,,$4.45 
-1763,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1763,10,1,Canned Soft Drink,Coke,$1.25 
-1764,10,2,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",$22.50 
-1764,10,1,Chips and Guacamole,,$4.45 
-1764,10,1,Chips and Fresh Tomato Salsa,,$2.95 
-1764,10,1,Chips,,$2.15 
-1764,10,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",$23.50 
-1765,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1765,10,1,Chips,,$2.15 
-1765,10,1,Canned Soft Drink,Coke,$1.25 
-1766,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1766,10,1,Chips and Guacamole,,$4.45 
-1766,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",$11.25 
-1766,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",$11.75 
-1767,10,2,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Lettuce",$17.50 
-1768,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1768,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1768,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole",$11.25 
-1769,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1769,10,1,Chips and Guacamole,,$4.45 
-1770,10,1,Barbacoa Bowl,"Tomatillo Green Chili Salsa, Rice, Cheese, Guacamole, Lettuce",$11.75 
-1770,10,1,Bottled Water,,$1.50 
-1771,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1771,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream",$8.75 
-1772,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",$11.75 
-1772,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",$9.25 
-1772,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1773,10,1,Chips and Guacamole,,$4.45 
-1773,10,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.75 
-1774,10,1,Carnitas Crispy Tacos,"Fresh Tomato Salsa, Pinto Beans, Sour Cream, Cheese, Lettuce",$9.25 
-1774,10,1,Chips and Guacamole,,$4.45 
-1775,10,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1775,10,1,Chicken Crispy Tacos,"Tomatillo Red Chili Salsa, Black Beans, Cheese",$8.75 
-1775,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",$8.75 
-1776,10,1,Chips,,$2.15 
-1776,10,1,Bottled Water,,$1.50 
-1776,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1777,10,1,Chips and Guacamole,,$4.45 
-1777,10,1,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Lettuce",$9.25 
-1778,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese",$8.75 
-1778,10,1,Bottled Water,,$1.50 
-1778,10,1,Canned Soft Drink,Lemonade,$1.25 
-1778,10,1,Canned Soft Drink,Lemonade,$1.25 
-1779,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1779,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$8.75 
-1779,10,1,Chips and Tomatillo Red Chili Salsa,,$2.95 
-1780,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1780,10,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1781,10,1,Bottled Water,,$1.50 
-1781,10,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1782,10,1,Veggie Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1782,10,1,Chips,,$2.15 
-1783,10,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",$9.25 
-1783,10,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",$8.75 
-1784,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1784,10,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1785,10,1,Bottled Water,,$1.50 
-1785,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1785,10,1,Bottled Water,,$1.50 
-1785,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice",$8.75 
-1786,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1786,10,1,Barbacoa Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",$11.75 
-1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1786,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Guacamole, Lettuce",$11.75 
-1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Lettuce",$8.75 
-1786,10,4,Chips and Guacamole,,$17.80 
-1786,10,4,Canned Soft Drink,Coke,$5.00 
-1786,10,4,Canned Soft Drink,Sprite,$5.00 
-1787,10,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1787,10,1,Chips and Tomatillo Green Chili Salsa,,$2.95 
-1787,10,1,Canned Soft Drink,Lemonade,$1.25 
-1788,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1788,10,1,Canned Soft Drink,Sprite,$1.25 
-1788,10,1,Chips,,$2.15 
-1789,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",$11.25 
-1789,10,2,Canned Soft Drink,Coke,$2.50 
-1789,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",$9.25 
-1790,10,1,Canned Soft Drink,Sprite,$1.25 
-1790,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Cheese, Guacamole, Lettuce",$11.25 
-1790,10,1,Chips and Fresh Tomato Salsa,,$2.95 
-1791,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Sour Cream, Guacamole, Lettuce",$11.75 
-1791,10,1,Chips,,$2.15 
-1792,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",$11.25 
-1792,10,1,Bottled Water,,$1.50 
-1793,10,1,Steak Burrito,Brown Rice,$8.99 
-1793,10,1,Chips,,$1.99 
-1793,10,1,Barbacoa Bowl,Guacamole,$11.49 
-1794,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Cheese, Lettuce",$8.75 
-1794,10,1,Chips and Guacamole,,$4.45 
-1794,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1795,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1795,10,1,Chips and Guacamole,,$4.45 
-1795,10,1,Canned Soft Drink,Sprite,$1.25 
-1796,10,1,Bottled Water,,$1.50 
-1796,10,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.75 
-1797,10,1,Veggie Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese",$8.75 
-1797,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Lettuce",$8.75 
-1798,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream",$11.25 
-1798,10,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1798,10,1,Steak Crispy Tacos,"Tomatillo Green Chili Salsa, Cheese, Sour Cream, Guacamole",$11.75 
-1799,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese",$8.75 
-1799,10,1,Chips,,$2.15 
-1799,10,1,Canned Soft Drink,Sprite,$1.25 
-1800,10,1,6 Pack Soft Drink,Diet Coke,$6.49 
-1800,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1800,10,1,Chips and Guacamole,,$4.45 
-1801,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Lettuce",$8.75 
-1801,10,1,Chips and Guacamole,,$4.45 
-1802,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1802,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1803,10,1,Chips and Guacamole,,$4.45 
-1803,10,1,6 Pack Soft Drink,Lemonade,$6.49 
-1803,10,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese",$9.25 
-1804,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1804,10,1,Canned Soft Drink,Coke,$1.25 
-1804,10,1,Chips and Guacamole,,$4.45 
-1805,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",$11.25 
-1805,10,1,Veggie Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1806,10,1,Bottled Water,,$1.50 
-1806,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1806,10,1,Bottled Water,,$1.50 
-1806,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1807,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",$9.25 
-1807,10,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese",$9.39 
-1808,10,1,Chips and Guacamole,,$4.45 
-1808,10,1,Steak Soft Tacos,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream",$9.25 
-1809,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",$8.75 
-1809,10,1,Chips and Guacamole,,$4.45 
-1809,10,1,Canned Soft Drink,Sprite,$1.25 
-1810,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Black Beans, Sour Cream, Cheese, Guacamole",$11.25 
-1810,10,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1811,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",$8.75 
-1811,10,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1811,10,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1812,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1812,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Guacamole, Lettuce",$11.25 
-1812,10,2,Canned Soft Drink,Coke,$2.50 
-1813,10,2,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",$17.50 
-1814,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream",$9.25 
-1814,10,1,Chips and Guacamole,,$4.45 
-1815,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",$11.25 
-1815,10,1,Canned Soft Drink,Sprite,$1.25 
-1816,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Pinto Beans, Cheese, Sour Cream",$8.75 
-1816,10,1,Chips and Guacamole,,$4.45 
-1817,10,1,Bottled Water,,$1.50 
-1817,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",$8.75 
-1817,10,1,Bottled Water,,$1.50 
-1817,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1818,10,1,Steak Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",$9.39 
-1818,10,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",$8.75 
-1819,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Cheese, Lettuce",$8.75 
-1819,10,1,Chips and Guacamole,,$4.45 
-1820,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",$11.25 
-1820,10,1,Canned Soft Drink,Coke,$1.25 
-1821,10,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream",$9.25 
-1821,10,1,Chips and Guacamole,,$4.45 
-1822,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Guacamole",$11.25 
-1822,10,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",$8.75 
-1822,10,2,Bottled Water,,$3.00 
-1823,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Sour Cream, Lettuce",$8.75 
-1823,10,1,Chips,,$2.15 
-1823,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1824,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",$11.25 
-1824,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",$11.25 
-1824,10,1,Chips and Guacamole,,$4.45 
-1825,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.25 
-1825,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",$11.25 
-1825,10,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",$8.75 
-1825,10,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Guacamole",$11.75 
-1825,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1825,10,1,Barbacoa Bowl,"Roasted Chili Corn Salsa, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1826,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans",$8.75 
-1826,10,1,Chips and Guacamole,,$4.45 
-1826,10,1,Canned Soft Drink,Nestea,$1.25 
-1826,10,1,Bottled Water,,$1.50 
-1827,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Cheese, Lettuce",$8.75 
-1827,10,1,Chips and Guacamole,,$4.45 
-1827,10,1,Canned Soft Drink,Diet Coke,$1.25 
-1827,10,1,Barbacoa Burrito,Tomatillo Green Chili Salsa,$9.25 
-1827,10,1,Barbacoa Burrito,Tomatillo Green Chili Salsa,$9.25 
-1828,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",$8.75 
-1828,10,1,Chips and Guacamole,,$4.45 
-1828,10,1,Canned Soft Drink,Coke,$1.25 
-1829,10,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Cheese, Sour Cream, Guacamole",$11.75 
-1829,10,1,Veggie Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",$11.25 
-1829,10,1,Canned Soft Drink,Sprite,$1.25 
-1830,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1830,10,1,Veggie Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Guacamole",$11.25 
-1831,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",$9.25 
-1831,10,1,Chips,,$2.15 
-1831,10,1,Bottled Water,,$1.50 
-1832,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",$8.75 
-1832,10,1,Chips and Guacamole,,$4.45 
-1833,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1833,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",$11.75 
-1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Guacamole, Lettuce",$11.25 
-1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",$8.75 
-1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",$8.75 
+1446,8,2,Canned Soft Drink,Diet Coke,2.50 
+1446,8,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Rice, Cheese",8.75 
+1446,8,1,Chips and Guacamole,,4.45 
+1447,8,2,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Fajita Veggies, Pinto Beans, Rice",16.98 
+1448,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Lettuce",8.75 
+1448,8,1,6 Pack Soft Drink,Nestea,6.49 
+1449,8,2,Chicken Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",16.98 
+1449,8,2,Steak Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",17.98 
+1449,8,2,Veggie Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",16.98 
+1449,8,2,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Cheese",16.98 
+1449,8,1,Carnitas Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Lettuce",8.99 
+1449,8,1,Carnitas Soft Tacos,"Fresh Tomato Salsa (Mild), Rice, Cheese, Lettuce",8.99 
+1449,8,1,Chicken Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Lettuce",8.49 
+1450,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Lettuce",9.25 
+1450,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Lettuce",8.75 
+1450,8,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1451,8,1,Steak Soft Tacos,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Rice, Fajita Veggies, Cheese, Guacamole, Lettuce",11.48 
+1451,8,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+1452,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Pinto Beans, Lettuce",8.99 
+1452,8,1,Chips and Roasted Chili-Corn Salsa,,2.39 
+1453,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",11.25 
+1453,8,1,Chips and Guacamole,,4.45 
+1453,8,1,Chicken Crispy Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1453,8,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",9.25 
+1454,8,1,6 Pack Soft Drink,Coke,6.49 
+1454,8,3,Chicken Burrito,Fresh Tomato Salsa,26.25 
+1454,8,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice",8.75 
+1454,8,3,Chicken Burrito,"Fresh Tomato Salsa, Rice",26.25 
+1454,8,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice",8.75 
+1454,8,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Rice",8.75 
+1455,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1455,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Guacamole, Lettuce",11.25 
+1455,8,1,Chips,,2.15 
+1456,8,1,Canned Soft Drink,Sprite,1.25 
+1456,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1457,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1457,8,1,Chips,,2.15 
+1457,8,1,Bottled Water,,1.50 
+1458,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole, Fajita Vegetables",11.25 
+1458,8,1,Chips,,2.15 
+1459,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Pinto Beans, Rice, Fajita Veggies, Cheese, Lettuce",8.99 
+1459,8,1,Chips and Tomatillo-Red Chili Salsa,,2.39 
+1460,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Cheese, Guacamole, Lettuce",11.25 
+1460,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Guacamole",11.25 
+1460,8,1,Chips,,2.15 
+1461,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Guacamole",11.25 
+1461,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1461,8,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Lettuce",8.75 
+1462,8,2,Chips and Tomatillo-Green Chili Salsa,,4.78 
+1462,8,2,Chicken Soft Tacos,"Tomatillo-Green Chili Salsa (Medium), Fresh Tomato Salsa (Mild), Cheese, Sour Cream, Guacamole",21.96 
+1463,8,1,Veggie Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1463,8,1,Chips and Tomatillo-Red Chili Salsa,,2.39 
+1464,8,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",9.25 
+1464,8,1,Chips and Fresh Tomato Salsa,,2.95 
+1465,8,2,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Fajita Veggies",16.98 
+1466,8,1,Chicken Bowl,"Fresh Tomato (Mild), Lettuce, Fajita Veggies, Pinto Beans, Rice, Sour Cream, Cheese",8.19 
+1466,8,1,Chips and Guacamole,,3.89 
+1467,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",8.99 
+1467,8,1,Bottled Water,,1.09 
+1468,8,1,Steak Burrito,"Tomatillo-Green Chili Salsa (Medium), Rice, Fajita Veggies, Cheese, Lettuce",8.99 
+1468,8,1,Izze,Blackberry,3.39 
+1469,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1469,8,1,Chips and Guacamole,,4.45 
+1470,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole",10.98 
+1470,8,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole",10.98 
+1471,8,2,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",17.50 
+1472,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",11.25 
+1472,8,1,Canned Soft Drink,Coke,1.25 
+1472,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Lettuce",8.75 
+1473,8,1,Steak Burrito,"Fresh Tomato Salsa, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1473,8,1,Chips and Guacamole,,4.45 
+1474,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole",11.25 
+1474,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Rice, Guacamole",11.25 
+1475,8,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild), Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",8.99 
+1475,8,1,Canned Soda,Coca Cola,1.09 
+1476,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Black Beans, Fajita Veggies, Guacamole",10.98 
+1476,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild), Rice, Pinto Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1476,8,1,Side of Chips,,1.69 
+1477,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Guacamole",11.25 
+1477,8,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1478,8,2,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Sour Cream, Cheese, Black Beans, Rice",16.98 
+1479,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1479,8,1,Chips and Guacamole,,4.45 
+1480,8,1,Chicken Burrito,"Roasted Chili Corn Salsa, Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream",11.25 
+1480,8,1,6 Pack Soft Drink,Diet Coke,6.49 
+1480,8,1,Steak Crispy Tacos,"Tomatillo Green Chili Salsa, Cheese, Sour Cream, Guacamole",11.75 
+1481,8,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1481,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1482,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",8.75 
+1482,8,1,Chips and Guacamole,,4.45 
+1482,8,2,Canned Soft Drink,Diet Coke,2.50 
+1483,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1483,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Cheese",8.75 
+1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1483,8,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1483,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans",9.25 
+1483,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1483,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream",8.75 
+1483,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1483,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Guacamole",11.75 
+1483,8,1,Carnitas Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Lettuce",9.25 
+1483,8,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1483,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1484,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream",8.49 
+1484,8,1,Canned Soda,Dr. Pepper,1.09 
+1484,8,1,Canned Soda,Dr. Pepper,1.09 
+1485,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",8.49 
+1485,8,1,Canned Soda,Diet Dr. Pepper,1.09 
+1485,8,1,Side of Chips,,1.69 
+1486,8,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Lettuce, Rice, Cheese, Sour Cream, Black Beans",11.25 
+1486,8,1,Canned Soft Drink,Lemonade,1.25 
+1487,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables",8.75 
+1487,8,1,Chips,,2.15 
+1487,8,1,Bottled Water,,1.50 
+1488,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1488,8,1,Side of Chips,,1.69 
+1489,8,1,Canned Soft Drink,Diet Coke,1.25 
+1489,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",8.75 
+1489,8,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1490,8,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Black Beans",8.49 
+1490,8,1,Chips and Guacamole,,3.99 
+1491,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice",8.49 
+1491,8,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Black Beans, Cheese, Lettuce",8.49 
+1492,8,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1492,8,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1492,8,1,Chips,,2.15 
+1493,8,1,Bottled Water,,1.50 
+1493,8,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1494,8,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Rice, Cheese, Sour Cream",8.99 
+1494,8,1,Canned Soda,Sprite,1.09 
+1495,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Guacamole",10.98 
+1496,8,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Fajita Veggies, Guacamole, Lettuce",10.98 
+1497,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1497,8,1,Canned Soft Drink,Sprite,1.25 
+1498,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1498,8,1,Chips and Guacamole,,4.45 
+1499,8,1,Chips and Guacamole,,4.45 
+1499,8,1,Canned Soft Drink,Sprite,1.25 
+1499,8,1,Carnitas Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.89 
+1500,8,1,Carnitas Salad,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream",8.99 
+1500,8,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream",8.99 
+1501,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1501,8,1,Chips and Guacamole,,4.45 
+1502,8,2,Steak Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",23.50 
+1503,8,1,Veggie Burrito,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1503,8,1,Chips and Guacamole,,3.99 
+1504,8,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1504,8,1,Chips and Guacamole,,4.45 
+1505,8,1,Chips and Guacamole,,4.45 
+1505,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",9.25 
+1506,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1506,8,1,Chips and Guacamole,,4.45 
+1507,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1507,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1508,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1508,8,1,6 Pack Soft Drink,Coke,6.49 
+1509,8,2,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",17.50 
+1509,8,1,Chips and Guacamole,,4.45 
+1510,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",8.75 
+1510,8,1,Chips and Fresh Tomato Salsa,,2.95 
+1510,8,1,Bottled Water,,1.50 
+1511,8,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",8.75 
+1511,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice",8.75 
+1511,8,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1511,8,1,Chips and Guacamole,,4.45 
+1511,8,1,Veggie Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1512,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Guacamole",11.25 
+1512,8,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1513,8,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1513,8,1,Chips and Roasted Chili Corn Salsa,,2.95 
+1514,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1514,8,1,Chips and Guacamole,,4.45 
+1514,8,2,Bottled Water,,3.00 
+1514,8,1,Canned Soft Drink,Diet Coke,1.25 
+1515,8,1,Chips and Fresh Tomato Salsa,,2.95 
+1515,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",9.25 
+1516,8,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",8.99 
+1516,8,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+1517,8,1,6 Pack Soft Drink,Diet Coke,6.49 
+1517,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",8.75 
+1517,8,2,Chips and Guacamole,,8.90 
+1518,8,1,Carnitas Bowl,"Fresh Tomato Salsa (Mild), Fajita Veggies, Cheese, Sour Cream, Guacamole",11.48 
+1518,8,1,Canned Soda,Diet Coke,1.09 
+1519,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce",10.98 
+1520,8,1,Barbacoa Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",9.25 
+1520,8,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce",9.25 
+1521,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Guacamole, Lettuce",11.25 
+1521,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",8.75 
+1522,8,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",11.75 
+1522,8,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",11.25 
+1523,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1523,8,1,Canned Soft Drink,Nestea,1.25 
+1524,8,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream",9.25 
+1524,8,1,Chips and Guacamole,,4.45 
+1525,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1525,8,1,6 Pack Soft Drink,Sprite,6.49 
+1526,8,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1526,8,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1527,8,1,Barbacoa Burrito,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream",8.99 
+1527,8,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+1528,8,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",8.49 
+1528,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1529,8,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1529,8,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1530,8,1,Canned Soft Drink,Coke,1.25 
+1530,8,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1530,8,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1531,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Cheese, Guacamole, Lettuce",11.75 
+1531,8,1,Chips,,2.15 
+1532,8,1,Veggie Bowl,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1532,8,1,Veggie Burrito,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1533,8,1,Barbacoa Bowl,"Fresh Tomato (Mild), Lettuce, Rice, Cheese",8.69 
+1533,8,2,Chicken Burrito,"Lettuce, Rice",16.38 
+1533,8,1,Chicken Burrito,Rice,8.19 
+1533,8,1,Chips and Guacamole,,3.89 
+1533,8,1,Chips and Fresh Tomato Salsa,,2.29 
+1534,8,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",11.75 
+1534,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1534,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1535,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce",8.75 
+1535,8,1,Chips and Guacamole,,4.45 
+1536,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1536,8,1,Chicken Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1537,8,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",9.25 
+1537,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",8.75 
+1537,8,1,6 Pack Soft Drink,Coke,6.49 
+1537,8,1,Chips and Fresh Tomato Salsa,,2.95 
+1538,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1538,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1538,8,1,Chips,,2.15 
+1539,8,1,Steak Burrito,"Fresh Tomato Salsa, Pinto Beans, Cheese, Sour Cream",9.25 
+1539,8,1,Steak Burrito,"Fresh Tomato Salsa, Pinto Beans, Cheese, Sour Cream, Guacamole",11.75 
+1540,8,2,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Rice, Pinto Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole",21.96 
+1541,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Rice, Fajita Veggies, Cheese, Lettuce",8.49 
+1541,8,1,N/Atucket Nectar,Peach Orange,3.39 
+1541,8,1,Side of Chips,,1.69 
+1541,8,1,Veggie Burrito,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1542,8,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1542,8,1,Chips and Guacamole,,4.45 
+1543,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1543,8,1,Chips and Guacamole,,3.99 
+1544,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",11.25 
+1544,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",8.75 
+1545,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1545,8,1,Chips,,2.15 
+1546,8,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1546,8,1,Chips and Guacamole,,4.45 
+1547,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1547,8,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",9.25 
+1547,8,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese",8.75 
+1548,8,2,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",18.50 
+1549,8,1,Bottled Water,,1.50 
+1549,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1549,8,1,Chips,,2.15 
+1550,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce",11.48 
+1550,8,2,Canned Soda,Mountain Dew,2.18 
+1550,8,1,Chips and Guacamole,,3.99 
+1551,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1551,8,1,Bottled Water,,1.50 
+1552,8,1,Steak Soft Tacos,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream",8.99 
+1552,8,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+1553,8,1,Steak Burrito,"Roasted Chili Corn Salsa, Pinto Beans, Rice, Guacamole, Sour Cream, Cheese",11.75 
+1553,8,1,Bottled Water,,1.50 
+1554,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1554,8,1,6 Pack Soft Drink,Diet Coke,6.49 
+1554,8,1,Chips and Guacamole,,4.45 
+1554,8,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1555,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",8.49 
+1555,8,1,Chips and Guacamole,,3.99 
+1556,8,2,Canned Soft Drink,Coke,2.50 
+1556,8,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1556,8,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1557,8,1,Chips and Guacamole,,3.99 
+1557,8,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Pinto Beans, Cheese",8.99 
+1558,8,1,Chicken Bowl,"Fresh Tomato Salsa, Cheese",8.75 
+1558,8,1,6 Pack Soft Drink,Diet Coke,6.49 
+1559,8,8,Side of Chips,,13.52 
+1559,8,2,Chicken Soft Tacos,"Fresh Tomato Salsa (Mild), Pinto Beans, Rice, Cheese, Lettuce",16.98 
+1559,8,2,Veggie Soft Tacos,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Lettuce",16.98 
+1559,8,2,Carnitas Crispy Tacos,"Fresh Tomato Salsa (Mild), Cheese, Lettuce",17.98 
+1559,8,2,Chicken Crispy Tacos,"Fresh Tomato Salsa (Mild), Rice, Cheese, Sour Cream, Lettuce",16.98 
+1560,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1560,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1561,8,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1561,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1562,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1562,8,1,Canned Soda,Mountain Dew,1.09 
+1562,8,1,Side of Chips,,1.69 
+1563,8,1,Canned Soft Drink,Lemonade,1.25 
+1563,8,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1563,8,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1564,8,1,Barbacoa Burrito,"Fresh Tomato (Mild), Black Beans, Rice, Sour Cream, Cheese",8.69 
+1564,8,1,Chicken Burrito,"Fresh Tomato (Mild), Black Beans, Rice, Sour Cream, Cheese",8.19 
+1565,8,1,Chicken Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1565,8,1,Chips and Roasted Chili-Corn Salsa,,2.39 
+1566,8,1,Chicken Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1566,8,1,Chips and Fresh Tomato Salsa,,2.39 
+1567,8,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Rice, Fajita Veggies, Guacamole, Lettuce",10.98 
+1568,8,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Cheese, Sour Cream, Lettuce",8.99 
+1568,8,1,Steak Soft Tacos,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",8.99 
+1569,8,1,Side of Chips,,1.69 
+1569,8,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Black Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce",8.49 
+1570,8,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1570,8,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1571,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Pinto Beans, Cheese, Lettuce, Guacamole",11.25 
+1571,8,1,Chips and Guacamole,,4.45 
+1572,8,1,Chips and Guacamole,,4.45 
+1572,8,2,Chicken Burrito,"Tomatillo Red Chili Salsa, Cheese, Black Beans, Rice",17.50 
+1573,8,1,Chicken Burrito,"Fresh Tomato Salsa, Sour Cream, Cheese, Rice, Black Beans",8.75 
+1573,8,1,Chips and Guacamole,,4.45 
+1574,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1574,8,1,Chips,,2.15 
+1574,8,1,Bottled Water,,1.50 
+1574,8,1,Bottled Water,,1.50 
+1575,8,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies",8.99 
+1575,8,1,Canned Soda,Dr. Pepper,1.09 
+1576,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",8.75 
+1576,8,1,Chips and Guacamole,,4.45 
+1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",8.75 
+1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce",8.75 
+1577,8,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",11.25 
+1577,8,2,Chips,,4.30 
+1578,8,1,Chicken Bowl,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",8.49 
+1578,8,1,Side of Chips,,1.69 
+1578,8,1,Bottled Water,,1.09 
+1578,8,1,Canned Soda,Diet Dr. Pepper,1.09 
+1579,8,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1579,8,1,Chips,,2.15 
+1579,8,1,Bottled Water,,1.50 
+1580,8,1,Carnitas Soft Tacos,"Tomatillo-Red Chili Salsa (Hot), Cheese, Sour Cream, Lettuce",8.99 
+1580,8,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Rice, Fajita Veggies, Cheese, Sour Cream",8.49 
+1580,8,1,Chips and Guacamole,,3.99 
+1581,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",8.75 
+1581,9,1,Chips,,2.15 
+1581,9,1,Canned Soft Drink,Nestea,1.25 
+1582,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1582,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1583,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1583,9,1,Chips and Guacamole,,4.45 
+1584,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Sour Cream, Lettuce, Rice, Cheese",9.25 
+1584,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1585,9,1,Chips and Guacamole,,3.99 
+1585,9,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",8.99 
+1585,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies, Cheese, Lettuce",8.49 
+1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",8.75 
+1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1586,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Pinto Beans, Guacamole, Lettuce",11.25 
+1586,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1586,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Lettuce",8.75 
+1586,9,1,Chips and Guacamole,,4.45 
+1587,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",11.25 
+1587,9,1,Canned Soft Drink,Coke,1.25 
+1588,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Cheese",9.25 
+1588,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1588,9,1,Chips and Guacamole,,4.45 
+1588,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1589,9,1,Chicken Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Sour Cream, Guacamole",10.98 
+1590,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Fajita Vegetables, Lettuce, Cheese, Sour Cream",8.75 
+1590,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1591,9,2,Steak Burrito,"Fresh Tomato Salsa, Lettuce, Sour Cream, Cheese, Fajita Vegetables, Pinto Beans, Rice",18.50 
+1592,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Lettuce",9.25 
+1592,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Lettuce",9.25 
+1592,9,4,Canned Soft Drink,Coke,5.00 
+1592,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Lettuce",8.75 
+1592,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1593,9,2,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild), Rice, Fajita Veggies",16.98 
+1594,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Guacamole, Lettuce",11.25 
+1594,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1595,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1595,9,1,Chips,,2.15 
+1595,9,1,Bottled Water,,1.50 
+1596,9,1,Chicken Salad,"Fresh Tomato Salsa (Mild), Pinto Beans, Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1596,9,1,Chips and Fresh Tomato Salsa,,2.39 
+1597,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Cheese",9.25 
+1597,9,1,Chips,,2.15 
+1597,9,1,Canned Soft Drink,Nestea,1.25 
+1598,9,1,Chicken Burrito,"Tomatillo Green Chili (Medium), Lettuce, Black Beans, Rice, Sour Cream, Cheese",8.19 
+1598,9,1,Steak Burrito,"Tomatillo Red Chili (Hot), Lettuce, Black Beans, Rice, Sour Cream, Cheese",8.69 
+1598,9,1,Chicken Salad,"Roasted Chili Corn (Medium), Lettuce, Black Beans, Cheese",8.19 
+1598,9,1,Chicken Burrito,"Roasted Chili Corn (Medium), Lettuce, Black Beans, Rice, Sour Cream, Cheese",8.19 
+1599,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Lettuce",8.75 
+1599,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1599,9,1,Canned Soft Drink,Nestea,1.25 
+1600,9,1,Steak Crispy Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1600,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",11.25 
+1601,9,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Black Beans, Cheese, Lettuce",8.75 
+1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1601,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1602,9,1,Steak Burrito,"Roasted Chili Corn Salsa (Medium), Rice, Black Beans, Pinto Beans, Fajita Veggies, Lettuce",8.99 
+1602,9,1,Bottled Water,,1.09 
+1603,9,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1603,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1603,9,1,Chips and Guacamole,,4.45 
+1604,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",8.49 
+1604,9,1,Chips and Guacamole,,3.99 
+1604,9,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+1604,9,1,Canned Soda,Diet Coke,1.09 
+1605,9,1,Steak Burrito,"Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot), Pinto Beans, Rice, Cheese, Sour Cream, Lettuce",8.99 
+1605,9,1,Chicken Bowl,"Tomatillo-Green Chili Salsa (Medium), Rice, Cheese, Sour Cream, Lettuce",8.49 
+1606,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1606,9,1,Chicken Salad Bowl,Fresh Tomato Salsa,8.75 
+1607,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Guacamole",11.25 
+1607,9,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1608,9,1,Chips and Guacamole,,4.45 
+1608,9,2,Canned Soft Drink,Diet Coke,2.50 
+1608,9,1,Chicken Soft Tacos,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1609,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1609,9,1,N/Atucket Nectar,Pineapple Orange BaN/Aa,3.39 
+1610,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",8.75 
+1610,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",9.25 
+1610,9,1,Chips and Guacamole,,4.45 
+1610,9,1,Canned Soft Drink,Lemonade,1.25 
+1611,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1611,9,1,Chips,,2.15 
+1611,9,1,Chips and Guacamole,,4.45 
+1611,9,2,Canned Soft Drink,Coke,2.50 
+1612,9,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese, Lettuce",8.99 
+1612,9,1,Chips and Guacamole,,3.99 
+1613,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Cheese",8.75 
+1613,9,1,Chips,,2.15 
+1613,9,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",11.75 
+1614,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1614,9,1,Canned Soft Drink,Coke,1.25 
+1615,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",8.75 
+1615,9,1,Steak Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",9.39 
+1615,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1615,9,1,Steak Soft Tacos,"Tomatillo Red Chili Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1616,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese",9.25 
+1616,9,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1617,9,1,Carnitas Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Sour Cream, Cheese",9.25 
+1617,9,1,Chips and Guacamole,,4.45 
+1618,9,1,Canned Soft Drink,Diet Coke,1.25 
+1618,9,1,Carnitas Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese, Lettuce",9.25 
+1618,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce",8.75 
+1619,9,1,Barbacoa Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Guacamole",11.75 
+1619,9,1,Bottled Water,,1.50 
+1620,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Lettuce",8.75 
+1620,9,1,Chips and Guacamole,,4.45 
+1621,9,1,Steak Bowl,"Roasted Chili Corn Salsa (Medium), Rice, Black Beans, Fajita Veggies",8.99 
+1621,9,1,Canned Soda,Sprite,1.09 
+1622,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1622,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1623,9,1,Steak Bowl,"Fresh Tomato Salsa (Mild), Sour Cream, Lettuce, Cheese, Black Beans, Rice",8.99 
+1623,9,1,Side of Chips,,1.69 
+1624,9,1,Barbacoa Bowl,"Rice, Cheese",8.69 
+1624,9,1,Side of Chips,,1.69 
+1625,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole, Lettuce",11.25 
+1625,9,1,Chips and Guacamole,,4.45 
+1626,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1626,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1626,9,1,Chips and Guacamole,,4.45 
+1627,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1627,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1627,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1627,9,1,Bottled Water,,1.50 
+1628,9,1,Chicken Burrito,"Lettuce, Rice, Fajita Veggies",8.19 
+1628,9,1,Steak Burrito,"Lettuce, Fajita Veggies, Rice",8.69 
+1629,9,1,Bottled Water,,1.09 
+1629,9,1,Side of Chips,,1.69 
+1629,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Cheese",8.49 
+1630,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1630,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1630,9,1,Canned Soft Drink,Coke,1.25 
+1631,9,1,Chicken Bowl,"Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream",8.49 
+1631,9,1,Chips and Guacamole,,3.99 
+1632,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Black Beans, Rice, Sour Cream, Guacamole",10.98 
+1632,9,1,N/Atucket Nectar,Peach Orange,3.39 
+1633,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1633,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1633,9,1,Chips,,2.15 
+1634,9,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",18.50 
+1635,9,1,Veggie Burrito,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1635,9,1,Veggie Salad,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Fajita Veggies, Lettuce",8.49 
+1636,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Guacamole",11.25 
+1636,9,1,Bottled Water,,1.50 
+1637,9,1,Chicken Bowl,"Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Black Beans, Rice, Cheese, Sour Cream, Lettuce",8.49 
+1637,9,1,Chips and Tomatillo-Red Chili Salsa,,2.39 
+1638,9,1,Steak Burrito,"Tomatillo-Red Chili Salsa (Hot), Black Beans, Rice, Cheese, Lettuce",8.99 
+1638,9,1,Chips and Fresh Tomato Salsa,,2.39 
+1639,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",11.75 
+1639,9,1,Chips and Guacamole,,4.45 
+1640,9,2,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",17.50 
+1641,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1641,9,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",9.25 
+1642,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1642,9,1,Chips and Guacamole,,4.45 
+1642,9,3,Canned Soft Drink,Diet Coke,3.75 
+1643,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1643,9,1,Chips and Guacamole,,4.45 
+1643,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1643,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1644,9,1,Canned Soft Drink,Lemonade,1.25 
+1644,9,1,Chips and Guacamole,,4.45 
+1644,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",8.75 
+1645,9,1,Canned Soft Drink,Coke,1.25 
+1645,9,1,Bottled Water,,1.50 
+1645,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1646,9,1,Veggie Salad Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1646,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole, Lettuce",11.25 
+1647,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1647,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1648,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese, Lettuce",9.25 
+1648,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Guacamole",11.25 
+1648,9,1,Chips and Guacamole,,4.45 
+1648,9,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Cheese",8.75 
+1649,9,1,Steak Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1649,9,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1650,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",8.75 
+1650,9,1,Chips and Guacamole,,4.45 
+1651,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",8.75 
+1651,9,1,Canned Soft Drink,Lemonade,1.25 
+1651,9,1,Chips,,2.15 
+1652,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",8.75 
+1652,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",8.75 
+1652,9,2,Chips,,4.30 
+1653,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Lettuce",8.75 
+1653,9,1,Canned Soft Drink,Sprite,1.25 
+1653,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1654,9,1,Steak Soft Tacos,Fresh Tomato Salsa,9.25 
+1654,9,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1655,9,1,Chips and Guacamole,,4.45 
+1655,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1655,9,1,Veggie Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1655,9,1,Barbacoa Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1655,9,1,Carnitas Soft Tacos,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",9.25 
+1655,9,3,Bottled Water,,4.50 
+1656,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole",11.75 
+1656,9,1,Canned Soft Drink,Lemonade,1.25 
+1657,9,1,Barbacoa Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1657,9,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",11.75 
+1657,9,1,Canned Soft Drink,Coke,1.25 
+1657,9,1,Canned Soft Drink,Nestea,1.25 
+1658,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans",9.25 
+1658,9,1,Chips and Guacamole,,4.45 
+1659,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1659,9,1,Carnitas Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole",11.75 
+1660,9,2,Chicken Burrito,"Fresh Tomato Salsa, Rice",17.50 
+1660,9,1,Chips,,2.15 
+1660,9,1,Canned Soft Drink,Coke,1.25 
+1660,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1660,9,10,Bottled Water,,15.00 
+1660,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Guacamole",11.25 
+1660,9,1,Chips and Guacamole,,4.45 
+1660,9,1,Chips and Guacamole,,4.45 
+1660,9,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1661,9,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Sour Cream, Cheese, Rice, Fajita Vegetables",11.25 
+1661,9,1,Chips,,2.15 
+1662,9,1,Canned Soft Drink,Sprite,1.25 
+1662,9,1,Bottled Water,,1.50 
+1662,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Pinto Beans, Sour Cream, Cheese",8.75 
+1662,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Sour Cream, Cheese, Guacamole",11.25 
+1662,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1663,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1663,9,1,Canned Soft Drink,Sprite,1.25 
+1664,9,1,Chips,,2.15 
+1664,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1664,9,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",9.25 
+1664,9,1,6 Pack Soft Drink,Diet Coke,6.49 
+1665,9,1,Canned Soft Drink,Diet Coke,1.25 
+1665,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese",8.75 
+1665,9,1,Chips,,2.15 
+1666,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1666,9,1,6 Pack Soft Drink,Coke,6.49 
+1667,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",11.25 
+1667,9,1,Bottled Water,,1.50 
+1668,9,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1668,9,1,Chips and Guacamole,,4.45 
+1669,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice",8.75 
+1669,9,1,Chips and Guacamole,,4.45 
+1670,9,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1670,9,1,Barbacoa Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1670,9,1,Canned Soft Drink,Coke,1.25 
+1670,9,1,Canned Soft Drink,Sprite,1.25 
+1671,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1671,9,3,Bottled Water,,4.50 
+1672,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",11.25 
+1672,9,1,Canned Soft Drink,Coke,1.25 
+1673,9,1,Bottled Water,,1.50 
+1673,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",9.25 
+1673,9,1,Chips,,2.15 
+1673,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Lettuce, Guacamole",11.25 
+1673,9,1,Chips and Guacamole,,4.45 
+1674,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1674,9,1,Chips and Guacamole,,4.45 
+1675,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream",8.75 
+1675,9,1,Chips and Guacamole,,4.45 
+1676,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese",9.25 
+1676,9,1,Chips and Guacamole,,4.45 
+1676,9,1,Canned Soft Drink,Coke,1.25 
+1677,9,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Guacamole",11.25 
+1677,9,1,Chips and Guacamole,,4.45 
+1678,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1678,9,1,Chips and Guacamole,,4.45 
+1679,9,1,Chicken Salad Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Lettuce",8.75 
+1679,9,1,Chips,,2.15 
+1679,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream",8.75 
+1679,9,1,Chips and Guacamole,,4.45 
+1679,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Lettuce",8.75 
+1680,9,1,Steak Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1680,9,1,Bottled Water,,1.50 
+1681,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Guacamole, Lettuce",11.25 
+1681,9,1,Chips and Guacamole,,4.45 
+1682,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1682,9,1,Chips,,2.15 
+1682,9,1,Bottled Water,,1.50 
+1683,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Lettuce",8.75 
+1683,9,1,Chips and Guacamole,,4.45 
+1684,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Lettuce",8.75 
+1684,9,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Guacamole, Lettuce",11.75 
+1685,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",8.75 
+1685,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",8.75 
+1686,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1686,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1687,9,1,Bottled Water,,1.50 
+1687,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese",8.75 
+1687,9,1,Chips,,2.15 
+1688,9,1,Steak Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Guacamole",11.75 
+1688,9,1,Chips,,2.15 
+1689,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1689,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1690,9,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",18.50 
+1690,9,1,Canned Soft Drink,Coke,1.25 
+1690,9,1,Chips and Guacamole,,4.45 
+1691,9,1,Chicken Bowl,White Rice,8.50 
+1691,9,1,Chicken Bowl,White Rice,8.50 
+1691,9,2,Chips and Guacamole,,8.50 
+1692,9,1,Chicken Salad Bowl,"Tomatillo Green Chili Salsa, Black Beans, Sour Cream, Cheese, Guacamole",11.25 
+1692,9,1,Carnitas Salad Bowl,"Tomatillo Green Chili Salsa, Black Beans, Cheese, Guacamole",11.89 
+1692,9,1,Canned Soft Drink,Diet Coke,1.25 
+1693,9,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.39 
+1693,9,1,Chips and Guacamole,,4.45 
+1694,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1694,9,1,Chips,,2.15 
+1694,9,1,Bottled Water,,1.50 
+1695,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",11.75 
+1695,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Cheese",8.75 
+1695,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",9.25 
+1696,9,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1696,9,1,Chips and Guacamole,,4.45 
+1696,9,1,Canned Soft Drink,Coke,1.25 
+1696,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1697,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1697,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1698,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",8.75 
+1698,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",8.75 
+1698,9,1,Chips,,2.15 
+1699,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1699,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Guacamole",11.25 
+1699,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1700,9,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Guacamole",11.25 
+1700,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1701,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1701,9,1,Chips,,2.15 
+1701,9,1,Veggie Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1701,9,1,Chips,,2.15 
+1702,9,1,Steak Bowl,"Rice, Tomatillo-Red Chili Salsa (Hot)",8.99 
+1702,9,1,Steak Burrito,"Rice, Tomatillo-Red Chili Salsa (Hot)",8.99 
+1703,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1703,9,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1703,9,1,Barbacoa Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1703,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1704,9,1,Chicken Bowl,"Fresh Tomato Salsa, Pinto Beans, Rice, Lettuce, Cheese",8.75 
+1704,9,1,Chips and Guacamole,,4.45 
+1705,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1705,9,1,Canned Soft Drink,Diet Coke,1.25 
+1705,9,1,Chips and Guacamole,,4.45 
+1706,9,1,Veggie Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole",11.25 
+1706,9,1,Canned Soft Drink,Coke,1.25 
+1707,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1707,9,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1708,9,1,Veggie Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",11.25 
+1708,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1709,9,1,Canned Soft Drink,Diet Coke,1.25 
+1709,9,1,Canned Soft Drink,Sprite,1.25 
+1709,9,1,Canned Soft Drink,Nestea,1.25 
+1709,9,1,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",9.25 
+1710,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Guacamole",11.75 
+1710,9,1,Chips,,2.15 
+1711,9,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1711,9,1,Chips and Guacamole,,4.45 
+1712,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Lettuce",8.75 
+1712,9,1,Chips and Guacamole,,4.45 
+1713,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole",11.25 
+1713,9,1,Steak Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",9.25 
+1714,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Cheese, Sour Cream",8.75 
+1714,9,1,Steak Soft Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese, Sour Cream, Lettuce",9.25 
+1714,9,1,Chips and Guacamole,,4.45 
+1715,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1715,9,1,Chips and Guacamole,,4.45 
+1715,9,1,Canned Soft Drink,Coke,1.25 
+1716,9,1,Chips and Guacamole,,4.45 
+1716,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1717,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Cheese, Lettuce",9.25 
+1717,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Pinto Beans, Guacamole, Lettuce",11.25 
+1717,9,1,Chips,,2.15 
+1718,9,2,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",23.50 
+1718,9,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Cheese",9.25 
+1718,9,1,Chips,,2.15 
+1719,9,2,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Lettuce, Sour Cream",18.50 
+1719,9,1,Chicken Soft Tacos,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1719,9,2,Chips and Tomatillo Red Chili Salsa,,5.90 
+1720,9,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole",11.89 
+1720,9,1,Chips and Guacamole,,4.45 
+1721,9,1,Veggie Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce",8.75 
+1721,9,1,Chips and Guacamole,,4.45 
+1722,9,1,Steak Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",9.25 
+1722,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1723,9,1,Veggie Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce",11.25 
+1723,9,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1724,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Guacamole",11.25 
+1724,9,1,Chicken Crispy Tacos,"Tomatillo Red Chili Salsa, Black Beans, Cheese, Lettuce, Guacamole",11.25 
+1725,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Guacamole",11.25 
+1725,9,1,Chips and Fresh Tomato Salsa,,2.95 
+1726,9,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1726,9,1,Carnitas Soft Tacos,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1727,9,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",9.25 
+1727,9,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1728,9,1,Chicken Bowl,"Fresh Tomato Salsa, Guacamole, Lettuce",11.25 
+1728,9,1,Chips,,2.15 
+1729,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1729,9,2,Chips and Guacamole,,8.90 
+1730,9,1,Chicken Salad Bowl,"Tomatillo Red Chili Salsa, Rice, Cheese",8.75 
+1730,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1731,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1731,9,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1732,9,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1732,9,1,Chips,,2.15 
+1732,9,1,Canned Soft Drink,Coke,1.25 
+1733,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1733,9,1,Canned Soft Drink,Sprite,1.25 
+1734,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Lettuce",8.75 
+1734,9,1,Chips and Guacamole,,4.45 
+1735,9,1,Canned Soft Drink,Coke,1.25 
+1735,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Guacamole",11.25 
+1735,9,1,Chicken Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1736,9,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1736,9,1,Canned Soft Drink,Coke,1.25 
+1737,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Guacamole",11.25 
+1737,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",11.25 
+1737,9,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Guacamole",11.25 
+1738,9,1,Chicken Salad Bowl,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce",8.75 
+1738,9,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Lettuce",8.75 
+1738,9,2,Steak Soft Tacos,"Fresh Tomato Salsa, Cheese, Lettuce",18.50 
+1739,9,1,Barbacoa Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",11.75 
+1739,9,1,Canned Soft Drink,Coke,1.25 
+1740,9,1,Chips and Guacamole,,4.45 
+1740,9,1,Barbacoa Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1741,9,1,6 Pack Soft Drink,Coke,6.49 
+1741,9,1,Chips and Guacamole,,4.45 
+1741,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Sour Cream, Cheese, Lettuce",8.75 
+1742,9,1,Chicken Bowl,"Fresh Tomato Salsa, Pinto Beans, Rice, Cheese, Lettuce, Guacamole, Sour Cream, Fajita Vegetables",11.25 
+1742,9,1,6 Pack Soft Drink,Diet Coke,6.49 
+1742,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1743,9,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1743,9,1,Steak Bowl,"Roasted Chili Corn Salsa, Black Beans, Cheese, Sour Cream",9.25 
+1744,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Guacamole, Lettuce",11.25 
+1744,9,1,Chips,,2.15 
+1745,9,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1745,9,1,Chips and Guacamole,,4.45 
+1745,9,1,Chicken Crispy Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1745,9,1,Chips and Guacamole,,4.45 
+1746,9,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1746,9,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Black Beans, Cheese",9.25 
+1746,9,1,Chips and Guacamole,,4.45 
+1746,9,1,Canned Soft Drink,Lemonade,1.25 
+1746,9,1,Canned Soft Drink,Sprite,1.25 
+1747,9,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Black Beans, Sour Cream, Lettuce",8.75 
+1747,9,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1748,9,1,Barbacoa Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1748,9,1,Chips,,2.15 
+1748,9,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1749,9,1,Chips and Guacamole,,4.45 
+1749,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1749,9,1,Canned Soft Drink,Coke,1.25 
+1750,9,1,Carnitas Burrito,"Roasted Chili Corn Salsa, Rice, Pinto Beans, Guacamole, Lettuce",11.75 
+1750,9,1,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1751,9,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole",11.25 
+1751,9,2,Chips,,4.30 
+1751,9,1,Barbacoa Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",9.39 
+1752,9,1,Steak Salad Bowl,"Fresh Tomato Salsa, Black Beans, Pinto Beans, Cheese",9.39 
+1752,9,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream",8.75 
+1753,9,1,Canned Soft Drink,Coke,1.25 
+1753,9,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese",9.25 
+1753,9,1,Chips and Guacamole,,4.45 
+1754,9,1,Chicken Bowl,"Fresh Tomato Salsa, Black Beans, Rice, Sour Cream, Cheese, Guacamole, Lettuce",11.25 
+1754,9,1,Canned Soft Drink,Sprite,1.25 
+1755,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese",8.75 
+1755,10,1,Canned Soft Drink,Coke,1.25 
+1755,10,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1756,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole",11.25 
+1756,10,1,Chips and Guacamole,,4.45 
+1757,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1757,10,1,Bottled Water,,1.50 
+1757,10,1,Chips and Guacamole,,4.45 
+1758,10,1,Chips and Guacamole,,4.45 
+1758,10,1,Steak Burrito,"Fresh Tomato Salsa, Cheese, Black Beans, Rice",9.25 
+1759,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",8.75 
+1759,10,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1759,10,1,Canned Soft Drink,Diet Coke,1.25 
+1760,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",11.25 
+1760,10,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1761,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream, Lettuce",8.75 
+1761,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Lettuce",8.75 
+1761,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",8.75 
+1761,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Cheese",8.75 
+1761,10,2,Chips,,4.30 
+1762,10,1,Steak Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1762,10,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese, Lettuce",9.39 
+1763,10,1,Chips and Guacamole,,4.45 
+1763,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1763,10,1,Canned Soft Drink,Coke,1.25 
+1764,10,2,Chicken Bowl,"Fresh Tomato Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",22.50 
+1764,10,1,Chips and Guacamole,,4.45 
+1764,10,1,Chips and Fresh Tomato Salsa,,2.95 
+1764,10,1,Chips,,2.15 
+1764,10,2,Steak Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",23.50 
+1765,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1765,10,1,Chips,,2.15 
+1765,10,1,Canned Soft Drink,Coke,1.25 
+1766,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1766,10,1,Chips and Guacamole,,4.45 
+1766,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",11.25 
+1766,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole",11.75 
+1767,10,2,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Lettuce",17.50 
+1768,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1768,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1768,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole",11.25 
+1769,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1769,10,1,Chips and Guacamole,,4.45 
+1770,10,1,Barbacoa Bowl,"Tomatillo Green Chili Salsa, Rice, Cheese, Guacamole, Lettuce",11.75 
+1770,10,1,Bottled Water,,1.50 
+1771,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1771,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream",8.75 
+1772,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Cheese, Lettuce, Guacamole",11.75 
+1772,10,1,Steak Burrito,"Tomatillo Red Chili Salsa, Rice, Black Beans, Cheese",9.25 
+1772,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1773,10,1,Chips and Guacamole,,4.45 
+1773,10,1,Steak Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.75 
+1774,10,1,Carnitas Crispy Tacos,"Fresh Tomato Salsa, Pinto Beans, Sour Cream, Cheese, Lettuce",9.25 
+1774,10,1,Chips and Guacamole,,4.45 
+1775,10,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1775,10,1,Chicken Crispy Tacos,"Tomatillo Red Chili Salsa, Black Beans, Cheese",8.75 
+1775,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Pinto Beans, Cheese",8.75 
+1776,10,1,Chips,,2.15 
+1776,10,1,Bottled Water,,1.50 
+1776,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1777,10,1,Chips and Guacamole,,4.45 
+1777,10,1,Steak Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Lettuce",9.25 
+1778,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese",8.75 
+1778,10,1,Bottled Water,,1.50 
+1778,10,1,Canned Soft Drink,Lemonade,1.25 
+1778,10,1,Canned Soft Drink,Lemonade,1.25 
+1779,10,1,Canned Soft Drink,Diet Coke,1.25 
+1779,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",8.75 
+1779,10,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+1780,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1780,10,1,Veggie Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1781,10,1,Bottled Water,,1.50 
+1781,10,1,Steak Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1782,10,1,Veggie Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1782,10,1,Chips,,2.15 
+1783,10,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",9.25 
+1783,10,1,Chicken Soft Tacos,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce",8.75 
+1784,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1784,10,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1785,10,1,Bottled Water,,1.50 
+1785,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1785,10,1,Bottled Water,,1.50 
+1785,10,1,Canned Soft Drink,Diet Coke,1.25 
+1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice",8.75 
+1786,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1786,10,1,Barbacoa Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce",11.75 
+1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1786,10,1,Carnitas Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Guacamole, Lettuce",11.75 
+1786,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Sour Cream, Lettuce",8.75 
+1786,10,4,Chips and Guacamole,,17.80 
+1786,10,4,Canned Soft Drink,Coke,5.00 
+1786,10,4,Canned Soft Drink,Sprite,5.00 
+1787,10,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1787,10,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+1787,10,1,Canned Soft Drink,Lemonade,1.25 
+1788,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1788,10,1,Canned Soft Drink,Sprite,1.25 
+1788,10,1,Chips,,2.15 
+1789,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Sour Cream, Guacamole",11.25 
+1789,10,2,Canned Soft Drink,Coke,2.50 
+1789,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream",9.25 
+1790,10,1,Canned Soft Drink,Sprite,1.25 
+1790,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Cheese, Guacamole, Lettuce",11.25 
+1790,10,1,Chips and Fresh Tomato Salsa,,2.95 
+1791,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Rice, Sour Cream, Guacamole, Lettuce",11.75 
+1791,10,1,Chips,,2.15 
+1792,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",11.25 
+1792,10,1,Bottled Water,,1.50 
+1793,10,1,Steak Burrito,Brown Rice,8.99 
+1793,10,1,Chips,,1.99 
+1793,10,1,Barbacoa Bowl,Guacamole,11.49 
+1794,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Fajita Vegetables, Cheese, Lettuce",8.75 
+1794,10,1,Chips and Guacamole,,4.45 
+1794,10,1,Canned Soft Drink,Diet Coke,1.25 
+1795,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1795,10,1,Chips and Guacamole,,4.45 
+1795,10,1,Canned Soft Drink,Sprite,1.25 
+1796,10,1,Bottled Water,,1.50 
+1796,10,1,Steak Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.75 
+1797,10,1,Veggie Burrito,"Fresh Tomato Salsa, Rice, Pinto Beans, Cheese",8.75 
+1797,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Lettuce",8.75 
+1798,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream",11.25 
+1798,10,1,6 Pack Soft Drink,Diet Coke,6.49 
+1798,10,1,Steak Crispy Tacos,"Tomatillo Green Chili Salsa, Cheese, Sour Cream, Guacamole",11.75 
+1799,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese",8.75 
+1799,10,1,Chips,,2.15 
+1799,10,1,Canned Soft Drink,Sprite,1.25 
+1800,10,1,6 Pack Soft Drink,Diet Coke,6.49 
+1800,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",8.75 
+1800,10,1,Chips and Guacamole,,4.45 
+1801,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Lettuce",8.75 
+1801,10,1,Chips and Guacamole,,4.45 
+1802,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1802,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1803,10,1,Chips and Guacamole,,4.45 
+1803,10,1,6 Pack Soft Drink,Lemonade,6.49 
+1803,10,1,Steak Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Cheese",9.25 
+1804,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1804,10,1,Canned Soft Drink,Coke,1.25 
+1804,10,1,Chips and Guacamole,,4.45 
+1805,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",11.25 
+1805,10,1,Veggie Salad Bowl,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1806,10,1,Bottled Water,,1.50 
+1806,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1806,10,1,Bottled Water,,1.50 
+1806,10,1,Canned Soft Drink,Diet Coke,1.25 
+1807,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese",9.25 
+1807,10,1,Steak Salad Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Cheese",9.39 
+1808,10,1,Chips and Guacamole,,4.45 
+1808,10,1,Steak Soft Tacos,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Cheese, Sour Cream",9.25 
+1809,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Fajita Vegetables, Cheese, Sour Cream",8.75 
+1809,10,1,Chips and Guacamole,,4.45 
+1809,10,1,Canned Soft Drink,Sprite,1.25 
+1810,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Black Beans, Sour Cream, Cheese, Guacamole",11.25 
+1810,10,1,Steak Crispy Tacos,"Roasted Chili Corn Salsa, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1811,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce",8.75 
+1811,10,1,Chicken Burrito,"Tomatillo Green Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1811,10,1,Carnitas Soft Tacos,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1812,10,1,Chicken Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Lettuce",8.75 
+1812,10,1,Chicken Burrito,"Tomatillo Red Chili Salsa, Rice, Cheese, Guacamole, Lettuce",11.25 
+1812,10,2,Canned Soft Drink,Coke,2.50 
+1813,10,2,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",17.50 
+1814,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Fajita Vegetables, Rice, Cheese, Sour Cream",9.25 
+1814,10,1,Chips and Guacamole,,4.45 
+1815,10,1,Chicken Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce",11.25 
+1815,10,1,Canned Soft Drink,Sprite,1.25 
+1816,10,1,Chicken Burrito,"Roasted Chili Corn Salsa, Pinto Beans, Cheese, Sour Cream",8.75 
+1816,10,1,Chips and Guacamole,,4.45 
+1817,10,1,Bottled Water,,1.50 
+1817,10,1,Chicken Burrito,"Fresh Tomato Salsa, Fajita Vegetables, Rice",8.75 
+1817,10,1,Bottled Water,,1.50 
+1817,10,1,Canned Soft Drink,Diet Coke,1.25 
+1818,10,1,Steak Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",9.39 
+1818,10,1,Veggie Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",8.75 
+1819,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Cheese, Lettuce",8.75 
+1819,10,1,Chips and Guacamole,,4.45 
+1820,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream, Guacamole",11.25 
+1820,10,1,Canned Soft Drink,Coke,1.25 
+1821,10,1,Carnitas Burrito,"Tomatillo Green Chili Salsa, Rice, Pinto Beans, Sour Cream",9.25 
+1821,10,1,Chips and Guacamole,,4.45 
+1822,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Black Beans, Cheese, Guacamole",11.25 
+1822,10,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce",8.75 
+1822,10,2,Bottled Water,,3.00 
+1823,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans, Sour Cream, Lettuce",8.75 
+1823,10,1,Chips,,2.15 
+1823,10,1,Canned Soft Drink,Diet Coke,1.25 
+1824,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce",11.25 
+1824,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream, Guacamole",11.25 
+1824,10,1,Chips and Guacamole,,4.45 
+1825,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.25 
+1825,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Rice, Black Beans, Cheese, Lettuce, Guacamole",11.25 
+1825,10,1,Chicken Bowl,"Tomatillo Red Chili Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce",8.75 
+1825,10,1,Barbacoa Burrito,"Tomatillo Red Chili Salsa, Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Guacamole",11.75 
+1825,10,1,Carnitas Bowl,"Roasted Chili Corn Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1825,10,1,Barbacoa Bowl,"Roasted Chili Corn Salsa, Pinto Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1826,10,1,Chicken Bowl,"Tomatillo Green Chili Salsa, Rice, Black Beans",8.75 
+1826,10,1,Chips and Guacamole,,4.45 
+1826,10,1,Canned Soft Drink,Nestea,1.25 
+1826,10,1,Bottled Water,,1.50 
+1827,10,1,Chicken Bowl,"Roasted Chili Corn Salsa, Cheese, Lettuce",8.75 
+1827,10,1,Chips and Guacamole,,4.45 
+1827,10,1,Canned Soft Drink,Diet Coke,1.25 
+1827,10,1,Barbacoa Burrito,Tomatillo Green Chili Salsa,9.25 
+1827,10,1,Barbacoa Burrito,Tomatillo Green Chili Salsa,9.25 
+1828,10,1,Chicken Bowl,"Fresh Tomato Salsa, Rice, Black Beans, Cheese, Sour Cream",8.75 
+1828,10,1,Chips and Guacamole,,4.45 
+1828,10,1,Canned Soft Drink,Coke,1.25 
+1829,10,1,Steak Burrito,"Tomatillo Green Chili Salsa, Rice, Cheese, Sour Cream, Guacamole",11.75 
+1829,10,1,Veggie Burrito,"Tomatillo Red Chili Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce",11.25 
+1829,10,1,Canned Soft Drink,Sprite,1.25 
+1830,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1830,10,1,Veggie Burrito,"Tomatillo Green Chili Salsa, Rice, Fajita Vegetables, Black Beans, Guacamole",11.25 
+1831,10,1,Carnitas Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce",9.25 
+1831,10,1,Chips,,2.15 
+1831,10,1,Bottled Water,,1.50 
+1832,10,1,Chicken Soft Tacos,"Fresh Tomato Salsa, Rice, Cheese, Sour Cream",8.75 
+1832,10,1,Chips and Guacamole,,4.45 
+1833,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1833,10,1,Steak Burrito,"Fresh Tomato Salsa, Rice, Sour Cream, Cheese, Lettuce, Guacamole",11.75 
+1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Guacamole, Lettuce",11.25 
+1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Lettuce",8.75 
+1834,10,1,Chicken Salad Bowl,"Fresh Tomato Salsa, Fajita Vegetables, Pinto Beans, Lettuce",8.75 
