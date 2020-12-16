@@ -1,0 +1,254 @@
+Abita Amber,128
+Abita Golden,125
+Abita Jockamo IPA,190
+Abita Light,118
+Abita Purple Haze,128
+Abita Restoration,167
+Abita Turbodog,168
+Amstel Light,99
+Anchor Porter,209
+Anchor Steam,153
+Aspen Edge,94
+Augustiner Amber Lager,135
+Beach Bum Blonde Ale,163
+Beck's,143
+Beck's Light,64
+Blatz Beer,153
+Blue Moon Belgian White,164
+Blue Moon Full Moon Winter Ale,180
+Blue Moon Harvest Moon Pumpkin Ale,180
+Blue Moon Honey Moon Summer Ale,157
+Blue Moon Rising Moon Spring Ale,161
+Blue Point Toasted Lager,175
+Boddington's Ale,148
+Brooklyn Black Chocolate Stout,320
+Brooklyn Brown Ale,190
+Brooklyn East India Pale Ale,200
+Brooklyn Lager,170
+Brooklyn Monster,305
+Brooklyn Pennant Pale Ale,160
+Brooklyn Pilsner,155
+Brooklyn Summer Ale,150
+Brooklyn Winter Ale,205
+Bud American Ale,182
+Bud Dry,130
+Bud Ice,123
+Bud Ice Light,115
+Bud Light,110
+Bud Light Chelada,151
+Bud Light Lime,116
+Bud Light Platinum,137
+Bud Light Wheat,118
+Budweiser,145
+Budweiser Chelada,186
+Budweiser Select,99
+Budweiser Select 55,55
+Busch,132
+Busch Ice,171
+Busch Light,95
+Carling Black Label,138
+Coors Banquet,149
+Coors Extra Gold,152
+Coors Light,102
+Corona Extra,148
+Corona Light,99
+Cristal (Peru),134
+Cusque,140
+Dogfish Head 120 Minute IPA,450
+Dogfish Head 60 Minute IPA,209
+Dogfish Head 90 Minute IPA,294
+Dogfish Head Midas Touch,307
+Dogfish Head Red & White,310
+Dogfish Head Shelter Pale Ale,168
+Efes Pils,170
+Firestone DBA,166
+Flying Dog Doggie Style Pale Ale,150
+Flying Dog Double Dog,313
+Flying Dog Gonzo,271
+Flying Dog Horn Dog,314
+Flying Dog In Heat Wheat,138
+Flying Dog Kerberos Tripel,238
+Flying Dog Old Scratch Amber Lager,154
+Flying Dog Raging Bitch,221
+Flying Dog Road Dog,163
+Flying Dog Snake Dog IPA,188
+Flying Dog Tire Bite Golden Ale,129
+Foster's,145
+Foster's Premium Ale,160
+Genesee Beer,148
+Genesee Cream Ale,162
+Genesee Ice,156
+Genesee Red,148
+George Killian's Irish Red,162
+Grolsch Amber Ale,160
+Grolsch Blonde Lager,120
+Grolsch Light Lager,97
+Grolsch Premium Lager,147
+Guinness Draught,125
+Guinness Extra Stout,153
+Hamm's Beer,144
+Hamm's Special Light,110
+Harbin,144
+Harp Lager,155
+Heineken,150
+Heineken Light,99
+Hiland Light,97
+Hoegaarden Belgian White,153
+Icehouse 5.0,132
+Icehouse 5.5,149
+Icehouse Light,123
+Irish Red Ale,196
+Iron City,140
+Iron City Light,95
+Keystone Ice,142
+Keystone Light,104
+Keystone Premium,111
+Kirin,147
+Kirin Light,95
+Lech,143
+Leinenkugel Amber Light,110
+Leinenkugel Creamy Dark,170
+Leinenkugel Honey Weiss,149
+Leinenkugel Light,105
+Leinenkugel Northwoods Lager,163
+Leinenkugel Original,152
+Leinenkugel Red,166
+Leinenkugel Sunset Wheat,165
+Lowenbrau Dark,160
+Lowenbrau Special Beer,160
+Magic Hat #9,153
+Michael Shea's,145
+Michelob AmberBock,155
+Michelob Beer,164
+Michelob Dunkelweisse,167
+Michelob Golden Draft,152
+Michelob Golden Draft Light,110
+Michelob Honey Lager,174
+Michelob Light,123
+Michelob Pale Ale,187
+Michelob Porter,187
+Michelob Ultra,95
+Michelob Ultra Amber,114
+Michelob Ultra Flavored,107
+Mickey's Ice,157
+Miller Chill,100
+Miller Genuine Draft,143
+Miller Genuine Draft 64,64
+Miller Genuine Draft Light,110
+Miller High Life,143
+Miller High Life Light,110
+Miller Lite,96
+Miller Lite B.C. Amber,110
+Miller Lite B.C. Blonde,110
+Miller Lite B.C. Wheat,110
+Milwaukee's Best,128
+Milwaukee's Best Ice,144
+Milwaukee's Best Light,98
+Modelo Especial,145
+Molson Canadian,136
+Molson Canadian 67,67
+Molson Canadian Light,113
+Molson Ice,160
+Natural Ice,157
+Natural Light,95
+Negra Modelo,170
+New Belgium 1554,205
+New Belgium 2 Below,200
+New Belgium Abbey,200
+New Belgium Blue Paddle,140
+New Belgium Fat Tire,160
+New Belgium Mothership Wit,155
+New Belgium Skinny Dip,110
+New Belgium Sunshine Wheat,145
+New Belgium Trippel,215
+New Planet Tread Lightly Ale,125
+Newcastle Brown Ale,150
+Old Milwaukee Beer,146
+Old Milwaukee Light,114
+Olympia Premium Lager,146
+Ommegang Three Philosophers,290
+Pabst Blue Ribbon,153
+Pabst Extra Light Low Alcohol,67
+Pacifico,145
+Peroni Nastro Azzurro,150
+Pete's Wicked Ale,174
+Pilsner Urquell,156
+Red Bridge,160
+Red Dog,147
+Red Stripe,153
+Redhook ESB,179
+Redhook IPA,188
+Redhook Slim Chance,125
+Rock Bottom Illuminator Doppelback,288
+Rolling Rock Extra Pale,142
+Rolling Rock Green Light,83
+Rolling Rock Premium Beer,132
+Sam Adams Black Lager,191
+Sam Adams Blackberry Witbier,176
+Sam Adams Boston Ale,180
+Sam Adams Boston Lager,170
+Sam Adams Brown Ale,159
+Sam Adams Cherry Wheat,180
+Sam Adams Coastal Wheat,167
+Sam Adams Cream Stout,190
+Sam Adams Hefeweizen,182
+Sam Adams Honey Porter,192
+Sam Adams IPA,175
+Sam Adams Imperial Double Bock,320
+Sam Adams Imperial Stout,316
+Sam Adams Imperial White,328
+Sam Adams Irish Red,180
+Sam Adams Light,119
+Sam Adams Octoberfest,180
+Sam Adams Pale Ale,160
+Sam Adams Scotch Ale,200
+Sam Adams Summer Ale,160
+Sam Adams White Ale,175
+Sam Adams Winter Lager,200
+Schaefer Beer,142
+Schlitz Beer,146
+Schlitz Light,110
+Shipyard Light,97
+Shock Top,168
+Sierra Nevada Anniversary Ale,190
+Sierra Nevada Bigfoot,330
+Sierra Nevada Celebration Ale,214
+Sierra Nevada Draft Ale,157
+Sierra Nevada Early Spring Beer,190
+Sierra Nevada Harvest Ale,215
+Sierra Nevada India Pale Ale,231
+Sierra Nevada Pale Ale,175
+Sierra Nevada Pale Bock,218
+Sierra Nevada Porter,194
+Sierra Nevada Stout,225
+Sierra Nevada Summerfest,158
+Sierra Nevada Wheat Beer,153
+Signature Stroh Beer,153
+Smithwick's,150
+Sol Cerveza,130
+Southpaw Light,123
+St. Pauli Girl,148
+St. Pauli Girl Special Dark,150
+Stella Artois,154
+Strauss Endless Summer Light,110
+Stroh's Beer,149
+Stroh's Light,113
+Tsingtao,157
+Tuborg Deluxe Dark Export,163
+Tuborg Export Quality,156
+Tyskie,153
+Victoria,135
+Weinhard's Amber Light,135
+Weinhard's Blonde Lager,161
+Weinhard's Hefeweizen,151
+Weinhard's Pale Ale,147
+Weinhard's Private Reserve,150
+Widmer Hefeweizen,159
+Winter's Bourbon Cask Ale,165
+Wyder's Apple Cider,150
+Wyder's Pear Cider,136
+Yuengling Ale,145
+Yuengling Lager,135
+Yuengling Light,98
+Yuengling Porter,150
+Yuengling Premium Beer,135
