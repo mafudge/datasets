@@ -1,0 +1,3 @@
+hardware|hammer|14.97
+hardware|saw|9.97
+clothing|boots|22.99

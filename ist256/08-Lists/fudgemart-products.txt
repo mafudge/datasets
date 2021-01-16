@@ -1,0 +1,53 @@
+Hardware|Straight Claw Hammer|15.9500
+Hardware|Sledge Hammer|21.9500
+Hardware|Rip Claw Hammer|19.9500
+Clothing|Dri-Fit Tee|20.0000
+Clothing|Running Pants|35.0000
+Clothing|Wool Socks|8.0000
+Clothing|Squeaky Sneaks|65.0000
+Clothing|Cool Jeans|45.0000
+Clothing|Denim Jacket|60.0000
+Clothing|Leather Jacket|95.0000
+Clothing|Courdory Pants|24.0000
+Clothing|Work Pants|38.0000
+Clothing|Work Gloves|8.0000
+Clothing|Comfor-fit Tee|12.0000
+Clothing|Running Shorts|20.0000
+Clothing|X-Train Shoes|75.0000
+Clothing|Baseball Cap|10.0000
+Electronics|DVD Player|45.0000
+Electronics|HD-DVD Player|150.0000
+Electronics|Blu-Ray DVD Player|150.0000
+Electronics|"40"" LCD HD TV"|1000.0000
+Electronics|"50"" LCD HD TV"|1300.0000
+Electronics|"65"" LCD HD TV"|1900.0000
+Electronics|PC Webcam|20.0000
+Electronics|Computer Mouse|10.0000
+Electronics|Ergonomic Keyboard|22.0000
+Electronics|"20"" LCD Monitor"|300.0000
+Electronics|"17"" LCD Monitor"|150.0000
+Hardware|18v Drill Driver Set|90.0000
+Hardware|19.2v Drill Driver Set|90.0000
+Hardware|"10"" Miter Saw"|200.0000
+Hardware|Lazer Level|45.0000
+Hardware|Table Saw|290.0000
+Hardware|Power Washer|290.0000
+Hardware|Cold Chisel Set|10.0000
+Hardware|Screwdriver Set|10.0000
+Hardware|Drill Bit Set|25.0000
+Hardware|Belt Sander|250.0000
+Housewares|Crock Pot|25.0000
+Housewares|Monsignor Coffee|20.0000
+Housewares|Electric Griddle|20.0000
+Sporting Goods|Tennis Racket|50.0000
+Sporting Goods|Tennis Balls|8.0000
+Sporting Goods|Basketball|35.0000
+Sporting Goods|12 Pack Golf Balls|20.0000
+Sporting Goods|Pro. Football|65.0000
+Sporting Goods|Baseball Glove|75.0000
+Sporting Goods|Heart Monitor|20.0000
+Sporting Goods|Pedometer|10.0000
+Sporting Goods|Sport Cycle|255.0000
+Sporting Goods|Soccer Ball|45.0000
+Housewares|Steam Iron|15.0000
+Housewares|Blender|45.0000
