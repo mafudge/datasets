@@ -8,5 +8,5 @@
   { "symbol" : "NET", "price" : 78.00 },
   { "symbol" : "NFLX", "price" : 497.00 },
   { "symbol" : "TSLA", "price" : 823.80 },
-  { "symbol" : "TWTR", "price" : 45.11 },
+  { "symbol" : "TWTR", "price" : 45.11 }
 ]
