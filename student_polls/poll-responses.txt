@@ -1,0 +1,12 @@
+1 lh
+1 sb
+1 af
+1 cp
+2 sb
+2 af
+2 cp
+3 cp
+3 sb
+3 lh
+4 lh
+4 sb
