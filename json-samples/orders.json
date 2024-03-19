@@ -1,0 +1,22 @@
+[
+    {
+        "Customer" : { "FirstName" : "Abby", "LastName" : "Kuss"}, 
+        "Items" : [
+            { "Name" : "T-Shirt", "Price" : 10.0, "Quantity" : 3},
+            { "Name" : "Jacket", "Price" : 20.0, "Quantity" : 1}
+        ]
+    },
+    {
+        "Customer" : { "FirstName" : "Bette", "LastName" : "Alott"}, 
+        "Items" : [
+            { "Name" : "Shoes", "Price" : 25.0, "Quantity" : 1}, 
+            { "Name" : "Jacket", "Price" : 20.0, "Quantity" : 1}
+        ]
+    },
+    {
+        "Customer" : { "FirstName" : "Chris", "LastName" : "Peanugget"}, 
+        "Items" : [
+            { "Name" : "T-Shirt", "Price" : 10.0, "Quantity" : 1}
+        ]
+    }
+]
