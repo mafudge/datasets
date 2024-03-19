@@ -1,0 +1,1006 @@
+{
+    "id": 34607,
+    "url": "https://www.tvmaze.com/shows/34607/on-my-block",
+    "name": "On My Block",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 30,
+    "premiered": "2018-03-16",
+    "ended": "2021-10-04",
+    "officialSite": "https://www.netflix.com/title/80117809",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 6.5
+    },
+    "weight": 93,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 339273,
+        "imdb": "tt7879820"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/360/902170.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/360/902170.jpg"
+    },
+    "summary": "<p>In a rough inner-city Los Angeles neighborhood, four smart, funny and streetwise teens find their lifelong friendship tested as they begin high school.</p>",
+    "updated": 1633360723,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/34607"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2186321"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 1401249,
+                "url": "https://www.tvmaze.com/episodes/1401249/on-my-block-1x01-chapter-one",
+                "name": "Chapter One",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372910.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372910.jpg"
+                },
+                "summary": "<p>As the first day of high school approaches, Monse returns from writing camp to find that Ruby and Jamal are on the outs with Cesar.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401249"
+                    }
+                }
+            },
+            {
+                "id": 1401381,
+                "url": "https://www.tvmaze.com/episodes/1401381/on-my-block-1x02-chapter-two",
+                "name": "Chapter Two",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372911.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372911.jpg"
+                },
+                "summary": "<p>An attempted intervention on Cesar's behalf doesn't go quite as planned. Meanwhile, Ruby experiences love at first sight with a friend of the family.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401381"
+                    }
+                }
+            },
+            {
+                "id": 1401382,
+                "url": "https://www.tvmaze.com/episodes/1401382/on-my-block-1x03-chapter-three",
+                "name": "Chapter Three",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372912.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372912.jpg"
+                },
+                "summary": "<p>As Cesar sinks deeper into Oscar's unsafe world, the group deals with the emotional turmoil of attending their first high school dance.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401382"
+                    }
+                }
+            },
+            {
+                "id": 1401383,
+                "url": "https://www.tvmaze.com/episodes/1401383/on-my-block-1x04-chapter-four",
+                "name": "Chapter Four",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372913.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372913.jpg"
+                },
+                "summary": "<p>On Halloween, Jamal persuades the crew to trick-or-treat in swanky Brentwood, where he hopes to uncover clues to a local mystery.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401383"
+                    }
+                }
+            },
+            {
+                "id": 1401384,
+                "url": "https://www.tvmaze.com/episodes/1401384/on-my-block-1x05-chapter-five",
+                "name": "Chapter Five",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372914.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372914.jpg"
+                },
+                "summary": "<p>Self-confessed blabbermouth Jamal gives Cesar a time limit to tell Ruby about what happened with Olivia, but a police lockdown complicates matters.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401384"
+                    }
+                }
+            },
+            {
+                "id": 1401385,
+                "url": "https://www.tvmaze.com/episodes/1401385/on-my-block-1x06-chapter-six",
+                "name": "Chapter Six",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372915.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372915.jpg"
+                },
+                "summary": "<p>As secrets get revealed, the core friend group begins to fracture. Amid the upheaval, Jamal's lies about football finally catch up with him.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401385"
+                    }
+                }
+            },
+            {
+                "id": 1401386,
+                "url": "https://www.tvmaze.com/episodes/1401386/on-my-block-1x07-chapter-seven",
+                "name": "Chapter Seven",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372916.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372916.jpg"
+                },
+                "summary": "<p>Ruby becomes obsessed with planning the perfect quinceañera for Olivia, while Jamal finds an oddball ally in his quest to solve the RollerWorld riddle.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401386"
+                    }
+                }
+            },
+            {
+                "id": 1401387,
+                "url": "https://www.tvmaze.com/episodes/1401387/on-my-block-1x08-chapter-eight",
+                "name": "Chapter Eight",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372917.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372917.jpg"
+                },
+                "summary": "<p>Cesar spends quality time with Oscar, Monse finagles a baby-sitting job, Jamal edges closer to the truth, and Olivia experiences a fashion crisis.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401387"
+                    }
+                }
+            },
+            {
+                "id": 1401388,
+                "url": "https://www.tvmaze.com/episodes/1401388/on-my-block-1x09-chapter-nine",
+                "name": "Chapter Nine",
+                "season": 1,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372918.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372918.jpg"
+                },
+                "summary": "<p>With Cesar's future on the line, Jamal, Monse and Ruby end up in a frantic search around town to find the one thing that might save him.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401388"
+                    }
+                }
+            },
+            {
+                "id": 1401389,
+                "url": "https://www.tvmaze.com/episodes/1401389/on-my-block-1x10-chapter-ten",
+                "name": "Chapter Ten",
+                "season": 1,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2018-03-16",
+                "airtime": "",
+                "airstamp": "2018-03-16T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/149/372919.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/149/372919.jpg"
+                },
+                "summary": "<p>Partners switch on more than the dance floor at Olivia's quinceañera, but an act of mercy could cost the friends everything they hold dear.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1401389"
+                    }
+                }
+            },
+            {
+                "id": 1619636,
+                "url": "https://www.tvmaze.com/episodes/1619636/on-my-block-2x01-chapter-eleven",
+                "name": "Chapter Eleven",
+                "season": 2,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 32,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474740.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474740.jpg"
+                },
+                "summary": "<p>On New Year's Eve, Monse makes a promise that leaves Cesar at loose ends, Jamal keeps an eye on the money, and Ruby's brother returns with a surprise.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1619636"
+                    }
+                }
+            },
+            {
+                "id": 1621181,
+                "url": "https://www.tvmaze.com/episodes/1621181/on-my-block-2x02-chapter-twelve",
+                "name": "Chapter Twelve",
+                "season": 2,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474741.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474741.jpg"
+                },
+                "summary": "<p>While Jamal, Monse and Cesar search for the missing stash, Ruby's grief progresses into anger, leading him to lash out at a dangerous acquaintance.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1621181"
+                    }
+                }
+            },
+            {
+                "id": 1627900,
+                "url": "https://www.tvmaze.com/episodes/1627900/on-my-block-2x03-chapter-thirteen",
+                "name": "Chapter Thirteen",
+                "season": 2,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474742.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474742.jpg"
+                },
+                "summary": "<p>An increasingly anxious Jamal pays a price for unearthing the money. Monse finds a way to help Cesar, and Ruby sends Jasmine on an impossible errand.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627900"
+                    }
+                }
+            },
+            {
+                "id": 1627901,
+                "url": "https://www.tvmaze.com/episodes/1627901/on-my-block-2x04-chapter-fourteen",
+                "name": "Chapter Fourteen",
+                "season": 2,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474743.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474743.jpg"
+                },
+                "summary": "<p>Cesar and Jamal make strange bedfellows, Jasmine helps Ruby find a date for the Valentine's Day dance, and Monse receives a heartbreaking ultimatum.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627901"
+                    }
+                }
+            },
+            {
+                "id": 1627902,
+                "url": "https://www.tvmaze.com/episodes/1627902/on-my-block-2x05-chapter-fifteen",
+                "name": "Chapter Fifteen",
+                "season": 2,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 23,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474744.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474744.jpg"
+                },
+                "summary": "<p>An attempt to raise Ruby's spirits works a little too well. Cesar gets advice about Monse. Jamal urges Ruby's grandmother to seek medical care.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627902"
+                    }
+                }
+            },
+            {
+                "id": 1627903,
+                "url": "https://www.tvmaze.com/episodes/1627903/on-my-block-2x06-chapter-sixteen",
+                "name": "Chapter Sixteen",
+                "season": 2,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 25,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474745.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474745.jpg"
+                },
+                "summary": "<p>Unsure about accepting Julia's offer, Monse invites Ruby and Jamal over to help her figure things out, but their visit doesn't quite go as planned.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627903"
+                    }
+                }
+            },
+            {
+                "id": 1627904,
+                "url": "https://www.tvmaze.com/episodes/1627904/on-my-block-2x07-chapter-seventeen",
+                "name": "Chapter Seventeen",
+                "season": 2,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 27,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474746.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474746.jpg"
+                },
+                "summary": "<p>Baby shower preparations bring out the worst in Ruby's mom. Guilty consciences plague Mario and Cesar, and Jamal worries that the money may be cursed.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627904"
+                    }
+                }
+            },
+            {
+                "id": 1627905,
+                "url": "https://www.tvmaze.com/episodes/1627905/on-my-block-2x08-chapter-eighteen",
+                "name": "Chapter Eighteen",
+                "season": 2,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474747.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474747.jpg"
+                },
+                "summary": "<p>As an old enemy returns to the neighborhood, the friends zero in on a solution to both their dirty money problem and Cesar's unstable living situation.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1627905"
+                    }
+                }
+            },
+            {
+                "id": 1629363,
+                "url": "https://www.tvmaze.com/episodes/1629363/on-my-block-2x09-chapter-nineteen",
+                "name": "Chapter Nineteen",
+                "season": 2,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 32,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474748.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474748.jpg"
+                },
+                "summary": "<p>With Cesar's options dwindling, he takes drastic measures, prompting his worried friends to put their own Hail Mary plan into motion.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1629363"
+                    }
+                }
+            },
+            {
+                "id": 1629364,
+                "url": "https://www.tvmaze.com/episodes/1629364/on-my-block-2x10-chapter-twenty",
+                "name": "Chapter Twenty",
+                "season": 2,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2019-03-29",
+                "airtime": "",
+                "airstamp": "2019-03-29T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474749.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474749.jpg"
+                },
+                "summary": "<p>Cesar meets his fate head-on, but friendship lines are drawn when he tries to put things right with Monse, who comes to a decision about her future.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1629364"
+                    }
+                }
+            },
+            {
+                "id": 1804790,
+                "url": "https://www.tvmaze.com/episodes/1804790/on-my-block-3x01-chapter-twenty-one",
+                "name": "Chapter Twenty-One",
+                "season": 3,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 9.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613890.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613890.jpg"
+                },
+                "summary": "<p>After being snatched off the street, Monse, Jamal, Ruby and Cesar come face to face with their kidnapper, who makes them an offer they can't refuse.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1804790"
+                    }
+                }
+            },
+            {
+                "id": 1812568,
+                "url": "https://www.tvmaze.com/episodes/1812568/on-my-block-3x02-chapter-twenty-two",
+                "name": "Chapter Twenty-Two",
+                "season": 3,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 32,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613891.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613891.jpg"
+                },
+                "summary": "<p>The group's new mission brings out Jamal's control issues. Oscar seethes when Cesar bonds with their unexpected houseguest. Jasmine makes over Monse.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812568"
+                    }
+                }
+            },
+            {
+                "id": 1812569,
+                "url": "https://www.tvmaze.com/episodes/1812569/on-my-block-3x03-chapter-twenty-three",
+                "name": "Chapter Twenty-Three",
+                "season": 3,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 29,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613892.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613892.jpg"
+                },
+                "summary": "<p>Jamal gets up close and personal with his suspected stalker. Ruby's moneymaking scheme violates health codes. Monse overindulges with Jasmine.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812569"
+                    }
+                }
+            },
+            {
+                "id": 1812570,
+                "url": "https://www.tvmaze.com/episodes/1812570/on-my-block-3x04-chapter-twenty-four",
+                "name": "Chapter Twenty-Four",
+                "season": 3,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613893.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613893.jpg"
+                },
+                "summary": "<p>As the crew narrows down the list of suspects, Cesar asks Monse out on a real date, Ruby stresses over a growing attraction, and Jamal seeks sex advice.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812570"
+                    }
+                }
+            },
+            {
+                "id": 1812571,
+                "url": "https://www.tvmaze.com/episodes/1812571/on-my-block-3x05-chapter-twenty-five",
+                "name": "Chapter Twenty-Five",
+                "season": 3,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 33,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613894.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613894.jpg"
+                },
+                "summary": "<p>While supporting Monse through a crisis, Jamal zeroes in on a new lead, and Ruby loses his cool. Meanwhile, Oscar tries to negotiate with Cuchillos.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812571"
+                    }
+                }
+            },
+            {
+                "id": 1812572,
+                "url": "https://www.tvmaze.com/episodes/1812572/on-my-block-3x06-chapter-twenty-six",
+                "name": "Chapter Twenty-Six",
+                "season": 3,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613895.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613895.jpg"
+                },
+                "summary": "<p>When an old mixtape provides a major clue, the crew infiltrates a music video shoot, where confessions are made, lips are locked, and secrets revealed.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812572"
+                    }
+                }
+            },
+            {
+                "id": 1812573,
+                "url": "https://www.tvmaze.com/episodes/1812573/on-my-block-3x07-chapter-twenty-seven",
+                "name": "Chapter Twenty-Seven",
+                "season": 3,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 29,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613896.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613896.jpg"
+                },
+                "summary": "<p>After realizing Cuchillos's endgame, the group puts a desperate — and dangerous — plan into motion that tests the limits of their loyalty and friendship.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812573"
+                    }
+                }
+            },
+            {
+                "id": 1812574,
+                "url": "https://www.tvmaze.com/episodes/1812574/on-my-block-3x08-chapter-twenty-eight",
+                "name": "Chapter Twenty-Eight",
+                "season": 3,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2020-03-11",
+                "airtime": "",
+                "airstamp": "2020-03-11T12:00:00+00:00",
+                "runtime": 37,
+                "rating": {
+                    "average": 7.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613897.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613897.jpg"
+                },
+                "summary": "<p>A fraught hike into the woods and a startling discovery pushes the crew toward some difficult decisions that will change their friendship — and future.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1812574"
+                    }
+                }
+            },
+            {
+                "id": 2164996,
+                "url": "https://www.tvmaze.com/episodes/2164996/on-my-block-4x01-chapter-twenty-nine",
+                "name": "Chapter Twenty-Nine",
+                "season": 4,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 33,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/362/907496.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/362/907496.jpg"
+                },
+                "summary": "<p>When Jamal muscles in on Ruby's dream of being senior class president, Jasmine goes on the offensive. Oscar warns Cesar of the dangers that lie ahead.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2164996"
+                    }
+                }
+            },
+            {
+                "id": 2186313,
+                "url": "https://www.tvmaze.com/episodes/2186313/on-my-block-4x02-chapter-thirty",
+                "name": "Chapter Thirty",
+                "season": 4,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/362/907497.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/362/907497.jpg"
+                },
+                "summary": "<p>Jamal reconnects with an old friend after the class election turns ugly. Ruby feels smothered by Jasmine's attentions, and Cesar sends Oscar a message.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186313"
+                    }
+                }
+            },
+            {
+                "id": 2186314,
+                "url": "https://www.tvmaze.com/episodes/2186314/on-my-block-4x03-chapter-thirty-one",
+                "name": "Chapter Thirty-One",
+                "season": 4,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/362/907498.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/362/907498.jpg"
+                },
+                "summary": "<p>Back in Freeridge for the holidays, Monse receives a rude reminder about why she left. Ruby and Jasmine turn to their friends for relationship advice.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186314"
+                    }
+                }
+            },
+            {
+                "id": 2186315,
+                "url": "https://www.tvmaze.com/episodes/2186315/on-my-block-4x04-chapter-thirty-two",
+                "name": "Chapter Thirty-Two",
+                "season": 4,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/362/907499.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/362/907499.jpg"
+                },
+                "summary": "<p>A long-buried secret lands the four friends in hot water. After confronting Monse over a butt dial, Jamal makes an unexpected connection.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186315"
+                    }
+                }
+            },
+            {
+                "id": 2186316,
+                "url": "https://www.tvmaze.com/episodes/2186316/on-my-block-4x05-chapter-thirty-three",
+                "name": "Chapter Thirty-Three",
+                "season": 4,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907500.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907500.jpg"
+                },
+                "summary": "<p>Ruby obsesses over Jasmine's mystery man, Cesar deals with dissension in the ranks, and the arrival of sinister-looking letters worries everyone.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186316"
+                    }
+                }
+            },
+            {
+                "id": 2186317,
+                "url": "https://www.tvmaze.com/episodes/2186317/on-my-block-4x06-chapter-thirty-four",
+                "name": "Chapter Thirty-Four",
+                "season": 4,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 27,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907501.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907501.jpg"
+                },
+                "summary": "<p>With emotions running high, Ruby, Jamal and Monse come clean as Cesar contemplates revenge. Jasmine, meanwhile, prioritizes self-care.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186317"
+                    }
+                }
+            },
+            {
+                "id": 2186318,
+                "url": "https://www.tvmaze.com/episodes/2186318/on-my-block-4x07-chapter-thirty-five",
+                "name": "Chapter Thirty-Five",
+                "season": 4,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 34,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907502.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907502.jpg"
+                },
+                "summary": "<p>Monse, Jamal and Ruby help Cesar with a grim task during an emotional day that sees relationships change, secrets divulged and decisions made.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186318"
+                    }
+                }
+            },
+            {
+                "id": 2186319,
+                "url": "https://www.tvmaze.com/episodes/2186319/on-my-block-4x08-chapter-thirty-six",
+                "name": "Chapter Thirty-Six",
+                "season": 4,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907503.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907503.jpg"
+                },
+                "summary": "<p>After a wild night, Jamal wakes with a fuzzy memory, Monse jumps to the wrong conclusion about Cesar, and Ruby decides to get something off his chest.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186319"
+                    }
+                }
+            },
+            {
+                "id": 2186320,
+                "url": "https://www.tvmaze.com/episodes/2186320/on-my-block-4x09-chapter-thirty-seven",
+                "name": "Chapter Thirty-Seven",
+                "season": 4,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907504.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907504.jpg"
+                },
+                "summary": "<p>With the prom fast approaching, Jamal searches for the perfect theme and Ruby stresses over finding the perfect date. Abuelita fesses up.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186320"
+                    }
+                }
+            },
+            {
+                "id": 2186321,
+                "url": "https://www.tvmaze.com/episodes/2186321/on-my-block-4x10-the-final-chapter",
+                "name": "The Final Chapter",
+                "season": 4,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2021-10-04",
+                "airtime": "",
+                "airstamp": "2021-10-04T12:00:00+00:00",
+                "runtime": 38,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907505.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907505.jpg"
+                },
+                "summary": "<p>As Jamal tries to figure out who's following him and Ruby's prom preparations go awry, the friends come together for a final celebration.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2186321"
+                    }
+                }
+            }
+        ]
+    }
+}

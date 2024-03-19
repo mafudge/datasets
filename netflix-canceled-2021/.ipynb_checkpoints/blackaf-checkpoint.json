@@ -1,0 +1,254 @@
+{
+    "id": 42178,
+    "url": "https://www.tvmaze.com/shows/42178/blackaf",
+    "name": "#blackAF",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 37,
+    "premiered": "2020-04-17",
+    "ended": "2020-04-17",
+    "officialSite": "https://www.netflix.com/title/81056700",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 4.9
+    },
+    "weight": 82,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 378773,
+        "imdb": "tt10311562"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/249/622933.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/249/622933.jpg"
+    },
+    "summary": "<p>With new money and expensive tastes, Kenya Barris and his family navigate success and explore the struggles of being unapologetically Black and wealthy.</p>",
+    "updated": 1625904229,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/42178"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1840351"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 1824870,
+                "url": "https://www.tvmaze.com/episodes/1824870/blackaf-1x01-because-of-slavery",
+                "name": "because of slavery",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 34,
+                "rating": {
+                    "average": 5.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630642.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630642.jpg"
+                },
+                "summary": "<p>Shooting a documentary for her NYU application, Drea introduces her unfiltered family as Kenya considers toning down his \"flexing\" around white people.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1824870"
+                    }
+                }
+            },
+            {
+                "id": 1840345,
+                "url": "https://www.tvmaze.com/episodes/1840345/blackaf-1x02-because-of-slavery-too",
+                "name": "because of slavery too",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 34,
+                "rating": {
+                    "average": 5.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630643.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630643.jpg"
+                },
+                "summary": "<p>On a parents' night out, Kenya and Joya party a little too hard while at the same music festival as Chloe, whose appearance doesn't sit well with Kenya.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840345"
+                    }
+                }
+            },
+            {
+                "id": 1840346,
+                "url": "https://www.tvmaze.com/episodes/1840346/blackaf-1x03-still-because-of-slavery",
+                "name": "still... because of slavery",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 33,
+                "rating": {
+                    "average": 7.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630644.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630644.jpg"
+                },
+                "summary": "<p>Ahead of the family's Juneteenth party, Joya struggles to confront Izzy about her dance video as Kenya stresses the importance of hygiene to his sons.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840346"
+                    }
+                }
+            },
+            {
+                "id": 1840347,
+                "url": "https://www.tvmaze.com/episodes/1840347/blackaf-1x04-yup-you-guessed-it-again-this-is-because-of-slavery",
+                "name": "yup, you guessed it. again, this is because of slavery",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 38,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630645.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630645.jpg"
+                },
+                "summary": "<p>Tired of Black dads never getting praise, Kenya strives to be a more involved father by volunteering to coach a team and organizing a family night.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840347"
+                    }
+                }
+            },
+            {
+                "id": 1840348,
+                "url": "https://www.tvmaze.com/episodes/1840348/blackaf-1x05-yo-between-you-and-me-this-is-because-of-slavery",
+                "name": "yo, between you and me... this is because of slavery",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 49,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630646.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630646.jpg"
+                },
+                "summary": "<p>After criticizing a Black film, Kenya seeks out honest feedback from his family and peers. Joya worries her kids aren't embracing their Blackness.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840348"
+                    }
+                }
+            },
+            {
+                "id": 1840349,
+                "url": "https://www.tvmaze.com/episodes/1840349/blackaf-1x06-hard-to-believe-but-still-because-of-slavery",
+                "name": "hard to believe, but still because of slavery",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 35,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630647.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630647.jpg"
+                },
+                "summary": "<p>As Joya promotes her book, friction between her and Kenya comes to a head when both sides start feeling like their marriage is more of a competition.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840349"
+                    }
+                }
+            },
+            {
+                "id": 1840350,
+                "url": "https://www.tvmaze.com/episodes/1840350/blackaf-1x07-i-know-this-is-going-to-sound-crazy-but-this-too-is-because-of-slavery",
+                "name": "i know this is going to sound crazy... but this, too, is because of slavery",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 35,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630648.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630648.jpg"
+                },
+                "summary": "<p>A lavish, peaceful family trip takes a turn when the kids attempt to venture outside their comfort zones and a work event puts Kenya and Joya at odds.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840350"
+                    }
+                }
+            },
+            {
+                "id": 1840351,
+                "url": "https://www.tvmaze.com/episodes/1840351/blackaf-1x08-i-know-you-may-not-get-this-but-the-reason-we-deserve-a-vacation-is-because-of-slavery",
+                "name": "i know you may not get this, but the reason we deserve a vacation is... because of slavery",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2020-04-17",
+                "airtime": "",
+                "airstamp": "2020-04-17T12:00:00+00:00",
+                "runtime": 36,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630649.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630649.jpg"
+                },
+                "summary": "<p>As Joya takes time to focus on herself before her event, Drea tries to bond with Chloe, Pops handles an incident, and Kenya switches up his behavior.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1840351"
+                    }
+                }
+            }
+        ]
+    }
+}

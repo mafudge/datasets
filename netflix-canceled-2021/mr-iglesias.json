@@ -1,0 +1,579 @@
+{
+    "id": 41930,
+    "url": "https://www.tvmaze.com/shows/41930/mr-iglesias",
+    "name": "Mr. Iglesias",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 29,
+    "premiered": "2019-06-21",
+    "ended": "2020-12-08",
+    "officialSite": "https://www.netflix.com/title/80209013",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 6.8
+    },
+    "weight": 75,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 352207,
+        "imdb": "tt8403536"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/198/495228.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/495228.jpg"
+    },
+    "summary": "<p>Stand-up phenom Gabriel Iglesias stars in this series as a good-natured high school history teacher who tries to help gifted misfit kids.</p>",
+    "updated": 1625280455,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/41930"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1982624"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 1645425,
+                "url": "https://www.tvmaze.com/episodes/1645425/mr-iglesias-1x01-some-children-left-behind",
+                "name": "Some Children Left Behind",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506587.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506587.jpg"
+                },
+                "summary": "<p>On the last day of class before summer break, Gabe learns several of his students are being transferred out of Woodrow Wilson High School.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1645425"
+                    }
+                }
+            },
+            {
+                "id": 1658568,
+                "url": "https://www.tvmaze.com/episodes/1658568/mr-iglesias-1x02-summer-school",
+                "name": "Summer School",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506588.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506588.jpg"
+                },
+                "summary": "<p>Told to find an impartial teacher to grade his class's oral reports, Gabe worries when the most morally upstanding member of the faculty volunteers.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658568"
+                    }
+                }
+            },
+            {
+                "id": 1658569,
+                "url": "https://www.tvmaze.com/episodes/1658569/mr-iglesias-1x03-full-hearts-clear-backpacks",
+                "name": "Full Hearts, Clear Backpacks",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 29,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506589.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506589.jpg"
+                },
+                "summary": "<p>As part of his new security initiative, Carlos institutes a clear backpack policy that doesn't sit well with Gabe or his students.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658569"
+                    }
+                }
+            },
+            {
+                "id": 1658570,
+                "url": "https://www.tvmaze.com/episodes/1658570/mr-iglesias-1x04-the-wagon",
+                "name": "The Wagon",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506590.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506590.jpg"
+                },
+                "summary": "<p>While dealing with the transfer of a star athlete into his class, Gabe experiences an inadvertent stumble on the road to sobriety.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658570"
+                    }
+                }
+            },
+            {
+                "id": 1658571,
+                "url": "https://www.tvmaze.com/episodes/1658571/mr-iglesias-1x05-everybody-hates-gabe",
+                "name": "Everybody Hates Gabe",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506591.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506591.jpg"
+                },
+                "summary": "<p>Marisol questions Gabe's sense of fair play when a football player seems to receive preferential treatment before Wilson High's big game.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658571"
+                    }
+                }
+            },
+            {
+                "id": 1658572,
+                "url": "https://www.tvmaze.com/episodes/1658572/mr-iglesias-1x06-bullying",
+                "name": "Bullying",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506592.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506592.jpg"
+                },
+                "summary": "<p>Gabe intervenes when he believes one of his students is being bullied. Meanwhile, new school guidelines regarding inclusive language dismay Marisol.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658572"
+                    }
+                }
+            },
+            {
+                "id": 1658573,
+                "url": "https://www.tvmaze.com/episodes/1658573/mr-iglesias-1x07-talent-show",
+                "name": "Talent Show",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506593.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506593.jpg"
+                },
+                "summary": "<p>To get his class comfortable with being in the spotlight, Gabe persuades them to perform in the school's talent show. The catch? He must perform, too.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658573"
+                    }
+                }
+            },
+            {
+                "id": 1658574,
+                "url": "https://www.tvmaze.com/episodes/1658574/mr-iglesias-1x08-teachers-strike",
+                "name": "Teachers' Strike",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506594.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506594.jpg"
+                },
+                "summary": "<p>When a teacher's strike threatens his students' chances in an academic decathlon, Gabe looks for ways to help them without crossing the picket line.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658574"
+                    }
+                }
+            },
+            {
+                "id": 1658575,
+                "url": "https://www.tvmaze.com/episodes/1658575/mr-iglesias-1x09-oh-boy-danny",
+                "name": "Oh Boy, Danny",
+                "season": 1,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506595.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506595.jpg"
+                },
+                "summary": "<p>After falling back under the spell of her two-timing ex, Abby turns to Gabe for support. Marisol declines to participate in the class's college tour.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658575"
+                    }
+                }
+            },
+            {
+                "id": 1658576,
+                "url": "https://www.tvmaze.com/episodes/1658576/mr-iglesias-1x10-academic-decathlon",
+                "name": "Academic Decathlon",
+                "season": 1,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2019-06-21",
+                "airtime": "",
+                "airstamp": "2019-06-21T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 9
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506596.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506596.jpg"
+                },
+                "summary": "<p>On the eve of the annual academic competition, Principal Madison, Marisol and Gabe all face tough choices involving loyalty and ambition.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1658576"
+                    }
+                }
+            },
+            {
+                "id": 1883070,
+                "url": "https://www.tvmaze.com/episodes/1883070/mr-iglesias-2x01-true-calling",
+                "name": "True Calling",
+                "season": 2,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654591.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654591.jpg"
+                },
+                "summary": "<p>Gabe gives his class a college prep pep talk that backfires so spectacularly he begins to question his own career path.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1883070"
+                    }
+                }
+            },
+            {
+                "id": 1886825,
+                "url": "https://www.tvmaze.com/episodes/1886825/mr-iglesias-2x02-taming-the-carlos",
+                "name": "Taming the Carlos",
+                "season": 2,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 27,
+                "rating": {
+                    "average": 6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654593.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654593.jpg"
+                },
+                "summary": "<p>Gabe's students encounter a comedy of errors after he encourages them to sign up for Carlos's drama class.  Paula urges the staff to try a new bar.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1886825"
+                    }
+                }
+            },
+            {
+                "id": 1886826,
+                "url": "https://www.tvmaze.com/episodes/1886826/mr-iglesias-2x03-party-of-one",
+                "name": "Party of One",
+                "season": 2,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 29,
+                "rating": {
+                    "average": 6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654594.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654594.jpg"
+                },
+                "summary": "<p>Gabe meddles in Paula's love life when she scores a date with a coach who's a well-known player, while Marisol balks at starring in the school play.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1886826"
+                    }
+                }
+            },
+            {
+                "id": 1886827,
+                "url": "https://www.tvmaze.com/episodes/1886827/mr-iglesias-2x04-generation-why",
+                "name": "Generation Why",
+                "season": 2,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 25,
+                "rating": {
+                    "average": 4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654595.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654595.jpg"
+                },
+                "summary": "<p>No good deed goes unpunished for Gabe when he champions Marisol's plan to join a district-wide Green Week competition, unaware of the price he'll pay.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1886827"
+                    }
+                }
+            },
+            {
+                "id": 1886828,
+                "url": "https://www.tvmaze.com/episodes/1886828/mr-iglesias-2x05-food-for-thought",
+                "name": "Food for Thought",
+                "season": 2,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 27,
+                "rating": {
+                    "average": 4.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654596.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654596.jpg"
+                },
+                "summary": "<p>Citing cultural appropriation, Marisol goes after Mr. Iglesias' favorite taco truck. Paula attempts to censor the school's production of \"Romeo and Juliet\".</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1886828"
+                    }
+                }
+            },
+            {
+                "id": 1886829,
+                "url": "https://www.tvmaze.com/episodes/1886829/mr-iglesias-2x06-where-art-thou-counselor",
+                "name": "Where Art Thou Counselor?",
+                "season": 2,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2020-06-17",
+                "airtime": "",
+                "airstamp": "2020-06-17T12:00:00+00:00",
+                "runtime": 29,
+                "rating": {
+                    "average": 5.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/261/654597.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/261/654597.jpg"
+                },
+                "summary": "<p>As Mr. Iglesias' friends nudge him back into the dating pool, he pushes Paula to hire a new guidance counselor. Mikey worries about kissing Marisol onstage.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1886829"
+                    }
+                }
+            },
+            {
+                "id": 1968133,
+                "url": "https://www.tvmaze.com/episodes/1968133/mr-iglesias-3x01-technically-speaking",
+                "name": "Technically Speaking",
+                "season": 3,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2020-12-08",
+                "airtime": "",
+                "airstamp": "2020-12-08T12:00:00+00:00",
+                "runtime": 31,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/287/718615.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/718615.jpg"
+                },
+                "summary": "<p>To connect or disconnect? That's the question Gabe asks when his class receives new tablet devices. Mikey tries to overcome his shyness with Marisol.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1968133"
+                    }
+                }
+            },
+            {
+                "id": 1982621,
+                "url": "https://www.tvmaze.com/episodes/1982621/mr-iglesias-3x02-good-things",
+                "name": "Good Things",
+                "season": 3,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2020-12-08",
+                "airtime": "",
+                "airstamp": "2020-12-08T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 7.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/287/718616.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/718616.jpg"
+                },
+                "summary": "<p>To counter his students' pessimism about the future, Gabe makes them create vision boards of what they want in life, an assignment he takes to heart.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1982621"
+                    }
+                }
+            },
+            {
+                "id": 1982622,
+                "url": "https://www.tvmaze.com/episodes/1982622/mr-iglesias-3x03-playing-favorites",
+                "name": "Playing Favorites",
+                "season": 3,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2020-12-08",
+                "airtime": "",
+                "airstamp": "2020-12-08T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 7.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/287/718617.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/718617.jpg"
+                },
+                "summary": "<p>Gabe overcompensates after a parent calls him out for having a favorite student. Tony wheels and deals to inflate his scores on faculty peer reviews.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1982622"
+                    }
+                }
+            },
+            {
+                "id": 1982623,
+                "url": "https://www.tvmaze.com/episodes/1982623/mr-iglesias-3x04-youre-dad-to-me",
+                "name": "You're Dad to Me",
+                "season": 3,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2020-12-08",
+                "airtime": "",
+                "airstamp": "2020-12-08T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/287/718618.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/718618.jpg"
+                },
+                "summary": "<p>Gabe meddles in Marisol's relationship with her estranged father, and a yoga class unleashes Paula's pent-up feelings over her upcoming college reunion.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1982623"
+                    }
+                }
+            },
+            {
+                "id": 1982624,
+                "url": "https://www.tvmaze.com/episodes/1982624/mr-iglesias-3x05-the-big-dance",
+                "name": "The Big Dance",
+                "season": 3,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2020-12-08",
+                "airtime": "",
+                "airstamp": "2020-12-08T12:00:00+00:00",
+                "runtime": 32,
+                "rating": {
+                    "average": 7.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/287/718619.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/718619.jpg"
+                },
+                "summary": "<p>When his students seem reluctant to attend the holiday dance, Gabe looks for ways to boost their confidence — until he learns what the real issue is.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1982624"
+                    }
+                }
+            }
+        ]
+    }
+}

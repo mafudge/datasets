@@ -1,0 +1,948 @@
+{
+    "id": 269,
+    "url": "https://www.tvmaze.com/shows/269/peaky-blinders",
+    "name": "Peaky Blinders",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Crime",
+        "History"
+    ],
+    "status": "Running",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2013-09-12",
+    "ended": null,
+    "officialSite": "http://www.bbc.co.uk/programmes/b045fz8r",
+    "schedule": {
+        "time": "21:00",
+        "days": [
+            "Sunday"
+        ]
+    },
+    "rating": {
+        "average": 8.7
+    },
+    "weight": 100,
+    "network": {
+        "id": 12,
+        "name": "BBC One",
+        "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+        },
+        "officialSite": "https://www.bbc.co.uk/bbcone"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": 37240,
+        "thetvdb": 270915,
+        "imdb": "tt2442560"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/48/122213.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/122213.jpg"
+    },
+    "summary": "<p>An epic gangster drama set in the lawless streets of 1920s Birmingham.</p>",
+    "updated": 1644041732,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/269"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1705869"
+        },
+        "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/2270886"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 28150,
+                "url": "https://www.tvmaze.com/episodes/28150/peaky-blinders-1x01-episode-1",
+                "name": "Episode 1",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2013-09-12",
+                "airtime": "21:00",
+                "airstamp": "2013-09-12T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22554.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22554.jpg"
+                },
+                "summary": "<p>Birmingham, 1919. Thomas Shelby controls the Peaky Blinders, one of the city's most feared criminal organisations, but his ambitions go beyond running the streets.</p><p>When a crate of guns goes missing, Thomas recognises an opportunity to move up in the world.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28150"
+                    }
+                }
+            },
+            {
+                "id": 28151,
+                "url": "https://www.tvmaze.com/episodes/28151/peaky-blinders-1x02-episode-2",
+                "name": "Episode 2",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2013-09-19",
+                "airtime": "21:00",
+                "airstamp": "2013-09-19T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22555.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22555.jpg"
+                },
+                "summary": "<p>Birmingham, 1919. Thomas Shelby controls the Peaky Blinders, one of the city's most feared criminal organisations, but his ambitions go beyond running the streets.</p><p>Thomas fixes a horserace, provoking the ire of local kingpin Billy Kimber. He also starts a war with gypsy family the Lees. Meanwhile, Inspector Campbell carries out a vicious raid of Small Heath in search of the stolen guns.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28151"
+                    }
+                }
+            },
+            {
+                "id": 28152,
+                "url": "https://www.tvmaze.com/episodes/28152/peaky-blinders-1x03-episode-3",
+                "name": "Episode 3",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2013-09-26",
+                "airtime": "21:00",
+                "airstamp": "2013-09-26T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22556.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22556.jpg"
+                },
+                "summary": "<p>Thomas Shelby plans to go to Cheltenham races in order to get closer to Billy Kimber. Knowing the gangster's appetite for beautiful women, Thomas invites Grace to accompany him.</p><p>Meanwhile some IRA sympathisers approach Thomas with an offer to buy the stolen guns.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28152"
+                    }
+                }
+            },
+            {
+                "id": 28153,
+                "url": "https://www.tvmaze.com/episodes/28153/peaky-blinders-1x04-episode-4",
+                "name": "Episode 4",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2013-10-03",
+                "airtime": "21:00",
+                "airstamp": "2013-10-03T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22557.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22557.jpg"
+                },
+                "summary": "<p>Thomas Shelby's war with the Lee family of gypsies escalates and Campbell puts further pressure on him to deliver the stolen guns. Meanwhile, Thomas's brother John plans to marry a former prostitute, but Thomas suspects that she's still on the game.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28153"
+                    }
+                }
+            },
+            {
+                "id": 28154,
+                "url": "https://www.tvmaze.com/episodes/28154/peaky-blinders-1x05-episode-5",
+                "name": "Episode 5",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2013-10-10",
+                "airtime": "21:00",
+                "airstamp": "2013-10-10T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22558.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22558.jpg"
+                },
+                "summary": "<p>Thomas Shelby has to deal with an IRA chief who has come to Small Heath to avenge his cousin's death. Meanwhile, Campbell gets closer to the stolen guns, and Grace has to decide whether her loyalties lie with him or with Thomas.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28154"
+                    }
+                }
+            },
+            {
+                "id": 28155,
+                "url": "https://www.tvmaze.com/episodes/28155/peaky-blinders-1x06-episode-6",
+                "name": "Episode 6",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2013-10-17",
+                "airtime": "21:00",
+                "airstamp": "2013-10-17T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22559.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22559.jpg"
+                },
+                "summary": "<p>As Thomas Shelby prepares to oust Billy Kimber, hidden secrets are revealed and the family have to face up to the problems that have divided them. Meanwhile, Campbell, obsessed with taking down the Peaky Blinders, unleashes one last plan to destroy them.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28155"
+                    }
+                }
+            },
+            {
+                "id": 28156,
+                "url": "https://www.tvmaze.com/episodes/28156/peaky-blinders-2x01-episode-1",
+                "name": "Episode 1",
+                "season": 2,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2014-10-02",
+                "airtime": "21:00",
+                "airstamp": "2014-10-02T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 7.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22548.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22548.jpg"
+                },
+                "summary": "<p>As the 1920s begin to roar, business is booming for the Peaky Blinders gang. Tommy Shelby starts to expand his legal and illegal operations, with an eye on the racetracks of the south. Meanwhile, an enemy from Tommy's past returns to Birmingham.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28156"
+                    }
+                }
+            },
+            {
+                "id": 28157,
+                "url": "https://www.tvmaze.com/episodes/28157/peaky-blinders-2x02-episode-2",
+                "name": "Episode 2",
+                "season": 2,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2014-10-09",
+                "airtime": "21:00",
+                "airstamp": "2014-10-09T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.1
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22549.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22549.jpg"
+                },
+                "summary": "<p>Tommy offers to help Polly by searching for her children, who long ago were taken from her. In London, Tommy risks his life by meeting enigmatic leader Alfie Solomons. Meanwhile Arthur continues to feel the devastating effects of the Great War.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28157"
+                    }
+                }
+            },
+            {
+                "id": 28158,
+                "url": "https://www.tvmaze.com/episodes/28158/peaky-blinders-2x03-episode-3",
+                "name": "Episode 3",
+                "season": 2,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2014-10-16",
+                "airtime": "21:00",
+                "airstamp": "2014-10-16T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.2
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22550.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22550.jpg"
+                },
+                "summary": "<p>Tommy hatches a plan to take control of the southern racecourses. He also meets the aristocratic May Carleton and sees an opportunity to move up in the world. Meanwhile both Major Campbell and London gangster Darby Sabini plan Tommy's downfall.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28158"
+                    }
+                }
+            },
+            {
+                "id": 28159,
+                "url": "https://www.tvmaze.com/episodes/28159/peaky-blinders-2x04-episode-4",
+                "name": "Episode 4",
+                "season": 2,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2014-10-23",
+                "airtime": "21:00",
+                "airstamp": "2014-10-23T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.2
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22551.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22551.jpg"
+                },
+                "summary": "<p>Tommy finds out exactly what mission Major Campbell is forcing him to undertake. Arthur spearheads a ferocious takeover of London's Eden Club. Meanwhile, Polly's son Michael is welcomed into the business and quickly experiences the dark side of the Peaky Blinders.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28159"
+                    }
+                }
+            },
+            {
+                "id": 28160,
+                "url": "https://www.tvmaze.com/episodes/28160/peaky-blinders-2x05-episode-5",
+                "name": "Episode 5",
+                "season": 2,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2014-10-30",
+                "airtime": "21:00",
+                "airstamp": "2014-10-30T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.2
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22552.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22552.jpg"
+                },
+                "summary": "<p>Tommy is caught by surprise when his powerbase in London is obliterated. As Tommy struggles to save his family and regain the upper hand, May expresses her feelings for him, and he is paid a visit by an old friend.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28160"
+                    }
+                }
+            },
+            {
+                "id": 28161,
+                "url": "https://www.tvmaze.com/episodes/28161/peaky-blinders-2x06-episode-6",
+                "name": "Episode 6",
+                "season": 2,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2014-11-06",
+                "airtime": "21:00",
+                "airstamp": "2014-11-06T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22553.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22553.jpg"
+                },
+                "summary": "<p>As derby day arrives, Tommy is faced with impossible decisions as he plans to strike back at his enemies and take the family business to another level. Meanwhile, Major Campbell has one final card to play - one that he is certain will bring about Tommy's demise.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/28161"
+                    }
+                }
+            },
+            {
+                "id": 734895,
+                "url": "https://www.tvmaze.com/episodes/734895/peaky-blinders-3x01-episode-1",
+                "name": "Episode 1",
+                "season": 3,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2016-05-05",
+                "airtime": "21:00",
+                "airstamp": "2016-05-05T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/140435.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140435.jpg"
+                },
+                "summary": "<p>It is Thomas Shelby's long-awaited wedding day. In the middle of the celebrations, a mysterious visitor imperils the entire Shelby family, and Tommy finds himself pulled into a web of intrigue more lethal than anything he has yet encountered.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/734895"
+                    }
+                }
+            },
+            {
+                "id": 760995,
+                "url": "https://www.tvmaze.com/episodes/760995/peaky-blinders-3x02-episode-2",
+                "name": "Episode 2",
+                "season": 3,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2016-05-12",
+                "airtime": "21:00",
+                "airstamp": "2016-05-12T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/140437.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140437.jpg"
+                },
+                "summary": "<p>Tommy discovers the extent of the mission given to him and the extreme lengths his new paymasters are willing to go to in their quest for power.</p><p>Meanwhile his own family's activities lead to escalating danger in Birmingham.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/760995"
+                    }
+                }
+            },
+            {
+                "id": 761016,
+                "url": "https://www.tvmaze.com/episodes/761016/peaky-blinders-3x03-episode-3",
+                "name": "Episode 3",
+                "season": 3,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2016-05-19",
+                "airtime": "21:00",
+                "airstamp": "2016-05-19T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/57/142745.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/57/142745.jpg"
+                },
+                "summary": "<p>Responding to the Italians' actions, Tommy is set on a path of deadly vengeance. Meanwhile, as he makes plans for his mission on behalf of the Russians, he realises there is a traitor in his midst.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/761016"
+                    }
+                }
+            },
+            {
+                "id": 788029,
+                "url": "https://www.tvmaze.com/episodes/788029/peaky-blinders-3x04-episode-4",
+                "name": "Episode 4",
+                "season": 3,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2016-05-26",
+                "airtime": "21:00",
+                "airstamp": "2016-05-26T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/59/149044.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/59/149044.jpg"
+                },
+                "summary": "<p>Tommy and Tatiana play a personal and dangerous game to acquire information from one another, and Tommy finally comprehends the magnitude of Tatiana's warped ideals.</p><p>Meanwhile, Polly reveals a dark secret, with terrible consequences for Tommy.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/788029"
+                    }
+                }
+            },
+            {
+                "id": 788030,
+                "url": "https://www.tvmaze.com/episodes/788030/peaky-blinders-3x05-episode-5",
+                "name": "Episode 5",
+                "season": 3,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2016-06-02",
+                "airtime": "21:00",
+                "airstamp": "2016-06-02T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/59/148974.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/59/148974.jpg"
+                },
+                "summary": "<p>As the Russians test the Peaky Blinders, Tommy realises that he is being seriously outmanoeuvred. But he has an ace up his sleeve in the form of an enemy turned ally - if only he can control him.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/788030"
+                    }
+                }
+            },
+            {
+                "id": 788031,
+                "url": "https://www.tvmaze.com/episodes/788031/peaky-blinders-3x06-episode-6",
+                "name": "Episode 6",
+                "season": 3,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2016-06-09",
+                "airtime": "21:00",
+                "airstamp": "2016-06-09T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 9
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/151364.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/151364.jpg"
+                },
+                "summary": "<p>As Tommy prepares to commit the most audacious crime of his career, a blow is struck against him that could change everything. As he faces his worst fears, he needs his family more than ever - but who can he trust?</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/788031"
+                    }
+                }
+            },
+            {
+                "id": 1346372,
+                "url": "https://www.tvmaze.com/episodes/1346372/peaky-blinders-4x01-the-noose",
+                "name": "The Noose",
+                "season": 4,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2017-11-15",
+                "airtime": "21:00",
+                "airstamp": "2017-11-15T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/135/338196.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/338196.jpg"
+                },
+                "summary": "<p>December 1925. Tommy Shelby OBE has acquired unprecedented legitimacy. The former gangster is also a man alone, estranged from his family and focused only on business. But when he receives a mysterious letter on Christmas Eve, Tommy realises that the Shelbys are in danger of annihilation. As the enemy closes in, Tommy flees his country house and returns to the only safe place he knows: Small Heath, Birmingham, the slum where he grew up. Facing a more determined and sophisticated threat than ever before, the Shelby family must find a way to put differences aside, work together, take up arms and fight for survival...</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1346372"
+                    }
+                }
+            },
+            {
+                "id": 1347935,
+                "url": "https://www.tvmaze.com/episodes/1347935/peaky-blinders-4x02-heathens",
+                "name": "Heathens",
+                "season": 4,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2017-11-22",
+                "airtime": "21:00",
+                "airstamp": "2017-11-22T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/136/340361.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/340361.jpg"
+                },
+                "summary": "<p>As the Shelbys come to terms with the shocking events of Christmas Day, Tommy endeavours to unite his family. Until the current threat is dealt with, their only safe place is together in Small Heath. Johnny Dogs and Charlie set about arming the locals - everyone is now a Peaky bodyguard. Tommy enlists the help of tough Romany Gypsy Aberama Gold, who wants something unusual in return.</p><p>Jessie Eden confronts Tommy about the workers' pay. She warns him that revolution is in the air, and when Tommy doesn't relent she calls his bluff. As the situation plays out, Tommy's factory manager tells him he has one more meeting - with a mysterious businessman from Paris. But what transpires is no ordinary meeting with no ordinary businessman...</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1347935"
+                    }
+                }
+            },
+            {
+                "id": 1347936,
+                "url": "https://www.tvmaze.com/episodes/1347936/peaky-blinders-4x03-blackbird",
+                "name": "Blackbird",
+                "season": 4,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2017-11-29",
+                "airtime": "21:00",
+                "airstamp": "2017-11-29T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/136/342178.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/342178.jpg"
+                },
+                "summary": "<p>The Italians launch another attack on the Peaky Blinders. Tommy realises that the Shelbys need to evolve if they are to survive, but some of the family are reluctant to part with tradition.</p><p>As the strike takes hold at the Lanchester factory, Tommy pays a personal visit to Jessie Eden, but he is outmanoeuvred when she reveals something she knows about his past.</p><p>Changretta plots to continue the vendetta in the most devastating way possible. As well as identifying an enemy of the Shelby family who could help him, Luca makes direct contact with someone at the heart of the Peaky Blinders organisation.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1347936"
+                    }
+                }
+            },
+            {
+                "id": 1347937,
+                "url": "https://www.tvmaze.com/episodes/1347937/peaky-blinders-4x04-dangerous",
+                "name": "Dangerous",
+                "season": 4,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2017-12-06",
+                "airtime": "21:00",
+                "airstamp": "2017-12-06T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/137/344205.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/137/344205.jpg"
+                },
+                "summary": "<p>The Peaky Blinders are lured by the Italians into a cat-and-mouse chase on the streets of Birmingham, where it becomes clear that Tommy has met his match. Trapped in Small Heath, Tommy tries to console himself with a visit from an old flame but it soon becomes clear that he can't always get what he wants.</p><p>As his factory lies idle, Tommy confronts the possibility that the Communists might win and he will be deemed a traitor to his class. Meanwhile, Changretta prepares to spring another trap.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1347937"
+                    }
+                }
+            },
+            {
+                "id": 1347938,
+                "url": "https://www.tvmaze.com/episodes/1347938/peaky-blinders-4x05-the-duel",
+                "name": "The Duel",
+                "season": 4,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2017-12-13",
+                "airtime": "21:00",
+                "airstamp": "2017-12-13T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/138/346117.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/138/346117.jpg"
+                },
+                "summary": "<p>Tommy prepares himself as the bloody battle lines are drawn between the Peaky Blinders and Changretta. A deal is struck - with potentially devastating consequences.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1347938"
+                    }
+                }
+            },
+            {
+                "id": 1347939,
+                "url": "https://www.tvmaze.com/episodes/1347939/peaky-blinders-4x06-the-company",
+                "name": "The Company",
+                "season": 4,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2017-12-20",
+                "airtime": "21:00",
+                "airstamp": "2017-12-20T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 9.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/139/348390.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/139/348390.jpg"
+                },
+                "summary": "<p>It is the night of the big fight - Bonnie Gold versus Goliath. But as the bell rings and the crowd goes wild, dangers lurk in the shadows for Tommy Shelby and his family. When Changretta plays his final ace, he sets in motion a series of events that will change the Peaky Blinders forever.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1347939"
+                    }
+                }
+            },
+            {
+                "id": 1693155,
+                "url": "https://www.tvmaze.com/episodes/1693155/peaky-blinders-5x01-black-tuesday",
+                "name": "Black Tuesday",
+                "season": 5,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2019-08-25",
+                "airtime": "21:00",
+                "airstamp": "2019-08-25T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/523117.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/523117.jpg"
+                },
+                "summary": "<p>1929 – The Shelby family have dispersed: Michael is living at Shelby Company headquarters in Detroit, while Aunt Polly is holed up with a pilot in Monte Carlo. But the family are quickly brought back together when news of the Wall Street Crash hits and its implications for the family business become clear.</p><p>Meanwhile, Tommy's political career is going from strength to strength; he gives a rousing speech in the House of Commons. It's not long, however, before ghosts from Tommy's past threaten to undermine his position.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1693155"
+                    }
+                }
+            },
+            {
+                "id": 1697262,
+                "url": "https://www.tvmaze.com/episodes/1697262/peaky-blinders-5x02-black-cats",
+                "name": "Black Cats",
+                "season": 5,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2019-08-26",
+                "airtime": "21:30",
+                "airstamp": "2019-08-26T20:30:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/523074.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/523074.jpg"
+                },
+                "summary": "<p>Tommy is at Arrow House when he receives a call from a mysterious new ally with potentially devastating information. At Westminster, in a dimly lit bar, he, Ada and Mosley meet to discuss business.</p><p>Meanwhile, a rival gang, keen to send a message to Tommy, use brutal means to do so. At the Garrison pub, Arthur and Finn reveal their plans to expand the Peaky business empire. Later, a birthday celebration is interrupted by the unexpected arrival of someone close to Tommy with a message about a dangerous new enemy.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1697262"
+                    }
+                }
+            },
+            {
+                "id": 1704125,
+                "url": "https://www.tvmaze.com/episodes/1704125/peaky-blinders-5x03-strategy",
+                "name": "Strategy",
+                "season": 5,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2019-09-01",
+                "airtime": "21:00",
+                "airstamp": "2019-09-01T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/524290.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/524290.jpg"
+                },
+                "summary": "<p>Tommy gathers everyone together to discuss recent tragic events and to give his orders, before the Shelby men travel to London to meet Mosley and it's soon revealed who has the upper hand. Linda heads to Arrow House to ask Lizzie's advice, Polly visits Aberama to pass on instructions from Tommy, who learns that one of the Peaky Blinders is in danger and sends Arthur and Johnny Dogs on an urgent mission to intervene.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1704125"
+                    }
+                }
+            },
+            {
+                "id": 1705101,
+                "url": "https://www.tvmaze.com/episodes/1705101/peaky-blinders-5x04-the-loop",
+                "name": "The Loop",
+                "season": 5,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2019-09-08",
+                "airtime": "21:00",
+                "airstamp": "2019-09-08T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/210/526807.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/526807.jpg"
+                },
+                "summary": "<p>Tommy waits by the water at Charlie's Yard to meet a dangerous adversary. Despite their past grievances, the pair agree to a truce. Later, in a private room at the Garrison pub, as Tommy meets with his constituents to hear their grievances, a mysterious stranger with a message arrives. At his Westminster office, Tommy makes Aberama an offer he can't refuse before inviting Mosley to a party he is throwing for Lizzie's birthday. On the night of the party, things soon take a turn for the worse when a surprise guest arrives.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1705101"
+                    }
+                }
+            },
+            {
+                "id": 1705868,
+                "url": "https://www.tvmaze.com/episodes/1705868/peaky-blinders-5x05-the-shock",
+                "name": "The Shock",
+                "season": 5,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2019-09-15",
+                "airtime": "21:00",
+                "airstamp": "2019-09-15T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": 8.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/211/528908.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/211/528908.jpg"
+                },
+                "summary": "<p>Mosley takes advantage of shocking events to give a speech to the gathered crowd at Arrow House. Afterwards, Mosley gives Tommy his instructions. Arthur and his men arrive at Limehouse for the arranged rendezvous, but the situation has changed drastically. Meanwhile, Tommy visits an old war comrade who has a very specific skill that Tommy intends to use.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1705868"
+                    }
+                }
+            },
+            {
+                "id": 1705869,
+                "url": "https://www.tvmaze.com/episodes/1705869/peaky-blinders-5x06-mr-jones",
+                "name": "Mr Jones",
+                "season": 5,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2019-09-22",
+                "airtime": "21:00",
+                "airstamp": "2019-09-22T20:00:00+00:00",
+                "runtime": 65,
+                "rating": {
+                    "average": 8.4
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/212/531196.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/212/531196.jpg"
+                },
+                "summary": "<p>News of Tommy's activities have reached Winston Churchill. At a family meeting, Tommy lays out his plans for Mosley, which will take place at a rally Sir Oswald is leading. Tommy is surprised by another strategy, coming from an unexpected corner. Meanwhile, Tommy has his own secrets to reveal.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1705869"
+                    }
+                }
+            },
+            {
+                "id": 2270886,
+                "url": "https://www.tvmaze.com/episodes/2270886/peaky-blinders-6x01-black-day",
+                "name": "Black Day",
+                "season": 6,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2022-03-20",
+                "airtime": "21:00",
+                "airstamp": "2022-03-20T21:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270886"
+                    }
+                }
+            },
+            {
+                "id": 2270887,
+                "url": "https://www.tvmaze.com/episodes/2270887/peaky-blinders-6x02-episode-2",
+                "name": "Episode 2",
+                "season": 6,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2022-03-27",
+                "airtime": "21:00",
+                "airstamp": "2022-03-27T20:00:00+00:00",
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270887"
+                    }
+                }
+            },
+            {
+                "id": 2270888,
+                "url": "https://www.tvmaze.com/episodes/2270888/peaky-blinders-6x03-episode-3",
+                "name": "Episode 3",
+                "season": 6,
+                "number": 3,
+                "type": "regular",
+                "airdate": "",
+                "airtime": "21:00",
+                "airstamp": null,
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270888"
+                    }
+                }
+            },
+            {
+                "id": 2270889,
+                "url": "https://www.tvmaze.com/episodes/2270889/peaky-blinders-6x04-episode-4",
+                "name": "Episode 4",
+                "season": 6,
+                "number": 4,
+                "type": "regular",
+                "airdate": "",
+                "airtime": "21:00",
+                "airstamp": null,
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270889"
+                    }
+                }
+            },
+            {
+                "id": 2270890,
+                "url": "https://www.tvmaze.com/episodes/2270890/peaky-blinders-6x05-episode-5",
+                "name": "Episode 5",
+                "season": 6,
+                "number": 5,
+                "type": "regular",
+                "airdate": "",
+                "airtime": "21:00",
+                "airstamp": null,
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270890"
+                    }
+                }
+            },
+            {
+                "id": 2270891,
+                "url": "https://www.tvmaze.com/episodes/2270891/peaky-blinders-6x06-episode-6",
+                "name": "Episode 6",
+                "season": 6,
+                "number": 6,
+                "type": "regular",
+                "airdate": "",
+                "airtime": "21:00",
+                "airstamp": null,
+                "runtime": 60,
+                "rating": {
+                    "average": null
+                },
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2270891"
+                    }
+                }
+            }
+        ]
+    }
+}

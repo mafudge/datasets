@@ -1,0 +1,304 @@
+{
+    "id": 38703,
+    "url": "https://www.tvmaze.com/shows/38703/the-crew",
+    "name": "The Crew",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 27,
+    "premiered": "2021-02-15",
+    "ended": "2021-02-15",
+    "officialSite": "https://www.netflix.com/title/81047664",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 6.2
+    },
+    "weight": 92,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 395174,
+        "imdb": "tt10971022"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/297/742677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/742677.jpg"
+    },
+    "summary": "<p>Set in a NASCAR garage, <b>The Crew</b> follows the crew chief, James. When the owner steps down and passes the team off to his daughter, James finds himself at odds with the tech reliant millennials she starts bringing in to modernize the team.</p>",
+    "updated": 1625280512,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/38703"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2031990"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 2009077,
+                "url": "https://www.tvmaze.com/episodes/2009077/the-crew-1x01-i-guess-that-cake-did-need-to-be-refrigerated",
+                "name": "I Guess That Cake Did Need to Be Refrigerated",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 6.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742136.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742136.jpg"
+                },
+                "summary": "<p>When racing team owner Bobby retires, his numbers-driven daughter Catherine takes charge — and crew chief Kevin worries she's going to fire everybody.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2009077"
+                    }
+                }
+            },
+            {
+                "id": 2031982,
+                "url": "https://www.tvmaze.com/episodes/2031982/the-crew-1x02-my-names-kevin-and-i-care-about-feelings",
+                "name": "My Name's Kevin and I Care about Feelings",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 6.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742137.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742137.jpg"
+                },
+                "summary": "<p>Kevin and Catherine try to charm a big sponsor for more cash, and Beth checks in with the team before setting up their interviews with the new boss.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031982"
+                    }
+                }
+            },
+            {
+                "id": 2031983,
+                "url": "https://www.tvmaze.com/episodes/2031983/the-crew-1x03-hot-mushroom-meat",
+                "name": "Hot Mushroom Meat",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 6.5
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742138.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742138.jpg"
+                },
+                "summary": "<p>Jake struggles to get on board with the campaign for their new sponsor, while a frustrated Kevin starts thinking about other career options.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031983"
+                    }
+                }
+            },
+            {
+                "id": 2031984,
+                "url": "https://www.tvmaze.com/episodes/2031984/the-crew-1x04-you-seem-like-a-perfectly-serviceable-woman",
+                "name": "You Seem Like a Perfectly Serviceable Woman",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 30,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742139.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742139.jpg"
+                },
+                "summary": "<p>When Catherine suddenly rolls back all the unpopular changes she's made, Kevin tries to figure who ratted out the crew's complaints.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031984"
+                    }
+                }
+            },
+            {
+                "id": 2031985,
+                "url": "https://www.tvmaze.com/episodes/2031985/the-crew-1x05-your-face-is-a-baby",
+                "name": "Your Face Is a Baby",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742140.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742140.jpg"
+                },
+                "summary": "<p>A familiar foe gets into Jake's head during a steam room session, and Bobby checks back in to cool things down between Kevin and Catherine.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031985"
+                    }
+                }
+            },
+            {
+                "id": 2031986,
+                "url": "https://www.tvmaze.com/episodes/2031986/the-crew-1x06-were-gonna-be-okay-were-gonna-be-okay",
+                "name": "We're Gonna Be Okay. We're Gonna Be Okay.",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 24,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742141.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742141.jpg"
+                },
+                "summary": "<p>Kevin makes a connection with the flirtatious owner of Fake Steak. Scared he'll lose his driver's seat, Jake asks Amir to keep a secret.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031986"
+                    }
+                }
+            },
+            {
+                "id": 2031987,
+                "url": "https://www.tvmaze.com/episodes/2031987/the-crew-1x07-ooof-someone-throw-a-robe-on-grandma",
+                "name": "Ooof, Someone Throw a Robe on Grandma",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742142.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742142.jpg"
+                },
+                "summary": "<p>The whole crew warms up to Jessie after she debuts on the track, and Kevin and Beth commiserate about their dating lives following a fancy fundraiser.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031987"
+                    }
+                }
+            },
+            {
+                "id": 2031988,
+                "url": "https://www.tvmaze.com/episodes/2031988/the-crew-1x08-good-things-happen-to-handsome-people",
+                "name": "Good Things Happen to Handsome People",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 21,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742143.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742143.jpg"
+                },
+                "summary": "<p>Kevin and Catherine continue to clash over the team's future direction. Amir and Chuck vie for the same job, and Bobby stops by with surprising news.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031988"
+                    }
+                }
+            },
+            {
+                "id": 2031989,
+                "url": "https://www.tvmaze.com/episodes/2031989/the-crew-1x09-monkeys-and-bears-riding-bicycles",
+                "name": "Monkeys and Bears Riding Bicycles",
+                "season": 1,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742144.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742144.jpg"
+                },
+                "summary": "<p>Beth's relationship is at a crossroads. Kevin realizes he likes some of Catherine's changes to the garage and must tell Bobby a hard truth.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031989"
+                    }
+                }
+            },
+            {
+                "id": 2031990,
+                "url": "https://www.tvmaze.com/episodes/2031990/the-crew-1x10-no-one-likes-you-no-one",
+                "name": "No One Likes You. No One.",
+                "season": 1,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2021-02-15",
+                "airtime": "",
+                "airstamp": "2021-02-15T12:00:00+00:00",
+                "runtime": 24,
+                "rating": {
+                    "average": 5.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/742145.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/742145.jpg"
+                },
+                "summary": "<p>Jake and Catherine get into some trouble during a road trip, Beth focuses on her future, and the guys convince Kevin it's time to face his feelings.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2031990"
+                    }
+                }
+            }
+        ]
+    }
+}

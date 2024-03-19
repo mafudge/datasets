@@ -1,0 +1,306 @@
+{
+    "id": 35691,
+    "url": "https://www.tvmaze.com/shows/35691/cursed",
+    "name": "Cursed",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 55,
+    "premiered": "2020-07-17",
+    "ended": "2020-07-17",
+    "officialSite": "https://www.netflix.com/title/80199393",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 6.2
+    },
+    "weight": 97,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 369950,
+        "imdb": "tt8210856"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/255/639422.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/255/639422.jpg"
+    },
+    "summary": "<p><b>Cursed</b> is told through the eyes of Nimue, the Lady of the Lake character from the King Arthur legend. Nimue is a teenager with a mysterious gift, and the series shows how she came to be on the road to her destiny. After her mother dies, Nimue joins a young mercenary named Arthur, on his quest to find the magician Merlin and deliver an ancient sword. The future Lady of the Lake become a symbol of courage and rebellion against the terrifying Red Paladins, and their complicit King Uther.</p>",
+    "updated": 1625856000,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/35691"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1891782"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 1887563,
+                "url": "https://www.tvmaze.com/episodes/1887563/cursed-1x01-nimue",
+                "name": "Nimue",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 53,
+                "rating": {
+                    "average": 6.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663177.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663177.jpg"
+                },
+                "summary": "<p>Scorned as a witch, a young woman with powers leaves her village to start a new life — just as a ruthless army scours the countryside for her kind.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1887563"
+                    }
+                }
+            },
+            {
+                "id": 1891774,
+                "url": "https://www.tvmaze.com/episodes/1891774/cursed-1x02-cursed",
+                "name": "Cursed",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 48,
+                "rating": {
+                    "average": 6.9
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663178.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663178.jpg"
+                },
+                "summary": "<p>Shaken and alone, Nimue presses ahead on her quest, as flashbacks reveal a harrowing encounter years ago that changed the course of her life.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891774"
+                    }
+                }
+            },
+            {
+                "id": 1891775,
+                "url": "https://www.tvmaze.com/episodes/1891775/cursed-1x03-alone",
+                "name": "Alone",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 51,
+                "rating": {
+                    "average": 6.9
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663179.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663179.jpg"
+                },
+                "summary": "<p>Waking in an abbey, Nimue finds herself surrounded by strangers and forced to tend to Red Paladins. Arthur sets out on an adventure of his own.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891775"
+                    }
+                }
+            },
+            {
+                "id": 1891776,
+                "url": "https://www.tvmaze.com/episodes/1891776/cursed-1x04-the-red-lake",
+                "name": "The Red Lake",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 59,
+                "rating": {
+                    "average": 7.1
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663180.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663180.jpg"
+                },
+                "summary": "<p>On her way to Gramaire, Nimue learns of a thriving Fey resistance. Merlin butters up Lord Rugen. Iris grows suspicious of Morgana.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891776"
+                    }
+                }
+            },
+            {
+                "id": 1891777,
+                "url": "https://www.tvmaze.com/episodes/1891777/cursed-1x05-the-joining",
+                "name": "The Joining",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 58,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663181.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663181.jpg"
+                },
+                "summary": "<p>Morgana urges Nimue to use the sword for leverage, Father Carden faces a bitter humiliation, and Uther loses patience with Merlin.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891777"
+                    }
+                }
+            },
+            {
+                "id": 1891778,
+                "url": "https://www.tvmaze.com/episodes/1891778/cursed-1x06-festa-and-moreii",
+                "name": "Festa and Moreii",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 55,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663182.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663182.jpg"
+                },
+                "summary": "<p>In the ruins of a castle, Nimue and Merlin finally meet face to face, and more secrets from the past come screaming to the surface.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891778"
+                    }
+                }
+            },
+            {
+                "id": 1891779,
+                "url": "https://www.tvmaze.com/episodes/1891779/cursed-1x07-bring-us-in-good-ale",
+                "name": "Bring Us In Good Ale",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 55,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663183.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663183.jpg"
+                },
+                "summary": "<p>While Nimue, Morgana and Kaze seek refuge in an ancient web of tunnels, Arthur and Gawain fend off a siege led by the Weeping Monk.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891779"
+                    }
+                }
+            },
+            {
+                "id": 1891780,
+                "url": "https://www.tvmaze.com/episodes/1891780/cursed-1x08-the-fey-queen",
+                "name": "The Fey Queen",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 53,
+                "rating": {
+                    "average": 7.1
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663184.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663184.jpg"
+                },
+                "summary": "<p>With Red Paladins closing in on the Fey hideout, Nimue hatches a bold plan to buy time and secure an escape for her people.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891780"
+                    }
+                }
+            },
+            {
+                "id": 1891781,
+                "url": "https://www.tvmaze.com/episodes/1891781/cursed-1x09-poisons",
+                "name": "Poisons",
+                "season": 1,
+                "number": 9,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 55,
+                "rating": {
+                    "average": 7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663185.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663185.jpg"
+                },
+                "summary": "<p>Nimue weighs a fateful decision, Uther takes a defiant step, and Gawain discovers not all is what it seems within the Red Paladin camp.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891781"
+                    }
+                }
+            },
+            {
+                "id": 1891782,
+                "url": "https://www.tvmaze.com/episodes/1891782/cursed-1x10-the-sacrifice",
+                "name": "The Sacrifice",
+                "season": 1,
+                "number": 10,
+                "type": "regular",
+                "airdate": "2020-07-17",
+                "airtime": "",
+                "airstamp": "2020-07-17T12:00:00+00:00",
+                "runtime": 59,
+                "rating": {
+                    "average": 7.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/663186.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/663186.jpg"
+                },
+                "summary": "<p>With the future of the Fey hanging in the balance and enemies closing in from all sides, Nimue sets in motion the final pieces of her plan.</p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/1891782"
+                    }
+                }
+            }
+        ]
+    }
+}

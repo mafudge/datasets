@@ -1,0 +1,254 @@
+{
+    "id": 50053,
+    "url": "https://www.tvmaze.com/shows/50053/dad-stop-embarrassing-me",
+    "name": "Dad Stop Embarrassing Me!",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 26,
+    "premiered": "2021-04-14",
+    "ended": "2021-04-14",
+    "officialSite": "https://www.netflix.com/title/81026218",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 2.2
+    },
+    "weight": 47,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 388060,
+        "imdb": "tt13018090"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/300/750998.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/300/750998.jpg"
+    },
+    "summary": "<p><b>Dad Stop Embarrassing Me!</b> is a father-daugther comedy inspired by Jamie Foxx's relationship with his daughter.</p>",
+    "updated": 1634023883,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/50053"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2067391"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 2035241,
+                "url": "https://www.tvmaze.com/episodes/2035241/dad-stop-embarrassing-me-1x01-blackpeopledontgototherapy",
+                "name": "#BlackPeopleDontGoToTherapy",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 6.6
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769239.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769239.jpg"
+                },
+                "summary": "<p>After Sasha moves in with Brian, a mortifying misunderstanding with a therapist forces them to confront their issues with each other.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2035241"
+                    }
+                }
+            },
+            {
+                "id": 2067385,
+                "url": "https://www.tvmaze.com/episodes/2067385/dad-stop-embarrassing-me-1x02-godastamaste",
+                "name": "#Godastamaste",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 26,
+                "rating": {
+                    "average": 9.3
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769240.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769240.jpg"
+                },
+                "summary": "<p>When Sasha reveals she doesn't believe in God, the family takes her to a church service led by an extravagant reverend. Later, she confides in Stacy.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067385"
+                    }
+                }
+            },
+            {
+                "id": 2067386,
+                "url": "https://www.tvmaze.com/episodes/2067386/dad-stop-embarrassing-me-1x03-yeezysandshrimp",
+                "name": "#YeezysAndShrimp",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 25,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769241.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769241.jpg"
+                },
+                "summary": "<p>Waiting in line to cop exclusive kicks, Sasha struggles to keep it low-key when Brian shows up with a tent, grill and karaoke machine.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067386"
+                    }
+                }
+            },
+            {
+                "id": 2067387,
+                "url": "https://www.tvmaze.com/episodes/2067387/dad-stop-embarrassing-me-1x04-nipplesornuts",
+                "name": "#NipplesOrNuts",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 27,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769242.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769242.jpg"
+                },
+                "summary": "<p>Brian tracks Sasha on his phone and catches her in a lie. When he sees Brodie with other girls, he takes matters into his own hands.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067387"
+                    }
+                }
+            },
+            {
+                "id": 2067388,
+                "url": "https://www.tvmaze.com/episodes/2067388/dad-stop-embarrassing-me-1x05-themotherpucker",
+                "name": "#TheMotherPucker",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 23,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769243.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769243.jpg"
+                },
+                "summary": "<p>Sasha's social media video goes viral when a new BAY Cosmetics product causes an adverse reaction — and Brian becomes an Internet sensation himself.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067388"
+                    }
+                }
+            },
+            {
+                "id": 2067389,
+                "url": "https://www.tvmaze.com/episodes/2067389/dad-stop-embarrassing-me-1x06-thrillaonthegrilla",
+                "name": "#ThrillaOnTheGrilla",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 25,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769244.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769244.jpg"
+                },
+                "summary": "<p>At the family's annual Juneteenth cookout, Pops faces off against his siblings for a BBQ showdown. Sasha sneaks off to a block party with Brian's truck.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067389"
+                    }
+                }
+            },
+            {
+                "id": 2067390,
+                "url": "https://www.tvmaze.com/episodes/2067390/dad-stop-embarrassing-me-1x07-richdadwokedad",
+                "name": "#RichDadWokeDad",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 25,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769245.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769245.jpg"
+                },
+                "summary": "<p>Inspired by Floyd Mayweather's book, Brian switches up his parenting style. But when Sasha acts strangely, Brian looks to a drug test for answers.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067390"
+                    }
+                }
+            },
+            {
+                "id": 2067391,
+                "url": "https://www.tvmaze.com/episodes/2067391/dad-stop-embarrassing-me-1x08-maybeitsbaybelline",
+                "name": "#MaybeItsBAYBelline",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2021-04-14",
+                "airtime": "",
+                "airstamp": "2021-04-14T12:00:00+00:00",
+                "runtime": 28,
+                "rating": {
+                    "average": 10
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/307/769246.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/307/769246.jpg"
+                },
+                "summary": "<p>Brian receives an unexpected business offer. Pops tries online dating. After being racially profiled, Sasha and her friends are harassed by police.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2067391"
+                    }
+                }
+            }
+        ]
+    }
+}

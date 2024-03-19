@@ -1,0 +1,256 @@
+{
+    "id": 37778,
+    "url": "https://www.tvmaze.com/shows/37778/jupiters-legacy",
+    "name": "Jupiter's Legacy",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 45,
+    "premiered": "2021-05-07",
+    "ended": "2021-05-07",
+    "officialSite": "https://www.netflix.com/title/80244953",
+    "schedule": {
+        "time": "",
+        "days": []
+    },
+    "rating": {
+        "average": 7
+    },
+    "weight": 98,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 368388,
+        "imdb": "tt5774002"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/304/760223.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/304/760223.jpg"
+    },
+    "summary": "<p>After nearly a century of keeping mankind safe, the world's first generation of superheroes must look to their children to continue the legacy. But tensions rise as the young superheroes, hungry to prove their worth, struggle to live up to their parents' legendary public reputations — and exacting personal standards.</p>",
+    "updated": 1638633980,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/37778"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2038302"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 2037290,
+                "url": "https://www.tvmaze.com/episodes/2037290/jupiters-legacy-1x01-by-dawns-early-light",
+                "name": "By Dawn's Early Light",
+                "season": 1,
+                "number": 1,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 48,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785073.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785073.jpg"
+                },
+                "summary": "<p>Brandon's attempt to live up to his father's high expectations suffers a blow. Sheldon's carefree life as the boss's son comes crashing down in 1929.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2037290"
+                    }
+                }
+            },
+            {
+                "id": 2038296,
+                "url": "https://www.tvmaze.com/episodes/2038296/jupiters-legacy-1x02-paper-and-stone",
+                "name": "Paper and Stone",
+                "season": 1,
+                "number": 2,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 36,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785074.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785074.jpg"
+                },
+                "summary": "<p>Brandon and Chloe clash with their dad after the Blackstar incident. Sheldon confronts a reporter over an exposé on the family business.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038296"
+                    }
+                }
+            },
+            {
+                "id": 2038297,
+                "url": "https://www.tvmaze.com/episodes/2038297/jupiters-legacy-1x03-painting-the-clouds-with-sunshine",
+                "name": "Painting the Clouds with Sunshine",
+                "season": 1,
+                "number": 3,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 44,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785075.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785075.jpg"
+                },
+                "summary": "<p>Worried about Sheldon's uncharacteristic behavior, George pays him a visit. A foiled theft lands Hutch on the wrong side of a superpowered crime boss.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038297"
+                    }
+                }
+            },
+            {
+                "id": 2038298,
+                "url": "https://www.tvmaze.com/episodes/2038298/jupiters-legacy-1x04-all-the-devils-are-here",
+                "name": "All the Devils Are Here",
+                "season": 1,
+                "number": 4,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 49,
+                "rating": {
+                    "average": 7.7
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785076.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785076.jpg"
+                },
+                "summary": "<p>With her partying spiraling out of control, Chloe nears rock bottom. Sheldon encounters hardship in his search for answers to the visions haunting him.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038298"
+                    }
+                }
+            },
+            {
+                "id": 2038299,
+                "url": "https://www.tvmaze.com/episodes/2038299/jupiters-legacy-1x05-whats-the-use",
+                "name": "What's the Use?",
+                "season": 1,
+                "number": 5,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 48,
+                "rating": {
+                    "average": 7.8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785077.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785077.jpg"
+                },
+                "summary": "<p>Sheldon tries to assemble a dream team for his quest into the unknown. An autopsy unearths a puzzling object that connects to Chloe's new acquaintance.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038299"
+                    }
+                }
+            },
+            {
+                "id": 2038300,
+                "url": "https://www.tvmaze.com/episodes/2038300/jupiters-legacy-1x06-cover-her-face",
+                "name": "Cover Her Face",
+                "season": 1,
+                "number": 6,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 44,
+                "rating": {
+                    "average": 7.9
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785078.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785078.jpg"
+                },
+                "summary": "<p>Grace sees first-hand how the Code is affecting the younger superheroes. Tempers flare aboard the ship as Sheldon forges ahead with his expedition.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038300"
+                    }
+                }
+            },
+            {
+                "id": 2038301,
+                "url": "https://www.tvmaze.com/episodes/2038301/jupiters-legacy-1x07-omnes-pro-uno",
+                "name": "Omnes Pro Uno",
+                "season": 1,
+                "number": 7,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 57,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785079.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785079.jpg"
+                },
+                "summary": "<p>The perilous final leg of their journey pushes Sheldon's ragtag team to the brink. Walter reaches out to a questionable source to extract information.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038301"
+                    }
+                }
+            },
+            {
+                "id": 2038302,
+                "url": "https://www.tvmaze.com/episodes/2038302/jupiters-legacy-1x08-how-it-all-ends",
+                "name": "How It All Ends",
+                "season": 1,
+                "number": 8,
+                "type": "regular",
+                "airdate": "2021-05-07",
+                "airtime": "",
+                "airstamp": "2021-05-07T12:00:00+00:00",
+                "runtime": 35,
+                "rating": {
+                    "average": 8
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785080.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785080.jpg"
+                },
+                "summary": "<p>As Walter's situation grows dire, Sheldon and Brandon join forces in a do-or-die showdown with a supervillain. Hutch runs into trouble during a heist.</p><p><br /> </p>",
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/episodes/2038302"
+                    }
+                }
+            }
+        ]
+    }
+}
