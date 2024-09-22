@@ -1,0 +1,32 @@
+[
+    {
+        "dept": "accounting",
+        "employees": [
+            {
+                "firstName": "John",
+                "lastName": "Doe",
+                "age": 23
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Smith",
+                "age": 32
+            }
+        ]
+    },
+    {
+        "dept": "sales",
+        "employees": [
+            {
+                "firstName": "Sally",
+                "lastName": "Green",
+                "age": 27
+            },
+            {
+                "firstName": "Jim",
+                "lastName": "Galley",
+                "age": 41
+            }
+        ]
+    }
+]
