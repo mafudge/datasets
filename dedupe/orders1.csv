@@ -1,0 +1,11 @@
+orderid,orderdate,custname,custemail,custcountry,orderstatus,ordertotal,ordercreditcard,ordershipvia,shippingtotal
+2,2023-03-24,Frayda Pepperd,fpepperd0@sciencedaily.com,Canada,delivered,228.39,Discover,RPS,12.05
+4,2022-04-28,Carree Henworth,,Canada,pending,152.3,Discover,USPS,12.74
+5,2019-11-22,Goldina Godsafe,ggodsafe3@dailymail.co.uk,United States,shipped,182.17,Amex,UPS,5.44
+6,2022-05-03,Marris Chatten,mchatten4@csmonitor.com,Mexico,pending,208.28,Discover,RPS,2.16
+7,2022-12-19,Logan Jacobsson,ljacobsson5@wufoo.com,United States,delivered,112.15,Amex,USPS,11.52
+10,2023-04-19,Libbi Spadari,lspadari8@dot.gov,Mexico,pending,160.79,Discover,RPS,16.52
+11,2020-01-20,Renato Hue,rhue9@un.org,Canada,delivered,120.52,Visa,USPS,5.57
+12,2022-03-03,Lucky Helstrip,lhelstripa@tmall.com,Mexico,delivered,202.07,Amex,UPS,18.57
+13,2021-09-04,Debi Myrie,dmyrieb@unc.edu,United States,delivered,131.62,Amex,UPS,2.37
+15,2019-01-11,Crin Blanket,cblanketd@newsvine.com,United States,delivered,85.46,Visa,UPS,14.22
