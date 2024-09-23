@@ -1,5 +1,4 @@
 poll_num,student_id,answer
-1,ac,A
 1,ba,A
 1,cp,A
 1,ed,A
@@ -17,7 +16,6 @@ poll_num,student_id,answer
 2,gf,C
 2,jh,A
 2,ku,B
-2,lh,D
 3,ac,D
 3,ba,D
 3,cp,D
